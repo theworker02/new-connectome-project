@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Insectome mark">
+  <rect width="128" height="128" rx="28" fill="#060a08"/>
+  <g transform="translate(14,14)" fill="none" stroke="#2fbfa4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="50" cy="50" r="13" fill="#0d1512"/>
+    <path d="M50 18 C38 6 16 12 12 30"/>
+    <path d="M50 18 C62 4 86 14 88 32"/>
+    <path d="M18 56 C4 68 8 96 26 102"/>
+    <path d="M82 56 C98 70 96 98 76 104"/>
+    <path d="M38 76 C26 98 34 118 52 122"/>
+    <path d="M62 76 C76 98 70 118 50 124"/>
+    <circle cx="12" cy="30" r="4.5" fill="#2fbfa4" stroke="none"/>
+    <circle cx="88" cy="32" r="4.5" fill="#2fbfa4" stroke="none"/>
+    <circle cx="26" cy="102" r="4.5" fill="#e0b45a" stroke="none"/>
+    <circle cx="76" cy="104" r="4.5" fill="#e0b45a" stroke="none"/>
+    <circle cx="50" cy="122" r="4.5" fill="#5ec8ff" stroke="none"/>
+  </g>
+</svg>

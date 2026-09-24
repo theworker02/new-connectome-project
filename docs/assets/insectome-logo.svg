@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" role="img" aria-label="Insectome">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2fbfa4"/>
+      <stop offset="100%" stop-color="#1a6f5f"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e7efe9"/>
+      <stop offset="100%" stop-color="#a8c4b6"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="160" rx="18" fill="#060a08"/>
+  <rect x="1" y="1" width="638" height="158" rx="17" fill="none" stroke="#24352e" stroke-width="2"/>
+  <!-- neuron mark -->
+  <g transform="translate(36,28)" fill="none" stroke="url(#g)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="52" cy="52" r="14" fill="#0d1512" stroke="#2fbfa4"/>
+    <path d="M52 20 C40 8 18 14 14 32"/>
+    <path d="M52 20 C64 6 88 16 90 34"/>
+    <path d="M20 58 C6 70 10 98 28 104"/>
+    <path d="M84 58 C100 72 98 100 78 106"/>
+    <path d="M40 78 C28 100 36 124 54 128"/>
+    <path d="M64 78 C78 102 72 124 52 130"/>
+    <circle cx="14" cy="32" r="4" fill="#2fbfa4" stroke="none"/>
+    <circle cx="90" cy="34" r="4" fill="#2fbfa4" stroke="none"/>
+    <circle cx="28" cy="104" r="4" fill="#e0b45a" stroke="none"/>
+    <circle cx="78" cy="106" r="4" fill="#e0b45a" stroke="none"/>
+    <circle cx="52" cy="128" r="4" fill="#5ec8ff" stroke="none"/>
+  </g>
+  <text x="160" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700" fill="url(#ink)">Insectome</text>
+  <text x="164" y="112" font-family="'IBM Plex Mono', Consolas, monospace" font-size="15" letter-spacing="2.5" fill="#7f9589">MULTI-SPECIES CONNECTOME STUDIO</text>
+</svg>
