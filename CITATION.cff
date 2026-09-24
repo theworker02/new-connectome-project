@@ -1,5 +1,3 @@
-# YAML 1.2
----
 cff-version: 1.2.0
 title: "Bug Connectome Project (Insectome)"
 message: >-
@@ -8,13 +6,10 @@ message: >-
   actually analyzed (hemibrain, MANC, optic lobe, CREMI, IBdb, etc.).
 type: software
 authors:
-  - family-names: Insectome contributors
-    website: "https://github.com/theworker02"
-  - name: "theworker02"
-    website: "https://github.com/theworker02"
+  - name: "Bug Connectome Project contributors"
+    website: "https://github.com/theworker02/bug-connectome-project"
 repository-code: "https://github.com/theworker02/new-connectome-project"
 url: "https://theworker02.github.io/new-connectome-project/"
-repository-artifact: "https://github.com/theworker02/bug-connectome-project"
 abstract: >-
   Bug Connectome Project (product name: Insectome) is a local multi-species
   insect connectome studio. It federates provenance-tracked packs from public
@@ -30,21 +25,22 @@ keywords:
   - synaptic graph
   - provenance
   - streaming EM
+  - Bug Connectome
 license: MIT
 version: "0.4.0"
 date-released: "2026-09-24"
 identifiers:
   - type: url
-    value: "https://github.com/theworker02/new-connectome-project"
-    description: Primary implementation repository
-  - type: url
     value: "https://github.com/theworker02/bug-connectome-project"
-    description: Bug Connectome Project public project identity
+    description: Bug Connectome Project identity
+  - type: url
+    value: "https://github.com/theworker02/new-connectome-project"
+    description: Insectome implementation repository
 preferred-citation:
   type: software
-  title: "Bug Connectome Project (Insectome)"
   authors:
-    - family-names: Insectome contributors
+    - name: "Bug Connectome Project contributors"
+  title: "Bug Connectome Project (Insectome)"
   version: "0.4.0"
   year: 2026
   url: "https://github.com/theworker02/new-connectome-project"

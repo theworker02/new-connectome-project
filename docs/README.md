@@ -1,11 +1,14 @@
-# Insectome documentation
+# Bug Connectome / Insectome documentation
 
-Long-form docs for the multi-species connectome studio. Start with the root [README](../README.md) for install, acquisition, and pack inventory.
+Long-form docs for **Bug Connectome Project** (studio product: **Insectome**).  
+Start with [acquisition.md](../acquisition.md) or the root [README](../README.md).
 
 ## Guides
 
 | Doc | Topic |
 |---|---|
+| [../acquisition.md](../acquisition.md) | Clone → install → first browse |
+| [../CITATION.cff](../CITATION.cff) | Software citation metadata |
 | [ATLAS.md](ATLAS.md) | Running the atlas / studio, deep links, coverage honesty |
 | [CONNECTOME_API.md](CONNECTOME_API.md) | HTTP API |
 | [DATA_MODEL.md](DATA_MODEL.md) | Nodes, edges, graph layers, manifests |
@@ -22,8 +25,8 @@ Long-form docs for the multi-species connectome studio. Start with the root [REA
 
 | File | Use |
 |---|---|
-| [assets/insectome-logo.svg](assets/insectome-logo.svg) | Full wordmark (README header) |
-| [assets/insectome-mark.svg](assets/insectome-mark.svg) | Icon / favicon-style mark |
+| [assets/insectome-logo.svg](assets/insectome-logo.svg) | Bug Connectome wordmark |
+| [assets/insectome-mark.svg](assets/insectome-mark.svg) | Minimal lattice mark |
 
 ## Generated reports
 
