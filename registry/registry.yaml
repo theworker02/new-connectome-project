@@ -1,0 +1,484 @@
+# Verified public insect / arthropod EM & connectomics datasets
+# Fields use null when not verified. Do not invent metadata.
+# Last audited: 2026-09-22
+
+version: 1
+audit_date: "2026-09-22"
+notes: >
+  Registry seeded from direct repository inspection (BossDB project pages,
+  CREMI data page, Janelia FlyEM source-data page, Heinze et al. preprint,
+  Insect Brain Database / Sayre et al. bumblebee projectome). Access status
+  reflects downloadability of RAW EM for independent reconstruction.
+
+datasets:
+
+  - dataset_id: hemibrain_neuprint
+    species: Drosophila melanogaster
+    taxonomic_order: Diptera
+    common_name: fruit fly
+    specimen_id: hemibrain
+    sex: female
+    developmental_stage: adult
+    anatomical_region: central brain (hemibrain)
+    imaging_method: FIB-SEM
+    voxel_size_nm: [8.0, 8.0, 8.0]
+    volume_dimensions: UNKNOWN
+    estimated_volume: "~26 TB raw EM (published estimate); connectome via neuPrint"
+    source_repository: neuPrint / Janelia FlyEM
+    source_URL_or_identifier: "https://neuprint.janelia.org (dataset hemibrain:v1.2.1)"
+    publication: "Scheffer et al. eLife 2020 e57443"
+    DOI: "10.7554/eLife.57443"
+    license: UNKNOWN
+    access_status: PUBLIC_API
+    raw_data_available: true
+    segmentation_available: true
+    synapse_annotations_available: true
+    skeletons_available: true
+    cell_annotations_available: true
+    download_method: neuprint_api
+    estimated_download_size: "graph pack MB–low-GB; do NOT download full EM"
+    checksum_information: null
+    connectomics_suitability: CONNECTOME_READY
+    processability_rank: 0
+    notes: >
+      LEVEL 0 reuse. Query neuPrint for neurons/connectivity. Raw EM remains remote
+      (Neuroglancer/GCS). Requires NEUPRINT_APPLICATION_CREDENTIALS.
+
+  - dataset_id: flywire_codex
+    species: Drosophila melanogaster
+    taxonomic_order: Diptera
+    common_name: fruit fly
+    specimen_id: FAFB / FlyWire
+    sex: female
+    developmental_stage: adult
+    anatomical_region: whole brain (FlyWire)
+    imaging_method: ssTEM
+    voxel_size_nm: UNKNOWN
+    volume_dimensions: UNKNOWN
+    estimated_volume: "multi-TB remote EM; connectome via Codex/CAVE"
+    source_repository: FlyWire / Codex / CAVE
+    source_URL_or_identifier: "https://codex.flywire.ai / CAVE"
+    publication: "Dorkenwald et al. FlyWire"
+    DOI: null
+    license: UNKNOWN
+    access_status: PUBLIC_API
+    raw_data_available: true
+    segmentation_available: true
+    synapse_annotations_available: true
+    skeletons_available: true
+    cell_annotations_available: true
+    download_method: cave_codex_api
+    estimated_download_size: "graph pack only by default"
+    checksum_information: null
+    connectomics_suitability: CONNECTOME_READY
+    processability_rank: 0
+    notes: >
+      LEVEL 0 reuse target. Do not download complete FAFB EM. Adapter pending auth path.
+
+  - dataset_id: cremi_sample_a
+    species: Drosophila melanogaster
+    taxonomic_order: Diptera
+    common_name: fruit fly
+    specimen_id: CREMI-A
+    sex: null
+    developmental_stage: adult
+    anatomical_region: brain (ssTEM subvolume; CREMI challenge sample A)
+    imaging_method: ssTEM
+    voxel_size_nm: [40.0, 4.0, 4.0]  # z, y, x
+    volume_dimensions: [125, 1250, 1250]  # z, y, x voxels
+    estimated_volume: "~5 um cubed labeled region"
+    source_repository: CREMI / HuggingFace mirror MedOtter/CREMI
+    source_URL_or_identifier: "https://cremi.org/data/; hf://datasets/MedOtter/CREMI/train/sample_A.hdf"
+    publication: "CREMI challenge; underlying FAFB imaging Zheng et al. 2018"
+    DOI: null
+    license: "CC-BY-NC 4.0 (FAFB / CREMI redistribution terms)"
+    access_status: PUBLIC_DOWNLOAD
+    raw_data_available: true
+    segmentation_available: true
+    synapse_annotations_available: true
+    skeletons_available: false
+    cell_annotations_available: false
+    download_method: huggingface_hub|http
+    estimated_download_size: "~175 MB cropped"
+    checksum_information: null
+    connectomics_suitability: CONNECTOME_READY
+    processability_rank: 1
+    notes: >
+      Best Phase-B validation volume: raw EM + neuron IDs + clefts +
+      pre/post partner annotations in one HDF5. Regional ROI only —
+      NOT a whole-brain connectome.
+
+  - dataset_id: cremi_sample_b
+    species: Drosophila melanogaster
+    taxonomic_order: Diptera
+    common_name: fruit fly
+    specimen_id: CREMI-B
+    sex: null
+    developmental_stage: adult
+    anatomical_region: brain (ssTEM subvolume; CREMI sample B)
+    imaging_method: ssTEM
+    voxel_size_nm: [40.0, 4.0, 4.0]
+    volume_dimensions: [125, 1250, 1250]
+    estimated_volume: "~5 um cubed labeled region"
+    source_repository: CREMI / HuggingFace mirror MedOtter/CREMI
+    source_URL_or_identifier: "https://cremi.org/data/; hf://datasets/MedOtter/CREMI/train/sample_B.hdf"
+    publication: "CREMI challenge; FAFB imaging Zheng et al. 2018"
+    DOI: null
+    license: "CC-BY-NC 4.0 (FAFB / CREMI redistribution terms)"
+    access_status: PUBLIC_DOWNLOAD
+    raw_data_available: true
+    segmentation_available: true
+    synapse_annotations_available: true
+    skeletons_available: false
+    cell_annotations_available: false
+    download_method: huggingface_hub|http
+    estimated_download_size: "~167 MB cropped"
+    checksum_information: null
+    connectomics_suitability: CONNECTOME_READY
+    processability_rank: 2
+    notes: Hold-out / generalization validation after Sample A.
+
+  - dataset_id: cremi_sample_c
+    species: Drosophila melanogaster
+    taxonomic_order: Diptera
+    common_name: fruit fly
+    specimen_id: CREMI-C
+    sex: null
+    developmental_stage: adult
+    anatomical_region: brain (ssTEM subvolume; CREMI sample C)
+    imaging_method: ssTEM
+    voxel_size_nm: [40.0, 4.0, 4.0]
+    volume_dimensions: [125, 1250, 1250]
+    estimated_volume: "~5 um cubed labeled region"
+    source_repository: CREMI / HuggingFace mirror MedOtter/CREMI
+    source_URL_or_identifier: "https://cremi.org/data/; hf://datasets/MedOtter/CREMI/train/sample_C.hdf"
+    publication: "CREMI challenge; FAFB imaging Zheng et al. 2018"
+    DOI: null
+    license: "CC-BY-NC 4.0 (FAFB / CREMI redistribution terms)"
+    access_status: PUBLIC_DOWNLOAD
+    raw_data_available: true
+    segmentation_available: true
+    synapse_annotations_available: true
+    skeletons_available: false
+    cell_annotations_available: false
+    download_method: huggingface_hub|http
+    estimated_download_size: "~173 MB cropped"
+    checksum_information: null
+    connectomics_suitability: CONNECTOME_READY
+    processability_rank: 3
+    notes: Third CREMI training volume.
+
+  - dataset_id: aedes_antennal_lobe_bao2025
+    species: Aedes aegypti
+    taxonomic_order: Diptera
+    common_name: yellow fever mosquito
+    specimen_id: UNKNOWN
+    sex: female
+    developmental_stage: adult
+    anatomical_region: posterior antennal lobe (maxillary palp glomeruli region)
+    imaging_method: ssTEM (GridTape)
+    voxel_size_nm: [40.0, 4.0, 4.0]  # z, y, x per BossDB project page
+    volume_dimensions: [1747, 112640, 176128]  # z, y, x voxels (z frame 3000:4747)
+    estimated_volume: "~705 x 451 x 70 um"
+    source_repository: BossDB
+    source_URL_or_identifier: "bossdb://bao_alford2025/aedes/em_rechunked"
+    publication: "Bao, Alford et al. PLOS Biology / bioRxiv 2025"
+    DOI: "10.60533/boss-2025-gcyr"
+    license: "CC-BY 4.0"
+    access_status: PUBLIC_STREAM
+    raw_data_available: true
+    segmentation_available: UNKNOWN
+    synapse_annotations_available: UNKNOWN
+    skeletons_available: UNKNOWN
+    cell_annotations_available: UNKNOWN
+    download_method: intern_bossdb_cutout
+    estimated_download_size: "full volume >> local workstation; ROI streaming required"
+    checksum_information: null
+    connectomics_suitability: CONNECTOME_READY
+    processability_rank: 4
+    notes: >
+      Best verified NON-Drosophila raw EM currently streamable. CO2 glomerulus
+      circuitry already published — use for pipeline transfer / ROI exploration,
+      not as a claim of first reconstruction of that circuit. Full volume too
+      large for naive download; LOCAL MODE = cutouts only.
+
+  - dataset_id: flyem_medulla_training2_gt
+    species: Drosophila melanogaster
+    taxonomic_order: Diptera
+    common_name: fruit fly
+    specimen_id: UNKNOWN
+    sex: null
+    developmental_stage: adult
+    anatomical_region: optic lobe medulla
+    imaging_method: FIB-SEM
+    voxel_size_nm: UNKNOWN
+    volume_dimensions: [250, 250, 250]
+    estimated_volume: "250^3 voxels"
+    source_repository: Janelia FlyEM / figshare link-only to emdata.janelia.org
+    source_URL_or_identifier: "https://doi.org/10.25378/janelia.5519755; neuroproof_examples training_sample2"
+    publication: "FlyEM medulla GT volumes; Takemura et al. related works"
+    DOI: "10.25378/janelia.5519755"
+    license: "CC BY-NC 4.0 (figshare record)"
+    access_status: LINK_ONLY_OR_LEGACY
+    raw_data_available: true
+    segmentation_available: true
+    synapse_annotations_available: UNKNOWN
+    skeletons_available: false
+    cell_annotations_available: false
+    download_method: UNKNOWN
+    estimated_download_size: UNKNOWN
+    checksum_information: null
+    connectomics_suitability: TRAINING_DATA_ONLY
+    processability_rank: 8
+    notes: >
+      Ideal tiny GT cube historically; figshare entry is link-only to
+      emdata.janelia.org (not a direct HDF download as of audit). Prefer CREMI
+      until a stable direct mirror is verified.
+
+  - dataset_id: bombus_cx_projectome_sayre2021
+    species: Bombus terrestris
+    taxonomic_order: Hymenoptera
+    common_name: bumblebee
+    specimen_id: UNKNOWN
+    sex: null
+    developmental_stage: adult
+    anatomical_region: central complex
+    imaging_method: SBEM
+    voxel_size_nm: UNKNOWN
+    volume_dimensions: UNKNOWN
+    estimated_volume: UNKNOWN
+    source_repository: Insect Brain Database
+    source_URL_or_identifier: "https://www.insectbraindb.org/ (EIN-0000061.1 / EIN-0000062.1)"
+    publication: "Sayre et al. eLife 2021 e68911"
+    DOI: "10.7554/eLife.68911"
+    license: UNKNOWN
+    access_status: PUBLIC_VIEW_SKELETONS
+    raw_data_available: false
+    segmentation_available: false
+    synapse_annotations_available: false
+    skeletons_available: true
+    cell_annotations_available: true
+    download_method: insect_brain_database
+    estimated_download_size: UNKNOWN
+    checksum_information: null
+    connectomics_suitability: MORPHOLOGY_ONLY
+    processability_rank: 20
+    notes: >
+      Public projectome skeletons (~1300 neurons), not downloadable synaptic-resolution
+      raw EM for independent connectome reconstruction. Useful as comparative morphology
+      reference only.
+
+  - dataset_id: heinze_cx_earwig_2026
+    species: Forficula auricularia
+    taxonomic_order: Dermaptera
+    common_name: European earwig
+    specimen_id: UNKNOWN
+    sex: null
+    developmental_stage: UNKNOWN
+    anatomical_region: central complex (multi-resolution overview + synaptic tiles)
+    imaging_method: SBEM
+    voxel_size_nm: "overview 40-50 nm; synaptic tiles 8-12 nm (paper)"
+    volume_dimensions: UNKNOWN
+    estimated_volume: "~1 TB multi-res (Table 1 preprint)"
+    source_repository: UNKNOWN — not found in EMPIAR/BossDB/Zenodo as of audit
+    source_URL_or_identifier: "https://doi.org/10.64898/2026.02.25.708065"
+    publication: "Gillet / Sayre / Heinze et al. multi-resolution comparative CX pipeline"
+    DOI: "10.64898/2026.02.25.708065"
+    license: UNKNOWN
+    access_status: INACCESSIBLE
+    raw_data_available: false
+    segmentation_available: false
+    synapse_annotations_available: false
+    skeletons_available: false
+    cell_annotations_available: false
+    download_method: null
+    estimated_download_size: "~1 TB if released"
+    checksum_information: null
+    connectomics_suitability: INACCESSIBLE
+    processability_rank: 100
+    notes: >
+      Scientifically highest-priority non-fly CX target IF raw volumes are released.
+      Preprint publishes CODE (Heinze-lab GitHub) but no verified public raw EM accession.
+      Smallest of the six species by reported data volume.
+
+  - dataset_id: heinze_cx_sweat_bee_2026
+    species: Megalopta genalis
+    taxonomic_order: Hymenoptera
+    common_name: tropical sweat bee
+    specimen_id: UNKNOWN
+    sex: null
+    developmental_stage: UNKNOWN
+    anatomical_region: central complex
+    imaging_method: SBEM
+    voxel_size_nm: "overview 40-50 nm; synaptic tiles 8-12 nm (paper)"
+    volume_dimensions: UNKNOWN
+    estimated_volume: UNKNOWN
+    source_repository: UNKNOWN
+    source_URL_or_identifier: "https://doi.org/10.64898/2026.02.25.708065"
+    publication: "Gillet / Sayre / Heinze et al. 2026 preprint"
+    DOI: "10.64898/2026.02.25.708065"
+    license: UNKNOWN
+    access_status: INACCESSIBLE
+    raw_data_available: false
+    segmentation_available: false
+    synapse_annotations_available: false
+    skeletons_available: false
+    cell_annotations_available: false
+    download_method: null
+    estimated_download_size: UNKNOWN
+    checksum_information: null
+    connectomics_suitability: INACCESSIBLE
+    processability_rank: 101
+    notes: Same preprint series; raw EM not publicly verified.
+
+  - dataset_id: heinze_cx_army_ant_2026
+    species: Eciton hamatum
+    taxonomic_order: Hymenoptera
+    common_name: army ant
+    specimen_id: UNKNOWN
+    sex: null
+    developmental_stage: UNKNOWN
+    anatomical_region: central complex
+    imaging_method: SBEM
+    voxel_size_nm: "overview 40-50 nm; synaptic tiles 8-12 nm (paper)"
+    volume_dimensions: UNKNOWN
+    estimated_volume: UNKNOWN
+    source_repository: UNKNOWN
+    source_URL_or_identifier: "https://doi.org/10.64898/2026.02.25.708065"
+    publication: "Gillet / Sayre / Heinze et al. 2026 preprint"
+    DOI: "10.64898/2026.02.25.708065"
+    license: UNKNOWN
+    access_status: INACCESSIBLE
+    raw_data_available: false
+    segmentation_available: false
+    synapse_annotations_available: false
+    skeletons_available: false
+    cell_annotations_available: false
+    download_method: null
+    estimated_download_size: UNKNOWN
+    checksum_information: null
+    connectomics_suitability: INACCESSIBLE
+    processability_rank: 102
+    notes: Same preprint series; raw EM not publicly verified.
+
+  - dataset_id: heinze_cx_locust_2026
+    species: Schistocerca gregaria
+    taxonomic_order: Orthoptera
+    common_name: desert locust
+    specimen_id: UNKNOWN
+    sex: null
+    developmental_stage: UNKNOWN
+    anatomical_region: central complex
+    imaging_method: SBEM
+    voxel_size_nm: "overview 40-50 nm; synaptic tiles 8-12 nm (paper)"
+    volume_dimensions: UNKNOWN
+    estimated_volume: "~6.8 TB multi-res (Table 1 preprint)"
+    source_repository: UNKNOWN
+    source_URL_or_identifier: "https://doi.org/10.64898/2026.02.25.708065"
+    publication: "Gillet / Sayre / Heinze et al. 2026 preprint"
+    DOI: "10.64898/2026.02.25.708065"
+    license: UNKNOWN
+    access_status: INACCESSIBLE
+    raw_data_available: false
+    segmentation_available: false
+    synapse_annotations_available: false
+    skeletons_available: false
+    cell_annotations_available: false
+    download_method: null
+    estimated_download_size: "~6.8 TB if released"
+    checksum_information: null
+    connectomics_suitability: INACCESSIBLE
+    processability_rank: 103
+    notes: Largest reported volume among six; inaccessible for download.
+
+  - dataset_id: heinze_cx_mantis_2026
+    species: Sphodromantis lineola
+    taxonomic_order: Mantodea
+    common_name: African praying mantis
+    specimen_id: UNKNOWN
+    sex: null
+    developmental_stage: UNKNOWN
+    anatomical_region: central complex
+    imaging_method: SBEM
+    voxel_size_nm: "overview 40-50 nm; synaptic tiles 8-12 nm (paper)"
+    volume_dimensions: UNKNOWN
+    estimated_volume: "~2.8 TB multi-res (Table 1 preprint)"
+    source_repository: UNKNOWN
+    source_URL_or_identifier: "https://doi.org/10.64898/2026.02.25.708065"
+    publication: "Gillet / Sayre / Heinze et al. 2026 preprint"
+    DOI: "10.64898/2026.02.25.708065"
+    license: UNKNOWN
+    access_status: INACCESSIBLE
+    raw_data_available: false
+    segmentation_available: false
+    synapse_annotations_available: false
+    skeletons_available: false
+    cell_annotations_available: false
+    download_method: null
+    estimated_download_size: "~2.8 TB if released"
+    checksum_information: null
+    connectomics_suitability: INACCESSIBLE
+    processability_rank: 104
+    notes: Same preprint series; raw EM not publicly verified.
+
+  - dataset_id: heinze_cx_cockroach_2026
+    species: Rhyparobia maderae
+    taxonomic_order: Blattodea
+    common_name: Madeira cockroach
+    specimen_id: UNKNOWN
+    sex: null
+    developmental_stage: UNKNOWN
+    anatomical_region: central complex
+    imaging_method: SBEM
+    voxel_size_nm: "overview 40-50 nm; synaptic tiles 8-12 nm (paper)"
+    volume_dimensions: UNKNOWN
+    estimated_volume: UNKNOWN
+    source_repository: UNKNOWN
+    source_URL_or_identifier: "https://doi.org/10.64898/2026.02.25.708065"
+    publication: "Gillet / Sayre / Heinze et al. 2026 preprint"
+    DOI: "10.64898/2026.02.25.708065"
+    license: UNKNOWN
+    access_status: INACCESSIBLE
+    raw_data_available: false
+    segmentation_available: false
+    synapse_annotations_available: false
+    skeletons_available: false
+    cell_annotations_available: false
+    download_method: null
+    estimated_download_size: UNKNOWN
+    checksum_information: null
+    connectomics_suitability: INACCESSIBLE
+    processability_rank: 105
+    notes: Same preprint series; raw EM not publicly verified.
+
+  - dataset_id: banc_drosophila_2025
+    species: Drosophila melanogaster
+    taxonomic_order: Diptera
+    common_name: fruit fly
+    specimen_id: UNKNOWN
+    sex: female
+    developmental_stage: adult
+    anatomical_region: brain and nerve cord (BANC)
+    imaging_method: ssTEM (GridTape)
+    voxel_size_nm: UNKNOWN
+    volume_dimensions: UNKNOWN
+    estimated_volume: UNKNOWN
+    source_repository: BossDB
+    source_URL_or_identifier: "https://bossdb.org/projects (Bates, Phelps, Kim, Yang et al. 2025)"
+    publication: "BANC adult Drosophila brain-and-nerve-cord connectome"
+    DOI: null
+    license: UNKNOWN
+    access_status: PUBLIC_STREAM
+    raw_data_available: true
+    segmentation_available: UNKNOWN
+    synapse_annotations_available: UNKNOWN
+    skeletons_available: UNKNOWN
+    cell_annotations_available: UNKNOWN
+    download_method: intern_bossdb_cutout
+    estimated_download_size: "full CNS — archive/cluster scale"
+    checksum_information: null
+    connectomics_suitability: CONNECTOME_READY
+    processability_rank: 15
+    notes: >
+      Existing full connectome effort. Use as benchmark / comparative reference,
+      not as a target to re-reconstruct wholesale (per project rule §28).

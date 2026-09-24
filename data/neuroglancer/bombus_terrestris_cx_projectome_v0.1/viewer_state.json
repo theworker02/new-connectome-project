@@ -1,0 +1,94 @@
+{
+  "connectome_id": "bombus_terrestris_cx_projectome_v0.1",
+  "title": "Insectome \u2014 bombus_terrestris_cx_projectome_v0.1",
+  "dimensions": {
+    "x": [
+      8e-09,
+      "m"
+    ],
+    "y": [
+      8e-09,
+      "m"
+    ],
+    "z": [
+      8e-09,
+      "m"
+    ]
+  },
+  "position": [
+    278148.0853210269,
+    271875.0749216445,
+    158200.10914956575
+  ],
+  "layers": [
+    {
+      "type": "segmentation",
+      "name": "neurons",
+      "source": "insectome://skeletons/bombus_terrestris_cx_projectome_v0.1",
+      "segments": [
+        "6849",
+        "6854",
+        "6839",
+        "6844",
+        "6868",
+        "6873",
+        "6878",
+        "6883",
+        "6783",
+        "6788",
+        "6773",
+        "6778",
+        "6822",
+        "6817",
+        "6827",
+        "8454",
+        "6730",
+        "6725",
+        "6720",
+        "6715",
+        "6749",
+        "6744",
+        "6759",
+        "6754",
+        "6663",
+        "6673",
+        "6668",
+        "6685",
+        "6690",
+        "6700",
+        "6695",
+        "6907",
+        "6902",
+        "6897",
+        "7108",
+        "7103",
+        "7093",
+        "7098",
+        "7137",
+        "7132",
+        "7122",
+        "7127",
+        "7035",
+        "7045",
+        "7050",
+        "7040",
+        "7064",
+        "7069",
+        "7079",
+        "7074"
+      ]
+    }
+  ],
+  "layout": "4panel",
+  "notes": "Skeleton/annotation export for Neuroglancer-compatible hosting. Raw EM precomputed volumes are not included (remote-only policy).",
+  "manifest_coverage": {
+    "region": "central complex",
+    "claim": "MORPHOLOGY_ONLY / CENTRAL-COMPLEX PROJECTOME",
+    "labels": [
+      "MORPHOLOGY_ONLY",
+      "PARTIAL_RECONSTRUCTION"
+    ],
+    "notes": "No public synaptic edges"
+  },
+  "how_to_host": "Serve data/neuroglancer/<id> over HTTP and open the JSON skeletons in the Insectome atlas, or convert to sharded precomputed with cloudvolume/tensorstore when EM access exists."
+}

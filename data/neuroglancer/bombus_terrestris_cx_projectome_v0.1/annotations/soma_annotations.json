@@ -1,0 +1,8816 @@
+[
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6849",
+    "type": "point",
+    "point": [
+      367077.59375,
+      310276.3125,
+      116668.3984375
+    ],
+    "props": {
+      "source_id": 6849,
+      "label": "EPG_LW_L8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6854",
+    "type": "point",
+    "point": [
+      448840.0,
+      336251.8125,
+      126921.203125
+    ],
+    "props": {
+      "source_id": 6854,
+      "label": "EPG_LW_L8_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6839",
+    "type": "point",
+    "point": [
+      354690.1875,
+      303942.40625,
+      101837.6015625
+    ],
+    "props": {
+      "source_id": 6839,
+      "label": "EPG_LW_L8_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6844",
+    "type": "point",
+    "point": [
+      351752.0,
+      311948.09375,
+      98248.8984375
+    ],
+    "props": {
+      "source_id": 6844,
+      "label": "EPG_LW_L8_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6868",
+    "type": "point",
+    "point": [
+      505876.90625,
+      416222.6875,
+      106088.796875
+    ],
+    "props": {
+      "source_id": 6868,
+      "label": "EPG_LW_L9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6873",
+    "type": "point",
+    "point": [
+      505848.3125,
+      420835.90625,
+      104940.1015625
+    ],
+    "props": {
+      "source_id": 6873,
+      "label": "EPG_LW_L9_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6878",
+    "type": "point",
+    "point": [
+      399524.09375,
+      329682.6875,
+      120149.1015625
+    ],
+    "props": {
+      "source_id": 6878,
+      "label": "EPG_LW_L9_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6883",
+    "type": "point",
+    "point": [
+      468350.90625,
+      367004.6875,
+      116087.296875
+    ],
+    "props": {
+      "source_id": 6883,
+      "label": "EPG_LW_L9_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6783",
+    "type": "point",
+    "point": [
+      473878.40625,
+      261586.796875,
+      159152.296875
+    ],
+    "props": {
+      "source_id": 6783,
+      "label": "EPG_LX_L6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6788",
+    "type": "point",
+    "point": [
+      474813.1875,
+      252046.5,
+      162202.09375
+    ],
+    "props": {
+      "source_id": 6788,
+      "label": "EPG_LX_L6_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6773",
+    "type": "point",
+    "point": [
+      292786.8125,
+      274735.09375,
+      92503.6015625
+    ],
+    "props": {
+      "source_id": 6773,
+      "label": "EPG_LX_L6_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6778",
+    "type": "point",
+    "point": [
+      307398.0,
+      265447.8125,
+      114993.1015625
+    ],
+    "props": {
+      "source_id": 6778,
+      "label": "EPG_LX_L6_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6822",
+    "type": "point",
+    "point": [
+      475058.5,
+      263990.1875,
+      139136.59375
+    ],
+    "props": {
+      "source_id": 6822,
+      "label": "EPG_LX_L7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6817",
+    "type": "point",
+    "point": [
+      493508.59375,
+      271087.40625,
+      161647.796875
+    ],
+    "props": {
+      "source_id": 6817,
+      "label": "EPG_LX_L7_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6827",
+    "type": "point",
+    "point": [
+      505539.0,
+      252677.5,
+      166922.90625
+    ],
+    "props": {
+      "source_id": 6827,
+      "label": "EPG_LX_L7_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8454",
+    "type": "point",
+    "point": [
+      331580.8125,
+      295356.0,
+      101103.8984375
+    ],
+    "props": {
+      "source_id": 8454,
+      "label": "EPG_LX_L7_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6730",
+    "type": "point",
+    "point": [
+      394828.5,
+      250012.0,
+      173017.59375
+    ],
+    "props": {
+      "source_id": 6730,
+      "label": "EPG_LY_L4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6725",
+    "type": "point",
+    "point": [
+      419877.8125,
+      228344.0,
+      197221.59375
+    ],
+    "props": {
+      "source_id": 6725,
+      "label": "EPG_LY_L4_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6720",
+    "type": "point",
+    "point": [
+      242469.90625,
+      273484.1875,
+      123203.1015625
+    ],
+    "props": {
+      "source_id": 6720,
+      "label": "EPG_LY_L4_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6715",
+    "type": "point",
+    "point": [
+      239036.296875,
+      282324.3125,
+      116803.296875
+    ],
+    "props": {
+      "source_id": 6715,
+      "label": "EPG_LY_L4_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6749",
+    "type": "point",
+    "point": [
+      454944.40625,
+      262497.90625,
+      181853.59375
+    ],
+    "props": {
+      "source_id": 6749,
+      "label": "EPG_LY_L5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6744",
+    "type": "point",
+    "point": [
+      430546.09375,
+      264402.90625,
+      167185.703125
+    ],
+    "props": {
+      "source_id": 6744,
+      "label": "EPG_LY_L5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6759",
+    "type": "point",
+    "point": [
+      475129.90625,
+      260942.40625,
+      218091.296875
+    ],
+    "props": {
+      "source_id": 6759,
+      "label": "EPG_LY_L5_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6754",
+    "type": "point",
+    "point": [
+      255324.703125,
+      278534.40625,
+      81699.5
+    ],
+    "props": {
+      "source_id": 6754,
+      "label": "EPG_LY_L5_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6663",
+    "type": "point",
+    "point": [
+      308201.90625,
+      103466.5,
+      140445.40625
+    ],
+    "props": {
+      "source_id": 6663,
+      "label": "EPG_LZ_L2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6673",
+    "type": "point",
+    "point": [
+      314648.59375,
+      101662.203125,
+      146700.0
+    ],
+    "props": {
+      "source_id": 6673,
+      "label": "EPG_LZ_L2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6668",
+    "type": "point",
+    "point": [
+      335944.0,
+      102927.296875,
+      176300.0
+    ],
+    "props": {
+      "source_id": 6668,
+      "label": "EPG_LZ_L2_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6685",
+    "type": "point",
+    "point": [
+      205026.296875,
+      281369.09375,
+      114064.5
+    ],
+    "props": {
+      "source_id": 6685,
+      "label": "EPG_LZ_L3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6690",
+    "type": "point",
+    "point": [
+      375574.3125,
+      265849.09375,
+      207395.40625
+    ],
+    "props": {
+      "source_id": 6690,
+      "label": "EPG_LZ_L3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6700",
+    "type": "point",
+    "point": [
+      284972.59375,
+      273001.1875,
+      194978.40625
+    ],
+    "props": {
+      "source_id": 6700,
+      "label": "EPG_LZ_L3_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6695",
+    "type": "point",
+    "point": [
+      209541.5,
+      271052.59375,
+      123837.703125
+    ],
+    "props": {
+      "source_id": 6695,
+      "label": "EPG_LZ_L3_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6907",
+    "type": "point",
+    "point": [
+      178770.5,
+      321432.3125,
+      195976.5
+    ],
+    "props": {
+      "source_id": 6907,
+      "label": "EPG_LZ_R1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6902",
+    "type": "point",
+    "point": [
+      301734.59375,
+      125237.5,
+      163348.0
+    ],
+    "props": {
+      "source_id": 6902,
+      "label": "EPG_LZ_R1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6897",
+    "type": "point",
+    "point": [
+      325495.40625,
+      112214.3984375,
+      154858.09375
+    ],
+    "props": {
+      "source_id": 6897,
+      "label": "EPG_LZ_R1_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7108",
+    "type": "point",
+    "point": [
+      102704.0,
+      389327.1875,
+      182500.296875
+    ],
+    "props": {
+      "source_id": 7108,
+      "label": "EPG_RW_R8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7103",
+    "type": "point",
+    "point": [
+      128042.3984375,
+      350461.1875,
+      184088.203125
+    ],
+    "props": {
+      "source_id": 7103,
+      "label": "EPG_RW_R8_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7093",
+    "type": "point",
+    "point": [
+      190007.203125,
+      328797.8125,
+      154782.796875
+    ],
+    "props": {
+      "source_id": 7093,
+      "label": "EPG_RW_R8_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7098",
+    "type": "point",
+    "point": [
+      71812.296875,
+      363261.40625,
+      293379.6875
+    ],
+    "props": {
+      "source_id": 7098,
+      "label": "EPG_RW_R8_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7137",
+    "type": "point",
+    "point": [
+      41968.69921875,
+      399084.90625,
+      264246.1875
+    ],
+    "props": {
+      "source_id": 7137,
+      "label": "EPG_RW_R9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7132",
+    "type": "point",
+    "point": [
+      145326.5,
+      368028.40625,
+      172900.0
+    ],
+    "props": {
+      "source_id": 7132,
+      "label": "EPG_RW_R9_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7122",
+    "type": "point",
+    "point": [
+      182437.90625,
+      345657.0,
+      145104.90625
+    ],
+    "props": {
+      "source_id": 7122,
+      "label": "EPG_RW_R9_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7127",
+    "type": "point",
+    "point": [
+      42323.1015625,
+      367426.59375,
+      293865.09375
+    ],
+    "props": {
+      "source_id": 7127,
+      "label": "EPG_RW_R9_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7035",
+    "type": "point",
+    "point": [
+      230956.90625,
+      274131.5,
+      199879.296875
+    ],
+    "props": {
+      "source_id": 7035,
+      "label": "EPG_RX_R6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7045",
+    "type": "point",
+    "point": [
+      107323.296875,
+      284420.1875,
+      222588.0
+    ],
+    "props": {
+      "source_id": 7045,
+      "label": "EPG_RX_R6_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7050",
+    "type": "point",
+    "point": [
+      203643.296875,
+      270802.40625,
+      207442.703125
+    ],
+    "props": {
+      "source_id": 7050,
+      "label": "EPG_RX_R6_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7040",
+    "type": "point",
+    "point": [
+      237978.296875,
+      262919.0,
+      122350.203125
+    ],
+    "props": {
+      "source_id": 7040,
+      "label": "EPG_RX_R6_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7064",
+    "type": "point",
+    "point": [
+      94532.5,
+      288289.90625,
+      256642.40625
+    ],
+    "props": {
+      "source_id": 7064,
+      "label": "EPG_RX_R7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7069",
+    "type": "point",
+    "point": [
+      215226.5,
+      309244.0,
+      116292.296875
+    ],
+    "props": {
+      "source_id": 7069,
+      "label": "EPG_RX_R7_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7079",
+    "type": "point",
+    "point": [
+      212356.59375,
+      304293.59375,
+      134790.703125
+    ],
+    "props": {
+      "source_id": 7079,
+      "label": "EPG_RX_R7_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7074",
+    "type": "point",
+    "point": [
+      185150.09375,
+      287111.40625,
+      201796.296875
+    ],
+    "props": {
+      "source_id": 7074,
+      "label": "EPG_RX_R7_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9284",
+    "type": "point",
+    "point": [
+      162452.40625,
+      238052.40625,
+      248400.0
+    ],
+    "props": {
+      "source_id": 9284,
+      "label": "EPG_RY_R4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9279",
+    "type": "point",
+    "point": [
+      198309.703125,
+      216978.796875,
+      403300.0
+    ],
+    "props": {
+      "source_id": 9279,
+      "label": "EPG_RY_R4_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9289",
+    "type": "point",
+    "point": [
+      165308.5,
+      245420.0,
+      245775.90625
+    ],
+    "props": {
+      "source_id": 9289,
+      "label": "EPG_RY_R4_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9294",
+    "type": "point",
+    "point": [
+      221732.40625,
+      256109.203125,
+      218775.796875
+    ],
+    "props": {
+      "source_id": 9294,
+      "label": "EPG_RY_R4_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7006",
+    "type": "point",
+    "point": [
+      254450.703125,
+      264436.09375,
+      106610.703125
+    ],
+    "props": {
+      "source_id": 7006,
+      "label": "EPG_RY_R5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7011",
+    "type": "point",
+    "point": [
+      254536.796875,
+      256435.09375,
+      178520.40625
+    ],
+    "props": {
+      "source_id": 7011,
+      "label": "EPG_RY_R5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7021",
+    "type": "point",
+    "point": [
+      140146.5,
+      254147.5,
+      246442.09375
+    ],
+    "props": {
+      "source_id": 7021,
+      "label": "EPG_RY_R5_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7016",
+    "type": "point",
+    "point": [
+      144518.09375,
+      269926.59375,
+      248785.59375
+    ],
+    "props": {
+      "source_id": 7016,
+      "label": "EPG_RY_R5_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6642",
+    "type": "point",
+    "point": [
+      256325.0,
+      135754.703125,
+      211671.59375
+    ],
+    "props": {
+      "source_id": 6642,
+      "label": "EPG_RZ_L1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8473",
+    "type": "point",
+    "point": [
+      251937.5,
+      139277.0,
+      199359.203125
+    ],
+    "props": {
+      "source_id": 8473,
+      "label": "EPG_RZ_L1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6652",
+    "type": "point",
+    "point": [
+      255884.90625,
+      146319.59375,
+      220767.296875
+    ],
+    "props": {
+      "source_id": 6652,
+      "label": "EPG_RZ_L1_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6927",
+    "type": "point",
+    "point": [
+      233347.703125,
+      111521.8984375,
+      179141.09375
+    ],
+    "props": {
+      "source_id": 6927,
+      "label": "EPG_RZ_R2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6912",
+    "type": "point",
+    "point": [
+      218271.40625,
+      104916.5,
+      199550.0
+    ],
+    "props": {
+      "source_id": 6912,
+      "label": "EPG_RZ_R2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6917",
+    "type": "point",
+    "point": [
+      252022.203125,
+      191671.09375,
+      364760.09375
+    ],
+    "props": {
+      "source_id": 6917,
+      "label": "EPG_RZ_R2_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6922",
+    "type": "point",
+    "point": [
+      320918.90625,
+      260257.40625,
+      191653.40625
+    ],
+    "props": {
+      "source_id": 6922,
+      "label": "EPG_RZ_R2_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6953",
+    "type": "point",
+    "point": [
+      226960.90625,
+      270362.1875,
+      235937.40625
+    ],
+    "props": {
+      "source_id": 6953,
+      "label": "EPG_RZ_R3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6948",
+    "type": "point",
+    "point": [
+      320745.8125,
+      275036.40625,
+      82304.296875
+    ],
+    "props": {
+      "source_id": 6948,
+      "label": "EPG_RZ_R3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6963",
+    "type": "point",
+    "point": [
+      299619.6875,
+      274337.8125,
+      195831.0
+    ],
+    "props": {
+      "source_id": 6963,
+      "label": "EPG_RZ_R3_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/6958",
+    "type": "point",
+    "point": [
+      231089.90625,
+      277986.09375,
+      233523.296875
+    ],
+    "props": {
+      "source_id": 6958,
+      "label": "EPG_RZ_R3_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/13083",
+    "type": "point",
+    "point": [
+      261351.703125,
+      367655.6875,
+      155400.0
+    ],
+    "props": {
+      "source_id": 13083,
+      "label": "FB-NOc_L_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37075",
+    "type": "point",
+    "point": [
+      293698.71875,
+      400922.1875,
+      104000.0
+    ],
+    "props": {
+      "source_id": 37075,
+      "label": "FB-NOc_L_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37085",
+    "type": "point",
+    "point": [
+      303653.25,
+      402725.8125,
+      104300.0
+    ],
+    "props": {
+      "source_id": 37085,
+      "label": "FB-NOc_L_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37238",
+    "type": "point",
+    "point": [
+      286941.96875,
+      397879.90625,
+      103900.0
+    ],
+    "props": {
+      "source_id": 37238,
+      "label": "FB-NOc_L_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37366",
+    "type": "point",
+    "point": [
+      287433.1875,
+      319057.0625,
+      32400.0
+    ],
+    "props": {
+      "source_id": 37366,
+      "label": "FB-NOc_L_13"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37243",
+    "type": "point",
+    "point": [
+      295267.65625,
+      381078.8125,
+      74200.0
+    ],
+    "props": {
+      "source_id": 37243,
+      "label": "FB-NOc_L_14"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36829",
+    "type": "point",
+    "point": [
+      263445.375,
+      282514.8125,
+      150900.0
+    ],
+    "props": {
+      "source_id": 36829,
+      "label": "FB-NOc_L_15"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36813",
+    "type": "point",
+    "point": [
+      289333.21875,
+      367772.15625,
+      61900.0
+    ],
+    "props": {
+      "source_id": 36813,
+      "label": "FB-NOc_L_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36818",
+    "type": "point",
+    "point": [
+      298199.9375,
+      401743.84375,
+      103900.0
+    ],
+    "props": {
+      "source_id": 36818,
+      "label": "FB-NOc_L_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36824",
+    "type": "point",
+    "point": [
+      275294.65625,
+      367601.71875,
+      152800.0
+    ],
+    "props": {
+      "source_id": 36824,
+      "label": "FB-NOc_L_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37037",
+    "type": "point",
+    "point": [
+      303815.59375,
+      372791.9375,
+      139200.0
+    ],
+    "props": {
+      "source_id": 37037,
+      "label": "FB-NOc_L_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37043",
+    "type": "point",
+    "point": [
+      296157.59375,
+      395401.53125,
+      126700.0
+    ],
+    "props": {
+      "source_id": 37043,
+      "label": "FB-NOc_L_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37048",
+    "type": "point",
+    "point": [
+      305084.34375,
+      384849.78125,
+      135400.0
+    ],
+    "props": {
+      "source_id": 37048,
+      "label": "FB-NOc_L_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37059",
+    "type": "point",
+    "point": [
+      297974.125,
+      398425.59375,
+      126000.0
+    ],
+    "props": {
+      "source_id": 37059,
+      "label": "FB-NOc_L_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37070",
+    "type": "point",
+    "point": [
+      301216.34375,
+      407533.59375,
+      104000.0
+    ],
+    "props": {
+      "source_id": 37070,
+      "label": "FB-NOc_L_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37054",
+    "type": "point",
+    "point": [
+      264609.0625,
+      368227.125,
+      156600.0
+    ],
+    "props": {
+      "source_id": 37054,
+      "label": "FB-NOc_R_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/13078",
+    "type": "point",
+    "point": [
+      385157.8125,
+      441075.40625,
+      117958.1015625
+    ],
+    "props": {
+      "source_id": 13078,
+      "label": "LNO_L_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7378",
+    "type": "point",
+    "point": [
+      317121.0,
+      333198.8125,
+      156340.203125
+    ],
+    "props": {
+      "source_id": 7378,
+      "label": "PEN_LW_L8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7373",
+    "type": "point",
+    "point": [
+      311050.0,
+      336486.6875,
+      159456.59375
+    ],
+    "props": {
+      "source_id": 7373,
+      "label": "PEN_LW_L8_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7399",
+    "type": "point",
+    "point": [
+      294006.40625,
+      360906.8125,
+      165332.59375
+    ],
+    "props": {
+      "source_id": 7399,
+      "label": "PEN_LW_L9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7394",
+    "type": "point",
+    "point": [
+      369821.1875,
+      350450.40625,
+      131096.703125
+    ],
+    "props": {
+      "source_id": 7394,
+      "label": "PEN_LW_L9_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7389",
+    "type": "point",
+    "point": [
+      388678.59375,
+      360707.1875,
+      119572.6015625
+    ],
+    "props": {
+      "source_id": 7389,
+      "label": "PEN_LW_L9_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10255",
+    "type": "point",
+    "point": [
+      479840.90625,
+      254734.5,
+      163404.09375
+    ],
+    "props": {
+      "source_id": 10255,
+      "label": "PEN_LX_L6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10250",
+    "type": "point",
+    "point": [
+      271783.8125,
+      271130.5,
+      144197.09375
+    ],
+    "props": {
+      "source_id": 10250,
+      "label": "PEN_LX_L6_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7362",
+    "type": "point",
+    "point": [
+      505520.09375,
+      237491.40625,
+      169180.40625
+    ],
+    "props": {
+      "source_id": 7362,
+      "label": "PEN_LX_L7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7357",
+    "type": "point",
+    "point": [
+      289659.09375,
+      329278.40625,
+      183016.796875
+    ],
+    "props": {
+      "source_id": 7357,
+      "label": "PEN_LX_L7_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/27091",
+    "type": "point",
+    "point": [
+      431705.96875,
+      227241.671875,
+      191400.0
+    ],
+    "props": {
+      "source_id": 27091,
+      "label": "PEN_LY_L4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7309",
+    "type": "point",
+    "point": [
+      229964.59375,
+      311642.5,
+      162054.5
+    ],
+    "props": {
+      "source_id": 7309,
+      "label": "PEN_LY_L4_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7314",
+    "type": "point",
+    "point": [
+      418011.5,
+      247980.40625,
+      164686.59375
+    ],
+    "props": {
+      "source_id": 7314,
+      "label": "PEN_LY_L4_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7330",
+    "type": "point",
+    "point": [
+      249685.796875,
+      318643.3125,
+      178799.5
+    ],
+    "props": {
+      "source_id": 7330,
+      "label": "PEN_LY_L5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7325",
+    "type": "point",
+    "point": [
+      444468.1875,
+      221067.203125,
+      188510.796875
+    ],
+    "props": {
+      "source_id": 7325,
+      "label": "PEN_LY_L5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7259",
+    "type": "point",
+    "point": [
+      200808.703125,
+      363822.09375,
+      183380.203125
+    ],
+    "props": {
+      "source_id": 7259,
+      "label": "PEN_LZ_L2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7264",
+    "type": "point",
+    "point": [
+      185097.90625,
+      347323.1875,
+      178235.0
+    ],
+    "props": {
+      "source_id": 7264,
+      "label": "PEN_LZ_L2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7277",
+    "type": "point",
+    "point": [
+      218146.796875,
+      351404.5,
+      184749.59375
+    ],
+    "props": {
+      "source_id": 7277,
+      "label": "PEN_LZ_L3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/32865",
+    "type": "point",
+    "point": [
+      216950.203125,
+      292796.59375,
+      197080.59375
+    ],
+    "props": {
+      "source_id": 32865,
+      "label": "PEN_LZ_L3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7515",
+    "type": "point",
+    "point": [
+      54375.0,
+      365817.6875,
+      297476.59375
+    ],
+    "props": {
+      "source_id": 7515,
+      "label": "PEN_RW_R8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7510",
+    "type": "point",
+    "point": [
+      308871.59375,
+      396723.09375,
+      183635.796875
+    ],
+    "props": {
+      "source_id": 7510,
+      "label": "PEN_RW_R8_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7526",
+    "type": "point",
+    "point": [
+      177843.59375,
+      366628.09375,
+      153674.90625
+    ],
+    "props": {
+      "source_id": 7526,
+      "label": "PEN_RW_R9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8464",
+    "type": "point",
+    "point": [
+      236176.203125,
+      347641.09375,
+      170171.09375
+    ],
+    "props": {
+      "source_id": 8464,
+      "label": "PEN_RW_R9_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7478",
+    "type": "point",
+    "point": [
+      293880.59375,
+      367347.6875,
+      161270.796875
+    ],
+    "props": {
+      "source_id": 7478,
+      "label": "PEN_RX_R6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7483",
+    "type": "point",
+    "point": [
+      235266.296875,
+      268146.3125,
+      200845.5
+    ],
+    "props": {
+      "source_id": 7483,
+      "label": "PEN_RX_R6_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7494",
+    "type": "point",
+    "point": [
+      228439.796875,
+      282716.90625,
+      202907.296875
+    ],
+    "props": {
+      "source_id": 7494,
+      "label": "PEN_RX_R7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7499",
+    "type": "point",
+    "point": [
+      270891.5,
+      309412.5,
+      164271.296875
+    ],
+    "props": {
+      "source_id": 7499,
+      "label": "PEN_RX_R7_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7446",
+    "type": "point",
+    "point": [
+      328054.1875,
+      303238.3125,
+      137570.0
+    ],
+    "props": {
+      "source_id": 7446,
+      "label": "PEN_RY_R4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7451",
+    "type": "point",
+    "point": [
+      149444.09375,
+      252801.90625,
+      234562.09375
+    ],
+    "props": {
+      "source_id": 7451,
+      "label": "PEN_RY_R4_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7462",
+    "type": "point",
+    "point": [
+      316411.3125,
+      302639.3125,
+      155003.203125
+    ],
+    "props": {
+      "source_id": 7462,
+      "label": "PEN_RY_R5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7467",
+    "type": "point",
+    "point": [
+      310444.09375,
+      298574.1875,
+      153226.296875
+    ],
+    "props": {
+      "source_id": 7467,
+      "label": "PEN_RY_R5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7413",
+    "type": "point",
+    "point": [
+      396072.6875,
+      346256.5,
+      144365.90625
+    ],
+    "props": {
+      "source_id": 7413,
+      "label": "PEN_RZ_R2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7418",
+    "type": "point",
+    "point": [
+      263595.1875,
+      277262.09375,
+      237995.296875
+    ],
+    "props": {
+      "source_id": 7418,
+      "label": "PEN_RZ_R2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10691",
+    "type": "point",
+    "point": [
+      251604.203125,
+      111119.1015625,
+      253098.40625
+    ],
+    "props": {
+      "source_id": 10691,
+      "label": "PEN_RZ_R3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7435",
+    "type": "point",
+    "point": [
+      229929.765625,
+      104469.265625,
+      360900.0
+    ],
+    "props": {
+      "source_id": 7435,
+      "label": "PEN_RZ_R3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9086",
+    "type": "point",
+    "point": [
+      348902.90625,
+      296956.3125,
+      106737.0
+    ],
+    "props": {
+      "source_id": 9086,
+      "label": "PF1_LW_L8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9095",
+    "type": "point",
+    "point": [
+      367458.0,
+      323986.59375,
+      102150.0
+    ],
+    "props": {
+      "source_id": 9095,
+      "label": "PF1_LW_L9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9040",
+    "type": "point",
+    "point": [
+      300594.5,
+      246837.203125,
+      123191.6015625
+    ],
+    "props": {
+      "source_id": 9040,
+      "label": "PF1_LX_L6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9045",
+    "type": "point",
+    "point": [
+      320039.59375,
+      254984.5,
+      146035.203125
+    ],
+    "props": {
+      "source_id": 9045,
+      "label": "PF1_LX_L6_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9050",
+    "type": "point",
+    "point": [
+      283551.5,
+      257289.703125,
+      98511.296875
+    ],
+    "props": {
+      "source_id": 9050,
+      "label": "PF1_LX_L6_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9067",
+    "type": "point",
+    "point": [
+      411726.90625,
+      253509.90625,
+      151591.703125
+    ],
+    "props": {
+      "source_id": 9067,
+      "label": "PF1_LX_L7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9072",
+    "type": "point",
+    "point": [
+      451963.09375,
+      262663.5,
+      128652.796875
+    ],
+    "props": {
+      "source_id": 9072,
+      "label": "PF1_LX_L7_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9013",
+    "type": "point",
+    "point": [
+      365888.40625,
+      95953.8984375,
+      168854.796875
+    ],
+    "props": {
+      "source_id": 9013,
+      "label": "PF1_LY_L4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9022",
+    "type": "point",
+    "point": [
+      281633.40625,
+      234985.296875,
+      126660.0
+    ],
+    "props": {
+      "source_id": 9022,
+      "label": "PF1_LY_L5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9027",
+    "type": "point",
+    "point": [
+      360688.09375,
+      277476.1875,
+      185617.09375
+    ],
+    "props": {
+      "source_id": 9027,
+      "label": "PF1_LY_L5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8977",
+    "type": "point",
+    "point": [
+      325797.90625,
+      101440.5,
+      140265.40625
+    ],
+    "props": {
+      "source_id": 8977,
+      "label": "PF1_LZ_L2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8982",
+    "type": "point",
+    "point": [
+      252841.0,
+      259142.296875,
+      210349.5
+    ],
+    "props": {
+      "source_id": 8982,
+      "label": "PF1_LZ_L2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8987",
+    "type": "point",
+    "point": [
+      206892.796875,
+      282572.59375,
+      201704.59375
+    ],
+    "props": {
+      "source_id": 8987,
+      "label": "PF1_LZ_L2_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9004",
+    "type": "point",
+    "point": [
+      200087.59375,
+      279390.1875,
+      119045.1015625
+    ],
+    "props": {
+      "source_id": 9004,
+      "label": "PF1_LZ_L3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9104",
+    "type": "point",
+    "point": [
+      188682.59375,
+      287052.1875,
+      208832.203125
+    ],
+    "props": {
+      "source_id": 9104,
+      "label": "PF1_LZ_R1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9109",
+    "type": "point",
+    "point": [
+      191517.40625,
+      305073.09375,
+      203009.09375
+    ],
+    "props": {
+      "source_id": 9109,
+      "label": "PF1_LZ_R1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9225",
+    "type": "point",
+    "point": [
+      35103.8984375,
+      362116.3125,
+      279963.40625
+    ],
+    "props": {
+      "source_id": 9225,
+      "label": "PF1_RW_R8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9230",
+    "type": "point",
+    "point": [
+      197113.203125,
+      311701.8125,
+      144066.703125
+    ],
+    "props": {
+      "source_id": 9230,
+      "label": "PF1_RW_R8_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9243",
+    "type": "point",
+    "point": [
+      94021.1015625,
+      421171.09375,
+      175429.296875
+    ],
+    "props": {
+      "source_id": 9243,
+      "label": "PF1_RW_R9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9189",
+    "type": "point",
+    "point": [
+      242095.703125,
+      252489.90625,
+      107148.296875
+    ],
+    "props": {
+      "source_id": 9189,
+      "label": "PF1_RX_R6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9194",
+    "type": "point",
+    "point": [
+      239162.09375,
+      253755.296875,
+      119075.0078125
+    ],
+    "props": {
+      "source_id": 9194,
+      "label": "PF1_RX_R6_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9207",
+    "type": "point",
+    "point": [
+      126277.1171875,
+      282000.1875,
+      194074.078125
+    ],
+    "props": {
+      "source_id": 9207,
+      "label": "PF1_RX_R7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9212",
+    "type": "point",
+    "point": [
+      186081.40625,
+      255230.90625,
+      206955.0
+    ],
+    "props": {
+      "source_id": 9212,
+      "label": "PF1_RX_R7_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9160",
+    "type": "point",
+    "point": [
+      204251.90625,
+      180087.296875,
+      394707.1875
+    ],
+    "props": {
+      "source_id": 9160,
+      "label": "PF1_RY_R4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9165",
+    "type": "point",
+    "point": [
+      186906.59375,
+      205618.296875,
+      379991.3125
+    ],
+    "props": {
+      "source_id": 9165,
+      "label": "PF1_RY_R4_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9178",
+    "type": "point",
+    "point": [
+      251783.34375,
+      245790.921875,
+      91200.78125
+    ],
+    "props": {
+      "source_id": 9178,
+      "label": "PF1_RY_R5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8948",
+    "type": "point",
+    "point": [
+      341588.1875,
+      263596.6875,
+      195205.703125
+    ],
+    "props": {
+      "source_id": 8948,
+      "label": "PF1_RZ_L1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8953",
+    "type": "point",
+    "point": [
+      333943.5,
+      272150.0,
+      203297.59375
+    ],
+    "props": {
+      "source_id": 8953,
+      "label": "PF1_RZ_L1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8958",
+    "type": "point",
+    "point": [
+      269763.3125,
+      133810.09375,
+      231633.0
+    ],
+    "props": {
+      "source_id": 8958,
+      "label": "PF1_RZ_L1_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9114",
+    "type": "point",
+    "point": [
+      219187.296875,
+      110820.6015625,
+      159200.0
+    ],
+    "props": {
+      "source_id": 9114,
+      "label": "PF1_RZ_R2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9119",
+    "type": "point",
+    "point": [
+      240915.703125,
+      138028.5,
+      196964.796875
+    ],
+    "props": {
+      "source_id": 9119,
+      "label": "PF1_RZ_R2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9142",
+    "type": "point",
+    "point": [
+      268936.6875,
+      286467.3125,
+      209242.40625
+    ],
+    "props": {
+      "source_id": 9142,
+      "label": "PF1_RZ_R3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9147",
+    "type": "point",
+    "point": [
+      328263.59375,
+      265082.6875,
+      102251.8984375
+    ],
+    "props": {
+      "source_id": 9147,
+      "label": "PF1_RZ_R3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7640",
+    "type": "point",
+    "point": [
+      393567.40625,
+      281530.8125,
+      134615.296875
+    ],
+    "props": {
+      "source_id": 7640,
+      "label": "PFL1,3_LW_L7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7608",
+    "type": "point",
+    "point": [
+      314611.3125,
+      226701.703125,
+      147623.703125
+    ],
+    "props": {
+      "source_id": 7608,
+      "label": "PFL1,3_LX_L5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7613",
+    "type": "point",
+    "point": [
+      438618.5,
+      240484.203125,
+      125519.296875
+    ],
+    "props": {
+      "source_id": 7613,
+      "label": "PFL1,3_LX_L5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7624",
+    "type": "point",
+    "point": [
+      483447.09375,
+      222402.59375,
+      155088.5
+    ],
+    "props": {
+      "source_id": 7624,
+      "label": "PFL1,3_LX_L6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7629",
+    "type": "point",
+    "point": [
+      477486.5,
+      223156.203125,
+      143643.0
+    ],
+    "props": {
+      "source_id": 7629,
+      "label": "PFL1,3_LX_L6_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7576",
+    "type": "point",
+    "point": [
+      425136.40625,
+      224579.90625,
+      177202.40625
+    ],
+    "props": {
+      "source_id": 7576,
+      "label": "PFL1,3_LY_L3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7581",
+    "type": "point",
+    "point": [
+      282908.09375,
+      207965.0,
+      195223.796875
+    ],
+    "props": {
+      "source_id": 7581,
+      "label": "PFL1,3_LY_L3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7592",
+    "type": "point",
+    "point": [
+      398960.90625,
+      243846.09375,
+      165804.203125
+    ],
+    "props": {
+      "source_id": 7592,
+      "label": "PFL1,3_LY_L4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7597",
+    "type": "point",
+    "point": [
+      410002.8125,
+      252151.796875,
+      164053.59375
+    ],
+    "props": {
+      "source_id": 7597,
+      "label": "PFL1,3_LY_L4_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7534",
+    "type": "point",
+    "point": [
+      186742.5,
+      296960.3125,
+      120493.703125
+    ],
+    "props": {
+      "source_id": 7534,
+      "label": "PFL1,3_LZ_L1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7539",
+    "type": "point",
+    "point": [
+      180986.0,
+      290877.59375,
+      173075.0
+    ],
+    "props": {
+      "source_id": 7539,
+      "label": "PFL1,3_LZ_L1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7568",
+    "type": "point",
+    "point": [
+      369151.09375,
+      266014.0,
+      212069.203125
+    ],
+    "props": {
+      "source_id": 7568,
+      "label": "PFL1,3_LZ_L2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7658",
+    "type": "point",
+    "point": [
+      264511.0,
+      281030.59375,
+      232718.703125
+    ],
+    "props": {
+      "source_id": 7658,
+      "label": "PFL1,3_LZ_R1_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8798",
+    "type": "point",
+    "point": [
+      312198.40625,
+      81962.6015625,
+      106900.3984375
+    ],
+    "props": {
+      "source_id": 8798,
+      "label": "PFL1,3_LZ_R1_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7753",
+    "type": "point",
+    "point": [
+      144875.703125,
+      292031.1875,
+      189723.90625
+    ],
+    "props": {
+      "source_id": 7753,
+      "label": "PFL1,3_RW_R7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7758",
+    "type": "point",
+    "point": [
+      109630.296875,
+      336090.59375,
+      186594.703125
+    ],
+    "props": {
+      "source_id": 7758,
+      "label": "PFL1,3_RW_R7_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7721",
+    "type": "point",
+    "point": [
+      233162.90625,
+      213262.5,
+      189457.09375
+    ],
+    "props": {
+      "source_id": 7721,
+      "label": "PFL1,3_RX_R5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7726",
+    "type": "point",
+    "point": [
+      129100.8984375,
+      257232.90625,
+      195797.296875
+    ],
+    "props": {
+      "source_id": 7726,
+      "label": "PFL1,3_RX_R5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7737",
+    "type": "point",
+    "point": [
+      91442.203125,
+      237746.703125,
+      236933.203125
+    ],
+    "props": {
+      "source_id": 7737,
+      "label": "PFL1,3_RX_R6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7742",
+    "type": "point",
+    "point": [
+      182371.09375,
+      250263.84375,
+      204878.890625
+    ],
+    "props": {
+      "source_id": 7742,
+      "label": "PFL1,3_RX_R6_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7689",
+    "type": "point",
+    "point": [
+      241369.0,
+      116398.703125,
+      263732.5
+    ],
+    "props": {
+      "source_id": 7689,
+      "label": "PFL1,3_RY_R3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7694",
+    "type": "point",
+    "point": [
+      271702.8125,
+      195001.703125,
+      196830.796875
+    ],
+    "props": {
+      "source_id": 7694,
+      "label": "PFL1,3_RY_R3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7705",
+    "type": "point",
+    "point": [
+      181219.703125,
+      248535.40625,
+      221605.703125
+    ],
+    "props": {
+      "source_id": 7705,
+      "label": "PFL1,3_RY_R4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7710",
+    "type": "point",
+    "point": [
+      264306.90625,
+      215188.40625,
+      168260.296875
+    ],
+    "props": {
+      "source_id": 7710,
+      "label": "PFL1,3_RY_R4_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7544",
+    "type": "point",
+    "point": [
+      229086.5,
+      104831.5,
+      183117.703125
+    ],
+    "props": {
+      "source_id": 7544,
+      "label": "PFL1,3_RZ_L1_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7549",
+    "type": "point",
+    "point": [
+      236930.296875,
+      113977.1015625,
+      165500.796875
+    ],
+    "props": {
+      "source_id": 7549,
+      "label": "PFL1,3_RZ_L1_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7648",
+    "type": "point",
+    "point": [
+      373736.1875,
+      270953.09375,
+      132136.0
+    ],
+    "props": {
+      "source_id": 7648,
+      "label": "PFL1,3_RZ_R1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7653",
+    "type": "point",
+    "point": [
+      383203.6875,
+      257498.0,
+      122655.203125
+    ],
+    "props": {
+      "source_id": 7653,
+      "label": "PFL1,3_RZ_R1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7673",
+    "type": "point",
+    "point": [
+      206661.0,
+      94715.5,
+      163100.09375
+    ],
+    "props": {
+      "source_id": 7673,
+      "label": "PFL1,3_RZ_R2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7678",
+    "type": "point",
+    "point": [
+      251642.0,
+      264787.5,
+      220207.203125
+    ],
+    "props": {
+      "source_id": 7678,
+      "label": "PFL1,3_RZ_R2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7805",
+    "type": "point",
+    "point": [
+      472903.6875,
+      224290.09375,
+      149188.59375
+    ],
+    "props": {
+      "source_id": 7805,
+      "label": "PFL2_LX_L4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7793",
+    "type": "point",
+    "point": [
+      427554.09375,
+      219545.59375,
+      162405.59375
+    ],
+    "props": {
+      "source_id": 7793,
+      "label": "PFL2_LY_L3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7799",
+    "type": "point",
+    "point": [
+      363009.90625,
+      194611.203125,
+      176760.296875
+    ],
+    "props": {
+      "source_id": 7799,
+      "label": "PFL2_LY_L3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7769",
+    "type": "point",
+    "point": [
+      299163.59375,
+      90134.796875,
+      91013.5
+    ],
+    "props": {
+      "source_id": 7769,
+      "label": "PFL2_LZ_L1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7787",
+    "type": "point",
+    "point": [
+      341610.09375,
+      253768.59375,
+      200682.90625
+    ],
+    "props": {
+      "source_id": 7787,
+      "label": "PFL2_LZ_L2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7817",
+    "type": "point",
+    "point": [
+      305681.6875,
+      84050.703125,
+      94276.0
+    ],
+    "props": {
+      "source_id": 7817,
+      "label": "PFL2_LZ_R2,R3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7841",
+    "type": "point",
+    "point": [
+      110681.0,
+      243425.0,
+      232825.203125
+    ],
+    "props": {
+      "source_id": 7841,
+      "label": "PFL2_RX_R4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7835",
+    "type": "point",
+    "point": [
+      175174.765625,
+      228571.8125,
+      242240.1875
+    ],
+    "props": {
+      "source_id": 7835,
+      "label": "PFL2_RY_R3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/15098",
+    "type": "point",
+    "point": [
+      207683.796875,
+      85687.6015625,
+      180562.0
+    ],
+    "props": {
+      "source_id": 15098,
+      "label": "PFL2_RY_R3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7781",
+    "type": "point",
+    "point": [
+      204830.796875,
+      91364.296875,
+      120601.3984375
+    ],
+    "props": {
+      "source_id": 7781,
+      "label": "PFL2_RZ_L2,L3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7811",
+    "type": "point",
+    "point": [
+      198920.703125,
+      90660.8984375,
+      112451.1015625
+    ],
+    "props": {
+      "source_id": 7811,
+      "label": "PFL2_RZ_R1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/7823",
+    "type": "point",
+    "point": [
+      210954.65625,
+      94508.3671875,
+      171937.765625
+    ],
+    "props": {
+      "source_id": 7823,
+      "label": "PFL2_RZ_R2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23916",
+    "type": "point",
+    "point": [
+      131075.28125,
+      338000.75,
+      185300.0
+    ],
+    "props": {
+      "source_id": 23916,
+      "label": "PFL?_R7_W_SH"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23940",
+    "type": "point",
+    "point": [
+      499168.0,
+      204575.5,
+      159570.0
+    ],
+    "props": {
+      "source_id": 23940,
+      "label": "PFLx_LX_L7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23928",
+    "type": "point",
+    "point": [
+      287596.90625,
+      248863.0,
+      205787.09375
+    ],
+    "props": {
+      "source_id": 23928,
+      "label": "PFLx_LZ_L1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12718",
+    "type": "point",
+    "point": [
+      155276.40625,
+      315090.0,
+      191293.40625
+    ],
+    "props": {
+      "source_id": 12718,
+      "label": "PFLx_RW_R8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23946",
+    "type": "point",
+    "point": [
+      68947.8984375,
+      228491.203125,
+      247878.90625
+    ],
+    "props": {
+      "source_id": 23946,
+      "label": "PFLx_RX_R7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10792",
+    "type": "point",
+    "point": [
+      334838.3125,
+      281408.3125,
+      213307.90625
+    ],
+    "props": {
+      "source_id": 10792,
+      "label": "PFLx_RZ_L1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10700",
+    "type": "point",
+    "point": [
+      269863.0,
+      243192.59375,
+      211350.90625
+    ],
+    "props": {
+      "source_id": 10700,
+      "label": "PFLx_RZ_R1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36119",
+    "type": "point",
+    "point": [
+      437275.84375,
+      350192.78125,
+      130600.0
+    ],
+    "props": {
+      "source_id": 36119,
+      "label": "PFN_LW_L8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36406",
+    "type": "point",
+    "point": [
+      411618.875,
+      348355.625,
+      147300.0
+    ],
+    "props": {
+      "source_id": 36406,
+      "label": "PFN_LW_L8_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36410",
+    "type": "point",
+    "point": [
+      285440.5,
+      339724.125,
+      163700.0
+    ],
+    "props": {
+      "source_id": 36410,
+      "label": "PFN_LW_L8_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36414",
+    "type": "point",
+    "point": [
+      449344.09375,
+      366537.21875,
+      123300.0
+    ],
+    "props": {
+      "source_id": 36414,
+      "label": "PFN_LW_L8_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36426",
+    "type": "point",
+    "point": [
+      419506.03125,
+      351554.84375,
+      138800.0
+    ],
+    "props": {
+      "source_id": 36426,
+      "label": "PFN_LW_L8_13"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23799",
+    "type": "point",
+    "point": [
+      389169.6875,
+      297356.6875,
+      160400.0
+    ],
+    "props": {
+      "source_id": 23799,
+      "label": "PFN_LW_L8_14"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36097",
+    "type": "point",
+    "point": [
+      324125.5625,
+      326578.78125,
+      156700.0
+    ],
+    "props": {
+      "source_id": 36097,
+      "label": "PFN_LW_L8_15"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36237",
+    "type": "point",
+    "point": [
+      440816.15625,
+      340452.5625,
+      130800.0
+    ],
+    "props": {
+      "source_id": 36237,
+      "label": "PFN_LW_L8_16"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8282",
+    "type": "point",
+    "point": [
+      505041.0,
+      387739.8125,
+      112600.0
+    ],
+    "props": {
+      "source_id": 8282,
+      "label": "PFN_LW_L8_17"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36124",
+    "type": "point",
+    "point": [
+      435692.0625,
+      351396.4375,
+      130600.0
+    ],
+    "props": {
+      "source_id": 36124,
+      "label": "PFN_LW_L8_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36129",
+    "type": "point",
+    "point": [
+      435692.0625,
+      348735.71875,
+      130600.0
+    ],
+    "props": {
+      "source_id": 36129,
+      "label": "PFN_LW_L8_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36138",
+    "type": "point",
+    "point": [
+      427964.4375,
+      349788.625,
+      134300.0
+    ],
+    "props": {
+      "source_id": 36138,
+      "label": "PFN_LW_L8_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36143",
+    "type": "point",
+    "point": [
+      433602.625,
+      353700.5,
+      129900.0
+    ],
+    "props": {
+      "source_id": 36143,
+      "label": "PFN_LW_L8_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36150",
+    "type": "point",
+    "point": [
+      420487.9375,
+      335748.875,
+      143800.0
+    ],
+    "props": {
+      "source_id": 36150,
+      "label": "PFN_LW_L8_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36259",
+    "type": "point",
+    "point": [
+      440522.5625,
+      356876.28125,
+      127600.0
+    ],
+    "props": {
+      "source_id": 36259,
+      "label": "PFN_LW_L8_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36263",
+    "type": "point",
+    "point": [
+      440807.625,
+      358555.0625,
+      127600.0
+    ],
+    "props": {
+      "source_id": 36263,
+      "label": "PFN_LW_L8_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36267",
+    "type": "point",
+    "point": [
+      469505.4375,
+      371351.875,
+      118400.0
+    ],
+    "props": {
+      "source_id": 36267,
+      "label": "PFN_LW_L8_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36694",
+    "type": "point",
+    "point": [
+      421202.65625,
+      376470.8125,
+      116900.0
+    ],
+    "props": {
+      "source_id": 36694,
+      "label": "PFN_LW_L9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/44507",
+    "type": "point",
+    "point": [
+      345333.53125,
+      326282.3125,
+      153200.0
+    ],
+    "props": {
+      "source_id": 44507,
+      "label": "PFN_LW_L9_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/44524",
+    "type": "point",
+    "point": [
+      472538.25,
+      388490.5,
+      98100.0
+    ],
+    "props": {
+      "source_id": 44524,
+      "label": "PFN_LW_L9_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/44558",
+    "type": "point",
+    "point": [
+      326368.09375,
+      334247.1875,
+      158900.0
+    ],
+    "props": {
+      "source_id": 44558,
+      "label": "PFN_LW_L9_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8288",
+    "type": "point",
+    "point": [
+      373794.6875,
+      334839.5,
+      145728.0
+    ],
+    "props": {
+      "source_id": 8288,
+      "label": "PFN_LW_L9_13"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36699",
+    "type": "point",
+    "point": [
+      417699.375,
+      373360.28125,
+      117700.0
+    ],
+    "props": {
+      "source_id": 36699,
+      "label": "PFN_LW_L9_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36705",
+    "type": "point",
+    "point": [
+      379233.0,
+      322544.71875,
+      140900.0
+    ],
+    "props": {
+      "source_id": 36705,
+      "label": "PFN_LW_L9_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36710",
+    "type": "point",
+    "point": [
+      419371.8125,
+      372008.8125,
+      116800.0
+    ],
+    "props": {
+      "source_id": 36710,
+      "label": "PFN_LW_L9_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36715",
+    "type": "point",
+    "point": [
+      369941.5625,
+      346341.3125,
+      143500.0
+    ],
+    "props": {
+      "source_id": 36715,
+      "label": "PFN_LW_L9_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36720",
+    "type": "point",
+    "point": [
+      347794.21875,
+      346071.0,
+      151400.0
+    ],
+    "props": {
+      "source_id": 36720,
+      "label": "PFN_LW_L9_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36725",
+    "type": "point",
+    "point": [
+      363690.96875,
+      345417.4375,
+      146600.0
+    ],
+    "props": {
+      "source_id": 36725,
+      "label": "PFN_LW_L9_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36730",
+    "type": "point",
+    "point": [
+      369975.34375,
+      356049.75,
+      146000.0
+    ],
+    "props": {
+      "source_id": 36730,
+      "label": "PFN_LW_L9_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36350",
+    "type": "point",
+    "point": [
+      315379.0625,
+      335591.3125,
+      161100.0
+    ],
+    "props": {
+      "source_id": 36350,
+      "label": "PFN_LW_L9_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37117",
+    "type": "point",
+    "point": [
+      275916.46875,
+      299742.8125,
+      163100.0
+    ],
+    "props": {
+      "source_id": 37117,
+      "label": "PFN_LX_L6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8925",
+    "type": "point",
+    "point": [
+      292959.90625,
+      263373.1875,
+      165455.59375
+    ],
+    "props": {
+      "source_id": 8925,
+      "label": "PFN_LX_L6_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8252",
+    "type": "point",
+    "point": [
+      297948.3125,
+      264090.5,
+      161149.40625
+    ],
+    "props": {
+      "source_id": 8252,
+      "label": "PFN_LX_L6_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8258",
+    "type": "point",
+    "point": [
+      444147.3125,
+      272928.90625,
+      132808.296875
+    ],
+    "props": {
+      "source_id": 8258,
+      "label": "PFN_LX_L6_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37150",
+    "type": "point",
+    "point": [
+      273037.28125,
+      316386.40625,
+      168700.0
+    ],
+    "props": {
+      "source_id": 37150,
+      "label": "PFN_LX_L6_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37160",
+    "type": "point",
+    "point": [
+      271628.78125,
+      281841.3125,
+      167600.0
+    ],
+    "props": {
+      "source_id": 37160,
+      "label": "PFN_LX_L6_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37165",
+    "type": "point",
+    "point": [
+      270016.21875,
+      300788.875,
+      166100.0
+    ],
+    "props": {
+      "source_id": 37165,
+      "label": "PFN_LX_L6_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37171",
+    "type": "point",
+    "point": [
+      273633.375,
+      328691.59375,
+      167700.0
+    ],
+    "props": {
+      "source_id": 37171,
+      "label": "PFN_LX_L6_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37193",
+    "type": "point",
+    "point": [
+      269230.09375,
+      286250.21875,
+      168600.0
+    ],
+    "props": {
+      "source_id": 37193,
+      "label": "PFN_LX_L6_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8234",
+    "type": "point",
+    "point": [
+      271845.6875,
+      309542.3125,
+      162359.703125
+    ],
+    "props": {
+      "source_id": 8234,
+      "label": "PFN_LX_L6_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8264",
+    "type": "point",
+    "point": [
+      307762.8125,
+      272313.09375,
+      176321.0
+    ],
+    "props": {
+      "source_id": 8264,
+      "label": "PFN_LX_L6_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8916",
+    "type": "point",
+    "point": [
+      273083.6875,
+      312379.09375,
+      161122.703125
+    ],
+    "props": {
+      "source_id": 8916,
+      "label": "PFN_LX_L6_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37274",
+    "type": "point",
+    "point": [
+      304556.6875,
+      279456.6875,
+      159000.0
+    ],
+    "props": {
+      "source_id": 37274,
+      "label": "PFN_LX_L7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37639",
+    "type": "point",
+    "point": [
+      304386.34375,
+      295990.03125,
+      165100.0
+    ],
+    "props": {
+      "source_id": 37639,
+      "label": "PFN_LX_L7_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8270",
+    "type": "point",
+    "point": [
+      305966.59375,
+      297380.0,
+      159489.90625
+    ],
+    "props": {
+      "source_id": 8270,
+      "label": "PFN_LX_L7_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8276",
+    "type": "point",
+    "point": [
+      296524.90625,
+      305103.90625,
+      162449.0
+    ],
+    "props": {
+      "source_id": 8276,
+      "label": "PFN_LX_L7_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37279",
+    "type": "point",
+    "point": [
+      305593.34375,
+      280838.875,
+      160000.0
+    ],
+    "props": {
+      "source_id": 37279,
+      "label": "PFN_LX_L7_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37284",
+    "type": "point",
+    "point": [
+      323023.375,
+      286946.71875,
+      167000.0
+    ],
+    "props": {
+      "source_id": 37284,
+      "label": "PFN_LX_L7_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37569",
+    "type": "point",
+    "point": [
+      298411.71875,
+      285366.09375,
+      161000.0
+    ],
+    "props": {
+      "source_id": 37569,
+      "label": "PFN_LX_L7_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37614",
+    "type": "point",
+    "point": [
+      306546.03125,
+      294809.40625,
+      161900.0
+    ],
+    "props": {
+      "source_id": 37614,
+      "label": "PFN_LX_L7_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37619",
+    "type": "point",
+    "point": [
+      304076.6875,
+      294544.625,
+      160400.0
+    ],
+    "props": {
+      "source_id": 37619,
+      "label": "PFN_LX_L7_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37624",
+    "type": "point",
+    "point": [
+      300383.75,
+      298927.1875,
+      165100.0
+    ],
+    "props": {
+      "source_id": 37624,
+      "label": "PFN_LX_L7_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37629",
+    "type": "point",
+    "point": [
+      325166.75,
+      294014.0,
+      168600.0
+    ],
+    "props": {
+      "source_id": 37629,
+      "label": "PFN_LX_L7_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37634",
+    "type": "point",
+    "point": [
+      316185.34375,
+      292370.9375,
+      167600.0
+    ],
+    "props": {
+      "source_id": 37634,
+      "label": "PFN_LX_L7_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40011",
+    "type": "point",
+    "point": [
+      238526.046875,
+      288463.46875,
+      190300.0
+    ],
+    "props": {
+      "source_id": 40011,
+      "label": "PFN_LY_L4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40055",
+    "type": "point",
+    "point": [
+      238272.625,
+      289039.375,
+      194300.0
+    ],
+    "props": {
+      "source_id": 40055,
+      "label": "PFN_LY_L4_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40060",
+    "type": "point",
+    "point": [
+      234517.671875,
+      291942.0,
+      194300.0
+    ],
+    "props": {
+      "source_id": 40060,
+      "label": "PFN_LY_L4_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40073",
+    "type": "point",
+    "point": [
+      339659.375,
+      285601.1875,
+      187500.0
+    ],
+    "props": {
+      "source_id": 40073,
+      "label": "PFN_LY_L4_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40688",
+    "type": "point",
+    "point": [
+      296336.25,
+      279997.53125,
+      193100.0
+    ],
+    "props": {
+      "source_id": 40688,
+      "label": "PFN_LY_L4_13"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40697",
+    "type": "point",
+    "point": [
+      224046.140625,
+      290633.21875,
+      196300.0
+    ],
+    "props": {
+      "source_id": 40697,
+      "label": "PFN_LY_L4_14"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40702",
+    "type": "point",
+    "point": [
+      224391.6875,
+      287914.90625,
+      196300.0
+    ],
+    "props": {
+      "source_id": 40702,
+      "label": "PFN_LY_L4_15"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40707",
+    "type": "point",
+    "point": [
+      235034.578125,
+      287638.46875,
+      195900.0
+    ],
+    "props": {
+      "source_id": 40707,
+      "label": "PFN_LY_L4_16"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40712",
+    "type": "point",
+    "point": [
+      235748.703125,
+      290679.3125,
+      195900.0
+    ],
+    "props": {
+      "source_id": 40712,
+      "label": "PFN_LY_L4_17"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40722",
+    "type": "point",
+    "point": [
+      242106.796875,
+      287477.21875,
+      195900.0
+    ],
+    "props": {
+      "source_id": 40722,
+      "label": "PFN_LY_L4_18"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/35724",
+    "type": "point",
+    "point": [
+      244610.640625,
+      345833.5,
+      183700.0
+    ],
+    "props": {
+      "source_id": 35724,
+      "label": "PFN_LY_L4_19"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40005",
+    "type": "point",
+    "point": [
+      236006.390625,
+      317521.1875,
+      184000.0
+    ],
+    "props": {
+      "source_id": 40005,
+      "label": "PFN_LY_L4_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/35729",
+    "type": "point",
+    "point": [
+      435337.46875,
+      251315.0625,
+      176900.0
+    ],
+    "props": {
+      "source_id": 35729,
+      "label": "PFN_LY_L4_20"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8897",
+    "type": "point",
+    "point": [
+      226742.5,
+      298642.40625,
+      160268.90625
+    ],
+    "props": {
+      "source_id": 8897,
+      "label": "PFN_LY_L4_21"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8907",
+    "type": "point",
+    "point": [
+      233977.203125,
+      331285.3125,
+      183305.703125
+    ],
+    "props": {
+      "source_id": 8907,
+      "label": "PFN_LY_L4_22"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40017",
+    "type": "point",
+    "point": [
+      239470.53125,
+      288256.15625,
+      192000.0
+    ],
+    "props": {
+      "source_id": 40017,
+      "label": "PFN_LY_L4_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40022",
+    "type": "point",
+    "point": [
+      366148.5,
+      277405.9375,
+      187600.0
+    ],
+    "props": {
+      "source_id": 40022,
+      "label": "PFN_LY_L4_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40027",
+    "type": "point",
+    "point": [
+      241106.125,
+      289131.53125,
+      192000.0
+    ],
+    "props": {
+      "source_id": 40027,
+      "label": "PFN_LY_L4_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40033",
+    "type": "point",
+    "point": [
+      247349.03125,
+      282681.28125,
+      192600.0
+    ],
+    "props": {
+      "source_id": 40033,
+      "label": "PFN_LY_L4_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40040",
+    "type": "point",
+    "point": [
+      246634.890625,
+      287150.375,
+      194300.0
+    ],
+    "props": {
+      "source_id": 40040,
+      "label": "PFN_LY_L4_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40045",
+    "type": "point",
+    "point": [
+      250643.25,
+      287772.375,
+      194300.0
+    ],
+    "props": {
+      "source_id": 40045,
+      "label": "PFN_LY_L4_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40050",
+    "type": "point",
+    "point": [
+      240783.609375,
+      289845.65625,
+      194300.0
+    ],
+    "props": {
+      "source_id": 40050,
+      "label": "PFN_LY_L4_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38451",
+    "type": "point",
+    "point": [
+      249718.125,
+      305786.15625,
+      177700.0
+    ],
+    "props": {
+      "source_id": 38451,
+      "label": "PFN_LY_L5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38918",
+    "type": "point",
+    "point": [
+      250750.796875,
+      322938.40625,
+      185800.0
+    ],
+    "props": {
+      "source_id": 38918,
+      "label": "PFN_LY_L5_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8221",
+    "type": "point",
+    "point": [
+      255840.703125,
+      327105.09375,
+      186713.5
+    ],
+    "props": {
+      "source_id": 8221,
+      "label": "PFN_LY_L5_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8227",
+    "type": "point",
+    "point": [
+      254725.296875,
+      327654.90625,
+      184759.40625
+    ],
+    "props": {
+      "source_id": 8227,
+      "label": "PFN_LY_L5_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38460",
+    "type": "point",
+    "point": [
+      266552.0625,
+      275976.90625,
+      180300.0
+    ],
+    "props": {
+      "source_id": 38460,
+      "label": "PFN_LY_L5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38466",
+    "type": "point",
+    "point": [
+      266292.875,
+      279294.15625,
+      182100.0
+    ],
+    "props": {
+      "source_id": 38466,
+      "label": "PFN_LY_L5_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38471",
+    "type": "point",
+    "point": [
+      262729.40625,
+      280414.3125,
+      182100.0
+    ],
+    "props": {
+      "source_id": 38471,
+      "label": "PFN_LY_L5_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38481",
+    "type": "point",
+    "point": [
+      249967.21875,
+      324411.1875,
+      187500.0
+    ],
+    "props": {
+      "source_id": 38481,
+      "label": "PFN_LY_L5_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39624",
+    "type": "point",
+    "point": [
+      312691.375,
+      293409.8125,
+      184500.0
+    ],
+    "props": {
+      "source_id": 39624,
+      "label": "PFN_LY_L5_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39995",
+    "type": "point",
+    "point": [
+      260097.515625,
+      282988.65625,
+      182000.0
+    ],
+    "props": {
+      "source_id": 39995,
+      "label": "PFN_LY_L5_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24565",
+    "type": "point",
+    "point": [
+      243508.03125,
+      289166.40625,
+      171100.0
+    ],
+    "props": {
+      "source_id": 24565,
+      "label": "PFN_LY_L5_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24554",
+    "type": "point",
+    "point": [
+      235553.75,
+      353848.1875,
+      200700.0
+    ],
+    "props": {
+      "source_id": 24554,
+      "label": "PFN_LY_L5_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8168",
+    "type": "point",
+    "point": [
+      368700.90625,
+      127008.6015625,
+      229197.203125
+    ],
+    "props": {
+      "source_id": 8168,
+      "label": "PFN_LZ_L2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/22081",
+    "type": "point",
+    "point": [
+      171634.453125,
+      363279.28125,
+      185600.0
+    ],
+    "props": {
+      "source_id": 22081,
+      "label": "PFN_LZ_L2_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40141",
+    "type": "point",
+    "point": [
+      205481.984375,
+      297111.8125,
+      204500.0
+    ],
+    "props": {
+      "source_id": 40141,
+      "label": "PFN_LZ_L2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40146",
+    "type": "point",
+    "point": [
+      201381.484375,
+      298563.09375,
+      204500.0
+    ],
+    "props": {
+      "source_id": 40146,
+      "label": "PFN_LZ_L2_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40291",
+    "type": "point",
+    "point": [
+      225576.015625,
+      382693.125,
+      178300.0
+    ],
+    "props": {
+      "source_id": 40291,
+      "label": "PFN_LZ_L2_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40296",
+    "type": "point",
+    "point": [
+      208896.15625,
+      374674.96875,
+      185500.0
+    ],
+    "props": {
+      "source_id": 40296,
+      "label": "PFN_LZ_L2_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40446",
+    "type": "point",
+    "point": [
+      196904.671875,
+      367852.6875,
+      185000.0
+    ],
+    "props": {
+      "source_id": 40446,
+      "label": "PFN_LZ_L2_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40451",
+    "type": "point",
+    "point": [
+      196589.359375,
+      366163.84375,
+      188700.0
+    ],
+    "props": {
+      "source_id": 40451,
+      "label": "PFN_LZ_L2_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40668",
+    "type": "point",
+    "point": [
+      214714.796875,
+      325114.15625,
+      216000.0
+    ],
+    "props": {
+      "source_id": 40668,
+      "label": "PFN_LZ_L2_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40677",
+    "type": "point",
+    "point": [
+      192830.09375,
+      343359.09375,
+      198800.0
+    ],
+    "props": {
+      "source_id": 40677,
+      "label": "PFN_LZ_L2_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40090",
+    "type": "point",
+    "point": [
+      376378.625,
+      241310.078125,
+      227900.0
+    ],
+    "props": {
+      "source_id": 40090,
+      "label": "PFN_LZ_L3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8808",
+    "type": "point",
+    "point": [
+      214329.09375,
+      297970.0,
+      197056.796875
+    ],
+    "props": {
+      "source_id": 8808,
+      "label": "PFN_LZ_L3_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40114",
+    "type": "point",
+    "point": [
+      214417.4375,
+      355067.4375,
+      188500.0
+    ],
+    "props": {
+      "source_id": 40114,
+      "label": "PFN_LZ_L3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40123",
+    "type": "point",
+    "point": [
+      197665.390625,
+      311519.71875,
+      193000.0
+    ],
+    "props": {
+      "source_id": 40123,
+      "label": "PFN_LZ_L3_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40128",
+    "type": "point",
+    "point": [
+      198236.984375,
+      308575.34375,
+      196200.0
+    ],
+    "props": {
+      "source_id": 40128,
+      "label": "PFN_LZ_L3_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/40136",
+    "type": "point",
+    "point": [
+      207624.390625,
+      295706.5625,
+      204500.0
+    ],
+    "props": {
+      "source_id": 40136,
+      "label": "PFN_LZ_L3_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/41275",
+    "type": "point",
+    "point": [
+      209386.71875,
+      348175.1875,
+      184500.0
+    ],
+    "props": {
+      "source_id": 41275,
+      "label": "PFN_LZ_L3_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/41280",
+    "type": "point",
+    "point": [
+      208833.84375,
+      349833.8125,
+      184500.0
+    ],
+    "props": {
+      "source_id": 41280,
+      "label": "PFN_LZ_L3_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39404",
+    "type": "point",
+    "point": [
+      346137.375,
+      273092.59375,
+      198200.0
+    ],
+    "props": {
+      "source_id": 39404,
+      "label": "PFN_LZ_L3_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8174",
+    "type": "point",
+    "point": [
+      407443.0,
+      120537.703125,
+      291238.0
+    ],
+    "props": {
+      "source_id": 8174,
+      "label": "PFN_LZ_L3_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36356",
+    "type": "point",
+    "point": [
+      76146.4921875,
+      424182.84375,
+      184000.0
+    ],
+    "props": {
+      "source_id": 36356,
+      "label": "PFN_RW_R8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36616",
+    "type": "point",
+    "point": [
+      114316.3046875,
+      390806.59375,
+      175200.0
+    ],
+    "props": {
+      "source_id": 36616,
+      "label": "PFN_RW_R8_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36620",
+    "type": "point",
+    "point": [
+      139846.5625,
+      370281.03125,
+      179400.0
+    ],
+    "props": {
+      "source_id": 36620,
+      "label": "PFN_RW_R8_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9459",
+    "type": "point",
+    "point": [
+      151301.296875,
+      329050.0,
+      192187.296875
+    ],
+    "props": {
+      "source_id": 9459,
+      "label": "PFN_RW_R8_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36566",
+    "type": "point",
+    "point": [
+      215995.0625,
+      318604.75,
+      182700.0
+    ],
+    "props": {
+      "source_id": 36566,
+      "label": "PFN_RW_R8_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36580",
+    "type": "point",
+    "point": [
+      153418.140625,
+      367396.90625,
+      184200.0
+    ],
+    "props": {
+      "source_id": 36580,
+      "label": "PFN_RW_R8_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36588",
+    "type": "point",
+    "point": [
+      150521.109375,
+      367747.03125,
+      184800.0
+    ],
+    "props": {
+      "source_id": 36588,
+      "label": "PFN_RW_R8_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36596",
+    "type": "point",
+    "point": [
+      136900.75,
+      373797.0,
+      179500.0
+    ],
+    "props": {
+      "source_id": 36596,
+      "label": "PFN_RW_R8_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36600",
+    "type": "point",
+    "point": [
+      250488.203125,
+      318777.09375,
+      175600.0
+    ],
+    "props": {
+      "source_id": 36600,
+      "label": "PFN_RW_R8_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36604",
+    "type": "point",
+    "point": [
+      144566.15625,
+      374937.3125,
+      179300.0
+    ],
+    "props": {
+      "source_id": 36604,
+      "label": "PFN_RW_R8_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36608",
+    "type": "point",
+    "point": [
+      143457.53125,
+      376140.96875,
+      179500.0
+    ],
+    "props": {
+      "source_id": 36608,
+      "label": "PFN_RW_R8_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36612",
+    "type": "point",
+    "point": [
+      146403.328125,
+      376489.40625,
+      179700.0
+    ],
+    "props": {
+      "source_id": 36612,
+      "label": "PFN_RW_R8_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36297",
+    "type": "point",
+    "point": [
+      135724.609375,
+      396075.59375,
+      155100.0
+    ],
+    "props": {
+      "source_id": 36297,
+      "label": "PFN_RW_R9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9478",
+    "type": "point",
+    "point": [
+      193734.203125,
+      357016.8125,
+      171300.296875
+    ],
+    "props": {
+      "source_id": 9478,
+      "label": "PFN_RW_R9_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9473",
+    "type": "point",
+    "point": [
+      260751.296875,
+      347781.6875,
+      168304.90625
+    ],
+    "props": {
+      "source_id": 9473,
+      "label": "PFN_RW_R9_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9468",
+    "type": "point",
+    "point": [
+      168281.5,
+      379464.40625,
+      162501.09375
+    ],
+    "props": {
+      "source_id": 9468,
+      "label": "PFN_RW_R9_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36302",
+    "type": "point",
+    "point": [
+      142336.8125,
+      390226.78125,
+      159300.0
+    ],
+    "props": {
+      "source_id": 36302,
+      "label": "PFN_RW_R9_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36307",
+    "type": "point",
+    "point": [
+      138950.28125,
+      398082.25,
+      154600.0
+    ],
+    "props": {
+      "source_id": 36307,
+      "label": "PFN_RW_R9_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36312",
+    "type": "point",
+    "point": [
+      149170.75,
+      391734.59375,
+      159300.0
+    ],
+    "props": {
+      "source_id": 36312,
+      "label": "PFN_RW_R9_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36317",
+    "type": "point",
+    "point": [
+      134268.03125,
+      399817.71875,
+      154600.0
+    ],
+    "props": {
+      "source_id": 36317,
+      "label": "PFN_RW_R9_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36327",
+    "type": "point",
+    "point": [
+      136908.71875,
+      391783.09375,
+      156300.0
+    ],
+    "props": {
+      "source_id": 36327,
+      "label": "PFN_RW_R9_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36334",
+    "type": "point",
+    "point": [
+      139743.15625,
+      392070.5,
+      159300.0
+    ],
+    "props": {
+      "source_id": 36334,
+      "label": "PFN_RW_R9_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36292",
+    "type": "point",
+    "point": [
+      145947.046875,
+      389164.9375,
+      159300.0
+    ],
+    "props": {
+      "source_id": 36292,
+      "label": "PFN_RW_R9_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36322",
+    "type": "point",
+    "point": [
+      131631.5625,
+      396842.71875,
+      154600.0
+    ],
+    "props": {
+      "source_id": 36322,
+      "label": "PFN_RW_R9_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9414",
+    "type": "point",
+    "point": [
+      293822.0,
+      351807.1875,
+      161233.203125
+    ],
+    "props": {
+      "source_id": 9414,
+      "label": "PFN_RX_R6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8366",
+    "type": "point",
+    "point": [
+      288998.0,
+      325556.8125,
+      162263.5
+    ],
+    "props": {
+      "source_id": 8366,
+      "label": "PFN_RX_R6_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9379",
+    "type": "point",
+    "point": [
+      308224.59375,
+      372283.59375,
+      148318.90625
+    ],
+    "props": {
+      "source_id": 9379,
+      "label": "PFN_RX_R6_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9374",
+    "type": "point",
+    "point": [
+      280224.1875,
+      290364.40625,
+      150051.90625
+    ],
+    "props": {
+      "source_id": 9374,
+      "label": "PFN_RX_R6_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9369",
+    "type": "point",
+    "point": [
+      244928.90625,
+      280062.6875,
+      193596.0
+    ],
+    "props": {
+      "source_id": 9369,
+      "label": "PFN_RX_R6_13"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36995",
+    "type": "point",
+    "point": [
+      303376.1875,
+      361756.9375,
+      155800.0
+    ],
+    "props": {
+      "source_id": 36995,
+      "label": "PFN_RX_R6_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37000",
+    "type": "point",
+    "point": [
+      234394.234375,
+      294508.40625,
+      197700.0
+    ],
+    "props": {
+      "source_id": 37000,
+      "label": "PFN_RX_R6_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37005",
+    "type": "point",
+    "point": [
+      303980.03125,
+      377290.125,
+      148900.0
+    ],
+    "props": {
+      "source_id": 37005,
+      "label": "PFN_RX_R6_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37010",
+    "type": "point",
+    "point": [
+      301565.1875,
+      368702.8125,
+      156200.0
+    ],
+    "props": {
+      "source_id": 37010,
+      "label": "PFN_RX_R6_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38861",
+    "type": "point",
+    "point": [
+      288731.46875,
+      302293.03125,
+      158400.0
+    ],
+    "props": {
+      "source_id": 38861,
+      "label": "PFN_RX_R6_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38867",
+    "type": "point",
+    "point": [
+      287286.5,
+      283613.84375,
+      161700.0
+    ],
+    "props": {
+      "source_id": 38867,
+      "label": "PFN_RX_R6_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23853",
+    "type": "point",
+    "point": [
+      102330.4765625,
+      275971.21875,
+      227000.0
+    ],
+    "props": {
+      "source_id": 23853,
+      "label": "PFN_RX_R6_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/35710",
+    "type": "point",
+    "point": [
+      287866.65625,
+      260634.03125,
+      168000.0
+    ],
+    "props": {
+      "source_id": 35710,
+      "label": "PFN_RX_R6_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36340",
+    "type": "point",
+    "point": [
+      285921.84375,
+      313623.0625,
+      170400.0
+    ],
+    "props": {
+      "source_id": 36340,
+      "label": "PFN_RX_R7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9424",
+    "type": "point",
+    "point": [
+      279182.0,
+      315085.09375,
+      171800.0
+    ],
+    "props": {
+      "source_id": 9424,
+      "label": "PFN_RX_R7_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9419",
+    "type": "point",
+    "point": [
+      244180.09375,
+      285326.40625,
+      175900.0
+    ],
+    "props": {
+      "source_id": 9419,
+      "label": "PFN_RX_R7_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36982",
+    "type": "point",
+    "point": [
+      227002.34375,
+      293813.8125,
+      197700.0
+    ],
+    "props": {
+      "source_id": 36982,
+      "label": "PFN_RX_R7_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36990",
+    "type": "point",
+    "point": [
+      232426.0,
+      293153.21875,
+      197700.0
+    ],
+    "props": {
+      "source_id": 36990,
+      "label": "PFN_RX_R7_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37654",
+    "type": "point",
+    "point": [
+      297878.53125,
+      322568.4375,
+      183400.0
+    ],
+    "props": {
+      "source_id": 37654,
+      "label": "PFN_RX_R7_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/37659",
+    "type": "point",
+    "point": [
+      293616.75,
+      321503.0,
+      183400.0
+    ],
+    "props": {
+      "source_id": 37659,
+      "label": "PFN_RX_R7_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/41319",
+    "type": "point",
+    "point": [
+      260525.84375,
+      290360.4375,
+      172500.0
+    ],
+    "props": {
+      "source_id": 41319,
+      "label": "PFN_RX_R7_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/41324",
+    "type": "point",
+    "point": [
+      213873.96875,
+      320250.375,
+      201000.0
+    ],
+    "props": {
+      "source_id": 41324,
+      "label": "PFN_RX_R7_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9429",
+    "type": "point",
+    "point": [
+      208485.59375,
+      293244.8125,
+      210246.296875
+    ],
+    "props": {
+      "source_id": 9429,
+      "label": "PFN_RX_R7_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9434",
+    "type": "point",
+    "point": [
+      237377.703125,
+      285595.1875,
+      184500.0
+    ],
+    "props": {
+      "source_id": 9434,
+      "label": "PFN_RX_R7_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8348",
+    "type": "point",
+    "point": [
+      327627.09375,
+      314865.5,
+      147161.40625
+    ],
+    "props": {
+      "source_id": 8348,
+      "label": "PFN_RY_R4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8318",
+    "type": "point",
+    "point": [
+      345707.3125,
+      288995.6875,
+      148542.703125
+    ],
+    "props": {
+      "source_id": 8318,
+      "label": "PFN_RY_R4_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8324",
+    "type": "point",
+    "point": [
+      323120.1875,
+      343215.0,
+      157107.40625
+    ],
+    "props": {
+      "source_id": 8324,
+      "label": "PFN_RY_R4_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8330",
+    "type": "point",
+    "point": [
+      354392.5,
+      308509.90625,
+      154808.5
+    ],
+    "props": {
+      "source_id": 8330,
+      "label": "PFN_RY_R4_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/35673",
+    "type": "point",
+    "point": [
+      161534.484375,
+      271775.96875,
+      228600.0
+    ],
+    "props": {
+      "source_id": 35673,
+      "label": "PFN_RY_R4_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38984",
+    "type": "point",
+    "point": [
+      334551.125,
+      281713.96875,
+      169600.0
+    ],
+    "props": {
+      "source_id": 38984,
+      "label": "PFN_RY_R4_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38989",
+    "type": "point",
+    "point": [
+      335288.28125,
+      283004.03125,
+      169600.0
+    ],
+    "props": {
+      "source_id": 38989,
+      "label": "PFN_RY_R4_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38994",
+    "type": "point",
+    "point": [
+      336209.75,
+      281115.03125,
+      169600.0
+    ],
+    "props": {
+      "source_id": 38994,
+      "label": "PFN_RY_R4_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39002",
+    "type": "point",
+    "point": [
+      327909.40625,
+      282108.46875,
+      176100.0
+    ],
+    "props": {
+      "source_id": 39002,
+      "label": "PFN_RY_R4_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39007",
+    "type": "point",
+    "point": [
+      330259.125,
+      283352.46875,
+      176100.0
+    ],
+    "props": {
+      "source_id": 39007,
+      "label": "PFN_RY_R4_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39012",
+    "type": "point",
+    "point": [
+      282295.46875,
+      275493.90625,
+      191800.0
+    ],
+    "props": {
+      "source_id": 39012,
+      "label": "PFN_RY_R4_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8336",
+    "type": "point",
+    "point": [
+      172767.40625,
+      270403.0,
+      224301.09375
+    ],
+    "props": {
+      "source_id": 8336,
+      "label": "PFN_RY_R4_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38872",
+    "type": "point",
+    "point": [
+      317820.25,
+      303829.78125,
+      160200.0
+    ],
+    "props": {
+      "source_id": 38872,
+      "label": "PFN_RY_R5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8354",
+    "type": "point",
+    "point": [
+      307157.5,
+      275495.90625,
+      156950.40625
+    ],
+    "props": {
+      "source_id": 8354,
+      "label": "PFN_RY_R5_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8360",
+    "type": "point",
+    "point": [
+      307303.1875,
+      284411.90625,
+      153221.0
+    ],
+    "props": {
+      "source_id": 8360,
+      "label": "PFN_RY_R5_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38880",
+    "type": "point",
+    "point": [
+      315095.625,
+      309760.53125,
+      167400.0
+    ],
+    "props": {
+      "source_id": 38880,
+      "label": "PFN_RY_R5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38926",
+    "type": "point",
+    "point": [
+      267590.53125,
+      289754.5,
+      190400.0
+    ],
+    "props": {
+      "source_id": 38926,
+      "label": "PFN_RY_R5_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38930",
+    "type": "point",
+    "point": [
+      232528.890625,
+      288435.65625,
+      213200.0
+    ],
+    "props": {
+      "source_id": 38930,
+      "label": "PFN_RY_R5_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/41194",
+    "type": "point",
+    "point": [
+      297206.875,
+      279631.34375,
+      177200.0
+    ],
+    "props": {
+      "source_id": 41194,
+      "label": "PFN_RY_R5_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/41199",
+    "type": "point",
+    "point": [
+      293382.78125,
+      278203.09375,
+      177200.0
+    ],
+    "props": {
+      "source_id": 41199,
+      "label": "PFN_RY_R5_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/41214",
+    "type": "point",
+    "point": [
+      321131.21875,
+      316026.46875,
+      167400.0
+    ],
+    "props": {
+      "source_id": 41214,
+      "label": "PFN_RY_R5_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/41230",
+    "type": "point",
+    "point": [
+      318099.03125,
+      308425.8125,
+      166400.0
+    ],
+    "props": {
+      "source_id": 41230,
+      "label": "PFN_RY_R5_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/41242",
+    "type": "point",
+    "point": [
+      320875.0,
+      288453.46875,
+      162400.0
+    ],
+    "props": {
+      "source_id": 41242,
+      "label": "PFN_RY_R5_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39173",
+    "type": "point",
+    "point": [
+      369517.0625,
+      285104.28125,
+      176700.0
+    ],
+    "props": {
+      "source_id": 39173,
+      "label": "PFN_RZ_R2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39126",
+    "type": "point",
+    "point": [
+      361886.15625,
+      291707.6875,
+      168800.0
+    ],
+    "props": {
+      "source_id": 39126,
+      "label": "PFN_RZ_R2_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39417",
+    "type": "point",
+    "point": [
+      383853.03125,
+      316665.78125,
+      159900.0
+    ],
+    "props": {
+      "source_id": 39417,
+      "label": "PFN_RZ_R2_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8294",
+    "type": "point",
+    "point": [
+      386106.90625,
+      301570.59375,
+      164457.0
+    ],
+    "props": {
+      "source_id": 8294,
+      "label": "PFN_RZ_R2_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8300",
+    "type": "point",
+    "point": [
+      371637.09375,
+      357297.5,
+      157704.59375
+    ],
+    "props": {
+      "source_id": 8300,
+      "label": "PFN_RZ_R2_13"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8306",
+    "type": "point",
+    "point": [
+      369590.5,
+      366589.09375,
+      157800.0
+    ],
+    "props": {
+      "source_id": 8306,
+      "label": "PFN_RZ_R2_14"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39178",
+    "type": "point",
+    "point": [
+      367489.84375,
+      285288.59375,
+      176700.0
+    ],
+    "props": {
+      "source_id": 39178,
+      "label": "PFN_RZ_R2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39183",
+    "type": "point",
+    "point": [
+      364794.59375,
+      285196.4375,
+      176700.0
+    ],
+    "props": {
+      "source_id": 39183,
+      "label": "PFN_RZ_R2_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39188",
+    "type": "point",
+    "point": [
+      366361.0625,
+      286832.03125,
+      176700.0
+    ],
+    "props": {
+      "source_id": 39188,
+      "label": "PFN_RZ_R2_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39193",
+    "type": "point",
+    "point": [
+      368157.90625,
+      287223.65625,
+      176700.0
+    ],
+    "props": {
+      "source_id": 39193,
+      "label": "PFN_RZ_R2_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39409",
+    "type": "point",
+    "point": [
+      386294.90625,
+      319430.15625,
+      159900.0
+    ],
+    "props": {
+      "source_id": 39409,
+      "label": "PFN_RZ_R2_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39424",
+    "type": "point",
+    "point": [
+      388109.03125,
+      327452.625,
+      156900.0
+    ],
+    "props": {
+      "source_id": 39424,
+      "label": "PFN_RZ_R2_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39429",
+    "type": "point",
+    "point": [
+      390375.21875,
+      332431.40625,
+      157700.0
+    ],
+    "props": {
+      "source_id": 39429,
+      "label": "PFN_RZ_R2_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39797",
+    "type": "point",
+    "point": [
+      384232.625,
+      361235.0625,
+      151700.0
+    ],
+    "props": {
+      "source_id": 39797,
+      "label": "PFN_RZ_R2_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39068",
+    "type": "point",
+    "point": [
+      371462.1875,
+      308031.9375,
+      147500.0
+    ],
+    "props": {
+      "source_id": 39068,
+      "label": "PFN_RZ_R3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24582",
+    "type": "point",
+    "point": [
+      227823.859375,
+      125099.015625,
+      364800.0
+    ],
+    "props": {
+      "source_id": 24582,
+      "label": "PFN_RZ_R3_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/8312",
+    "type": "point",
+    "point": [
+      366585.6875,
+      315617.1875,
+      147700.0
+    ],
+    "props": {
+      "source_id": 8312,
+      "label": "PFN_RZ_R3_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39198",
+    "type": "point",
+    "point": [
+      369885.65625,
+      287454.0,
+      176700.0
+    ],
+    "props": {
+      "source_id": 39198,
+      "label": "PFN_RZ_R3_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39073",
+    "type": "point",
+    "point": [
+      373627.625,
+      309275.90625,
+      147500.0
+    ],
+    "props": {
+      "source_id": 39073,
+      "label": "PFN_RZ_R3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39078",
+    "type": "point",
+    "point": [
+      375885.1875,
+      313745.0,
+      147500.0
+    ],
+    "props": {
+      "source_id": 39078,
+      "label": "PFN_RZ_R3_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39094",
+    "type": "point",
+    "point": [
+      293564.125,
+      287584.125,
+      199900.0
+    ],
+    "props": {
+      "source_id": 39094,
+      "label": "PFN_RZ_R3_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39101",
+    "type": "point",
+    "point": [
+      358861.1875,
+      294971.6875,
+      167700.0
+    ],
+    "props": {
+      "source_id": 39101,
+      "label": "PFN_RZ_R3_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39106",
+    "type": "point",
+    "point": [
+      361809.875,
+      294234.53125,
+      167700.0
+    ],
+    "props": {
+      "source_id": 39106,
+      "label": "PFN_RZ_R3_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39111",
+    "type": "point",
+    "point": [
+      361287.25,
+      294587.28125,
+      169100.0
+    ],
+    "props": {
+      "source_id": 39111,
+      "label": "PFN_RZ_R3_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39116",
+    "type": "point",
+    "point": [
+      307088.0,
+      288302.625,
+      199000.0
+    ],
+    "props": {
+      "source_id": 39116,
+      "label": "PFN_RZ_R3_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39121",
+    "type": "point",
+    "point": [
+      359213.9375,
+      296084.65625,
+      170000.0
+    ],
+    "props": {
+      "source_id": 39121,
+      "label": "PFN_RZ_R3_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9252",
+    "type": "point",
+    "point": [
+      235585.34375,
+      257960.96875,
+      193740.828125
+    ],
+    "props": {
+      "source_id": 9252,
+      "label": "PF_Uncertain"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12695",
+    "type": "point",
+    "point": [
+      227029.96875,
+      281408.53125,
+      215519.796875
+    ],
+    "props": {
+      "source_id": 12695,
+      "label": "PF_Uncertain"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9495",
+    "type": "point",
+    "point": [
+      400255.5,
+      299919.8125,
+      134981.40625
+    ],
+    "props": {
+      "source_id": 9495,
+      "label": "PFx1_LW_L8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9500",
+    "type": "point",
+    "point": [
+      200877.5,
+      376200.40625,
+      721.5999755859375
+    ],
+    "props": {
+      "source_id": 9500,
+      "label": "PFx1_LW_L9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9505",
+    "type": "point",
+    "point": [
+      185020.90625,
+      376839.8125,
+      0.0
+    ],
+    "props": {
+      "source_id": 9505,
+      "label": "PFx1_LX_L6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9510",
+    "type": "point",
+    "point": [
+      347870.59375,
+      264110.90625,
+      120805.796875
+    ],
+    "props": {
+      "source_id": 9510,
+      "label": "PFx1_LX_L7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9515",
+    "type": "point",
+    "point": [
+      185017.09375,
+      370924.1875,
+      721.2000122070312
+    ],
+    "props": {
+      "source_id": 9515,
+      "label": "PFx1_LY_L4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9520",
+    "type": "point",
+    "point": [
+      187885.296875,
+      369249.90625,
+      0.0
+    ],
+    "props": {
+      "source_id": 9520,
+      "label": "PFx1_LY_L5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9530",
+    "type": "point",
+    "point": [
+      185928.203125,
+      372535.40625,
+      0.0
+    ],
+    "props": {
+      "source_id": 9530,
+      "label": "PFx1_LZ_L2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9535",
+    "type": "point",
+    "point": [
+      192546.796875,
+      365317.3125,
+      400.0
+    ],
+    "props": {
+      "source_id": 9535,
+      "label": "PFx1_LZ_L3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9570",
+    "type": "point",
+    "point": [
+      172396.59375,
+      333163.1875,
+      193351.59375
+    ],
+    "props": {
+      "source_id": 9570,
+      "label": "PFx1_LZ_R1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9540",
+    "type": "point",
+    "point": [
+      172492.5,
+      321450.6875,
+      168761.203125
+    ],
+    "props": {
+      "source_id": 9540,
+      "label": "PFx1_RW_R8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9545",
+    "type": "point",
+    "point": [
+      181909.40625,
+      348638.8125,
+      151600.0
+    ],
+    "props": {
+      "source_id": 9545,
+      "label": "PFx1_RW_R9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9550",
+    "type": "point",
+    "point": [
+      134864.296875,
+      282979.40625,
+      197712.5
+    ],
+    "props": {
+      "source_id": 9550,
+      "label": "PFx1_RX_R6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9555",
+    "type": "point",
+    "point": [
+      267204.5,
+      358204.90625,
+      5.699999809265137
+    ],
+    "props": {
+      "source_id": 9555,
+      "label": "PFx1_RX_R7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9560",
+    "type": "point",
+    "point": [
+      158629.90625,
+      257852.09375,
+      241700.0
+    ],
+    "props": {
+      "source_id": 9560,
+      "label": "PFx1_RY_R4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9565",
+    "type": "point",
+    "point": [
+      251447.203125,
+      166115.296875,
+      154200.0
+    ],
+    "props": {
+      "source_id": 9565,
+      "label": "PFx1_RY_R5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9525",
+    "type": "point",
+    "point": [
+      379889.90625,
+      352366.40625,
+      121072.296875
+    ],
+    "props": {
+      "source_id": 9525,
+      "label": "PFx1_RZ_L1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9575",
+    "type": "point",
+    "point": [
+      267305.90625,
+      339697.1875,
+      8957.900390625
+    ],
+    "props": {
+      "source_id": 9575,
+      "label": "PFx1_RZ_R2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9580",
+    "type": "point",
+    "point": [
+      301882.09375,
+      294397.6875,
+      31188.900390625
+    ],
+    "props": {
+      "source_id": 9580,
+      "label": "PFx1_RZ_R3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9672",
+    "type": "point",
+    "point": [
+      382631.90625,
+      307979.6875,
+      129189.3984375
+    ],
+    "props": {
+      "source_id": 9672,
+      "label": "PFx2_LW_L8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9667",
+    "type": "point",
+    "point": [
+      438446.0,
+      318737.90625,
+      127905.6015625
+    ],
+    "props": {
+      "source_id": 9667,
+      "label": "PFx2_LW_L9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9677",
+    "type": "point",
+    "point": [
+      330658.5,
+      251682.59375,
+      150990.0
+    ],
+    "props": {
+      "source_id": 9677,
+      "label": "PFx2_LX_L6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9682",
+    "type": "point",
+    "point": [
+      349568.0,
+      276765.5,
+      132720.0
+    ],
+    "props": {
+      "source_id": 9682,
+      "label": "PFx2_LX_L7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9687",
+    "type": "point",
+    "point": [
+      247935.59375,
+      253105.796875,
+      173628.59375
+    ],
+    "props": {
+      "source_id": 9687,
+      "label": "PFx2_LY_L4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9692",
+    "type": "point",
+    "point": [
+      293784.0,
+      235053.09375,
+      157300.0
+    ],
+    "props": {
+      "source_id": 9692,
+      "label": "PFx2_LY_L5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9702",
+    "type": "point",
+    "point": [
+      188843.5,
+      301723.90625,
+      187568.703125
+    ],
+    "props": {
+      "source_id": 9702,
+      "label": "PFx2_LZ_L2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9707",
+    "type": "point",
+    "point": [
+      208088.203125,
+      243300.703125,
+      180500.0
+    ],
+    "props": {
+      "source_id": 9707,
+      "label": "PFx2_LZ_L3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9742",
+    "type": "point",
+    "point": [
+      158964.09375,
+      357960.90625,
+      174370.796875
+    ],
+    "props": {
+      "source_id": 9742,
+      "label": "PFx2_LZ_R1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9712",
+    "type": "point",
+    "point": [
+      164165.703125,
+      325935.09375,
+      180658.203125
+    ],
+    "props": {
+      "source_id": 9712,
+      "label": "PFx2_RW_R8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9717",
+    "type": "point",
+    "point": [
+      58415.0,
+      460278.0,
+      198719.796875
+    ],
+    "props": {
+      "source_id": 9717,
+      "label": "PFx2_RW_R9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9722",
+    "type": "point",
+    "point": [
+      229902.5,
+      240747.0,
+      182666.703125
+    ],
+    "props": {
+      "source_id": 9722,
+      "label": "PFx2_RX_R6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9727",
+    "type": "point",
+    "point": [
+      172910.0,
+      262312.09375,
+      199778.59375
+    ],
+    "props": {
+      "source_id": 9727,
+      "label": "PFx2_RX_R7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9732",
+    "type": "point",
+    "point": [
+      155072.0,
+      265019.3125,
+      232400.0
+    ],
+    "props": {
+      "source_id": 9732,
+      "label": "PFx2_RY_R4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9737",
+    "type": "point",
+    "point": [
+      245430.5,
+      186096.796875,
+      171600.0
+    ],
+    "props": {
+      "source_id": 9737,
+      "label": "PFx2_RY_R5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9697",
+    "type": "point",
+    "point": [
+      399132.8125,
+      332543.5,
+      133881.703125
+    ],
+    "props": {
+      "source_id": 9697,
+      "label": "PFx2_RZ_L1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9747",
+    "type": "point",
+    "point": [
+      223786.203125,
+      109878.8984375,
+      172184.59375
+    ],
+    "props": {
+      "source_id": 9747,
+      "label": "PFx2_RZ_R2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9752",
+    "type": "point",
+    "point": [
+      342257.6875,
+      251849.59375,
+      147983.796875
+    ],
+    "props": {
+      "source_id": 9752,
+      "label": "PFx2_RZ_R3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9776",
+    "type": "point",
+    "point": [
+      369368.0,
+      305738.0,
+      115405.796875
+    ],
+    "props": {
+      "source_id": 9776,
+      "label": "PFx3_LW_L8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9781",
+    "type": "point",
+    "point": [
+      387035.59375,
+      324152.59375,
+      109200.0
+    ],
+    "props": {
+      "source_id": 9781,
+      "label": "PFx3_LW_L9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9786",
+    "type": "point",
+    "point": [
+      312417.8125,
+      264224.8125,
+      131020.0
+    ],
+    "props": {
+      "source_id": 9786,
+      "label": "PFx3_LX_L6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9791",
+    "type": "point",
+    "point": [
+      303770.0,
+      223254.296875,
+      100161.3984375
+    ],
+    "props": {
+      "source_id": 9791,
+      "label": "PFx3_LX_L6_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9796",
+    "type": "point",
+    "point": [
+      235189.09375,
+      329977.5,
+      45503.0
+    ],
+    "props": {
+      "source_id": 9796,
+      "label": "PFx3_LY_L4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9801",
+    "type": "point",
+    "point": [
+      239342.90625,
+      320729.59375,
+      33818.69921875
+    ],
+    "props": {
+      "source_id": 9801,
+      "label": "PFx3_LY_L5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9816",
+    "type": "point",
+    "point": [
+      161598.203125,
+      283852.59375,
+      140725.0
+    ],
+    "props": {
+      "source_id": 9816,
+      "label": "PFx3_LZ_L2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9811",
+    "type": "point",
+    "point": [
+      231917.296875,
+      338680.1875,
+      47657.5
+    ],
+    "props": {
+      "source_id": 9811,
+      "label": "PFx3_LZ_L2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9821",
+    "type": "point",
+    "point": [
+      235366.09375,
+      317521.6875,
+      22207.900390625
+    ],
+    "props": {
+      "source_id": 9821,
+      "label": "PFx3_LZ_L3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9856",
+    "type": "point",
+    "point": [
+      168563.296875,
+      362971.8125,
+      132427.90625
+    ],
+    "props": {
+      "source_id": 9856,
+      "label": "PFx3_LZ_R1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9826",
+    "type": "point",
+    "point": [
+      237967.09375,
+      343115.90625,
+      48282.0
+    ],
+    "props": {
+      "source_id": 9826,
+      "label": "PFx3_RW_R8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9831",
+    "type": "point",
+    "point": [
+      177481.09375,
+      350771.0,
+      152389.296875
+    ],
+    "props": {
+      "source_id": 9831,
+      "label": "PFx3_RW_R9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9836",
+    "type": "point",
+    "point": [
+      245831.296875,
+      333762.5,
+      64461.0
+    ],
+    "props": {
+      "source_id": 9836,
+      "label": "PFx3_RX_R6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9841",
+    "type": "point",
+    "point": [
+      236211.5,
+      330026.5,
+      59275.5
+    ],
+    "props": {
+      "source_id": 9841,
+      "label": "PFx3_RX_R7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9846",
+    "type": "point",
+    "point": [
+      214665.09375,
+      237928.09375,
+      403163.09375
+    ],
+    "props": {
+      "source_id": 9846,
+      "label": "PFx3_RY_R4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9851",
+    "type": "point",
+    "point": [
+      267192.09375,
+      286884.59375,
+      82828.6015625
+    ],
+    "props": {
+      "source_id": 9851,
+      "label": "PFx3_RY_R5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9806",
+    "type": "point",
+    "point": [
+      386635.1875,
+      347435.90625,
+      121314.5
+    ],
+    "props": {
+      "source_id": 9806,
+      "label": "PFx3_RZ_L1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9861",
+    "type": "point",
+    "point": [
+      360310.90625,
+      292933.90625,
+      113742.796875
+    ],
+    "props": {
+      "source_id": 9861,
+      "label": "PFx3_RZ_R2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/9866",
+    "type": "point",
+    "point": [
+      260421.59375,
+      294189.90625,
+      17963.599609375
+    ],
+    "props": {
+      "source_id": 9866,
+      "label": "PFx3_RZ_R3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23831",
+    "type": "point",
+    "point": [
+      215789.234375,
+      304427.1875,
+      30900.0
+    ],
+    "props": {
+      "source_id": 23831,
+      "label": "PFx4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10519",
+    "type": "point",
+    "point": [
+      263783.1875,
+      336687.09375,
+      38755.19921875
+    ],
+    "props": {
+      "source_id": 10519,
+      "label": "PFx4_LW_L8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10524",
+    "type": "point",
+    "point": [
+      334524.40625,
+      287645.5,
+      71067.3984375
+    ],
+    "props": {
+      "source_id": 10524,
+      "label": "PFx4_LW_L8_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10529",
+    "type": "point",
+    "point": [
+      377810.5,
+      330173.3125,
+      103989.3984375
+    ],
+    "props": {
+      "source_id": 10529,
+      "label": "PFx4_LW_L9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10534",
+    "type": "point",
+    "point": [
+      254558.5,
+      325750.0,
+      51269.30078125
+    ],
+    "props": {
+      "source_id": 10534,
+      "label": "PFx4_LX_L7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10539",
+    "type": "point",
+    "point": [
+      234523.703125,
+      322938.59375,
+      26890.599609375
+    ],
+    "props": {
+      "source_id": 10539,
+      "label": "PFx4_LY_L4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10554",
+    "type": "point",
+    "point": [
+      245143.59375,
+      245974.0,
+      66683.0
+    ],
+    "props": {
+      "source_id": 10554,
+      "label": "PFx4_LY_L5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10559",
+    "type": "point",
+    "point": [
+      245170.5,
+      241735.0,
+      69322.5
+    ],
+    "props": {
+      "source_id": 10559,
+      "label": "PFx4_LY_L5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10822",
+    "type": "point",
+    "point": [
+      334550.0,
+      104224.5,
+      176711.203125
+    ],
+    "props": {
+      "source_id": 10822,
+      "label": "PFx4_LZ_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10564",
+    "type": "point",
+    "point": [
+      241424.703125,
+      340432.3125,
+      44770.3984375
+    ],
+    "props": {
+      "source_id": 10564,
+      "label": "PFx4_RW_R8_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10614",
+    "type": "point",
+    "point": [
+      223263.09375,
+      322104.90625,
+      35468.0
+    ],
+    "props": {
+      "source_id": 10614,
+      "label": "PFx4_RW_R8_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/28267",
+    "type": "point",
+    "point": [
+      234022.46875,
+      339671.71875,
+      50200.0
+    ],
+    "props": {
+      "source_id": 28267,
+      "label": "PFx4_RW_R8_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10569",
+    "type": "point",
+    "point": [
+      245488.40625,
+      346871.90625,
+      46760.8984375
+    ],
+    "props": {
+      "source_id": 10569,
+      "label": "PFx4_RW_R9_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10574",
+    "type": "point",
+    "point": [
+      253223.703125,
+      324063.5,
+      4472.39990234375
+    ],
+    "props": {
+      "source_id": 10574,
+      "label": "PFx4_RX_R6_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10604",
+    "type": "point",
+    "point": [
+      209072.703125,
+      259705.296875,
+      103906.203125
+    ],
+    "props": {
+      "source_id": 10604,
+      "label": "PFx4_RX_R6_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10609",
+    "type": "point",
+    "point": [
+      237068.40625,
+      315884.59375,
+      30324.30078125
+    ],
+    "props": {
+      "source_id": 10609,
+      "label": "PFx4_RX_R7_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10579",
+    "type": "point",
+    "point": [
+      261751.796875,
+      224216.90625,
+      138300.0
+    ],
+    "props": {
+      "source_id": 10579,
+      "label": "PFx4_RY_R5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10584",
+    "type": "point",
+    "point": [
+      245566.703125,
+      299562.5,
+      17462.80078125
+    ],
+    "props": {
+      "source_id": 10584,
+      "label": "PFx4_RY_R5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10544",
+    "type": "point",
+    "point": [
+      255391.703125,
+      319767.1875,
+      13947.599609375
+    ],
+    "props": {
+      "source_id": 10544,
+      "label": "PFx4_RZ_L1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10549",
+    "type": "point",
+    "point": [
+      380033.40625,
+      332692.1875,
+      87614.703125
+    ],
+    "props": {
+      "source_id": 10549,
+      "label": "PFx4_RZ_L1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10594",
+    "type": "point",
+    "point": [
+      259036.40625,
+      326761.09375,
+      29593.0
+    ],
+    "props": {
+      "source_id": 10594,
+      "label": "PFx4_RZ_R2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10589",
+    "type": "point",
+    "point": [
+      304940.3125,
+      247195.203125,
+      57444.0
+    ],
+    "props": {
+      "source_id": 10589,
+      "label": "PFx4_RZ_R3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10599",
+    "type": "point",
+    "point": [
+      302696.6875,
+      259874.703125,
+      54887.8984375
+    ],
+    "props": {
+      "source_id": 10599,
+      "label": "PFx4_RZ_R3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/27982",
+    "type": "point",
+    "point": [
+      228600.1875,
+      346223.5625,
+      69900.0
+    ],
+    "props": {
+      "source_id": 27982,
+      "label": "PFx_R_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24606",
+    "type": "point",
+    "point": [
+      207361.578125,
+      157583.453125,
+      399200.0
+    ],
+    "props": {
+      "source_id": 24606,
+      "label": "fragment_columnar_R_z"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24545",
+    "type": "point",
+    "point": [
+      428918.125,
+      288454.46875,
+      138000.0
+    ],
+    "props": {
+      "source_id": 24545,
+      "label": "fragment_small_L_x_SH1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11943",
+    "type": "point",
+    "point": [
+      347975.59375,
+      146142.59375,
+      143397.296875
+    ],
+    "props": {
+      "source_id": 11943,
+      "label": "hDelta_LW_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11948",
+    "type": "point",
+    "point": [
+      449002.90625,
+      296846.59375,
+      127292.8984375
+    ],
+    "props": {
+      "source_id": 11948,
+      "label": "hDelta_LW_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/28310",
+    "type": "point",
+    "point": [
+      307811.875,
+      183976.96875,
+      22900.0
+    ],
+    "props": {
+      "source_id": 28310,
+      "label": "hDelta_LW_13"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/35989",
+    "type": "point",
+    "point": [
+      369324.40625,
+      280215.375,
+      83200.0
+    ],
+    "props": {
+      "source_id": 35989,
+      "label": "hDelta_LW_14"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11953",
+    "type": "point",
+    "point": [
+      426452.40625,
+      280337.6875,
+      129615.3984375
+    ],
+    "props": {
+      "source_id": 11953,
+      "label": "hDelta_LW_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24296",
+    "type": "point",
+    "point": [
+      408311.8125,
+      251119.71875,
+      144700.0
+    ],
+    "props": {
+      "source_id": 24296,
+      "label": "hDelta_LW_Type1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24622",
+    "type": "point",
+    "point": [
+      246870.609375,
+      178183.53125,
+      196100.0
+    ],
+    "props": {
+      "source_id": 24622,
+      "label": "hDelta_LW_Type1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/35937",
+    "type": "point",
+    "point": [
+      394933.84375,
+      201207.390625,
+      135000.0
+    ],
+    "props": {
+      "source_id": 35937,
+      "label": "hDelta_LW_Type1_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38890",
+    "type": "point",
+    "point": [
+      246159.546875,
+      187978.5,
+      185600.0
+    ],
+    "props": {
+      "source_id": 38890,
+      "label": "hDelta_LW_Type1_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11958",
+    "type": "point",
+    "point": [
+      440337.0,
+      314302.3125,
+      131122.703125
+    ],
+    "props": {
+      "source_id": 11958,
+      "label": "hDelta_LW_Type2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11885",
+    "type": "point",
+    "point": [
+      439151.90625,
+      341156.8125,
+      118660.796875
+    ],
+    "props": {
+      "source_id": 11885,
+      "label": "hDelta_LW_Type3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11923",
+    "type": "point",
+    "point": [
+      451249.09375,
+      298077.5,
+      126125.5
+    ],
+    "props": {
+      "source_id": 11923,
+      "label": "hDelta_LW_Type3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11900",
+    "type": "point",
+    "point": [
+      419336.59375,
+      286028.5,
+      142146.703125
+    ],
+    "props": {
+      "source_id": 11900,
+      "label": "hDelta_LW_Type3_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11963",
+    "type": "point",
+    "point": [
+      438753.5,
+      345759.0,
+      109161.3984375
+    ],
+    "props": {
+      "source_id": 11963,
+      "label": "hDelta_LW_Type3_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11918",
+    "type": "point",
+    "point": [
+      447995.5,
+      287459.3125,
+      126335.6015625
+    ],
+    "props": {
+      "source_id": 11918,
+      "label": "hDelta_LW_Type3_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11933",
+    "type": "point",
+    "point": [
+      422421.0,
+      307341.3125,
+      108384.203125
+    ],
+    "props": {
+      "source_id": 11933,
+      "label": "hDelta_LW_Type3_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11928",
+    "type": "point",
+    "point": [
+      275695.09375,
+      191460.796875,
+      159480.90625
+    ],
+    "props": {
+      "source_id": 11928,
+      "label": "hDelta_LW_Type3_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11938",
+    "type": "point",
+    "point": [
+      276368.90625,
+      197339.703125,
+      159950.0
+    ],
+    "props": {
+      "source_id": 11938,
+      "label": "hDelta_LW_Type4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/35974",
+    "type": "point",
+    "point": [
+      417163.1875,
+      343608.90625,
+      101900.0
+    ],
+    "props": {
+      "source_id": 35974,
+      "label": "hDelta_LW_Type5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12793",
+    "type": "point",
+    "point": [
+      172285.09375,
+      160535.59375,
+      73196.6015625
+    ],
+    "props": {
+      "source_id": 12793,
+      "label": "hDelta_LX_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12733",
+    "type": "point",
+    "point": [
+      248524.203125,
+      260716.40625,
+      143767.90625
+    ],
+    "props": {
+      "source_id": 12733,
+      "label": "hDelta_LX_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12074",
+    "type": "point",
+    "point": [
+      341526.5,
+      191355.203125,
+      21232.19921875
+    ],
+    "props": {
+      "source_id": 12074,
+      "label": "hDelta_LX_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12079",
+    "type": "point",
+    "point": [
+      350881.8125,
+      206865.0,
+      35457.19921875
+    ],
+    "props": {
+      "source_id": 12079,
+      "label": "hDelta_LX_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12069",
+    "type": "point",
+    "point": [
+      449904.90625,
+      158641.09375,
+      132823.5
+    ],
+    "props": {
+      "source_id": 12069,
+      "label": "hDelta_LX_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25683",
+    "type": "point",
+    "point": [
+      413011.09375,
+      208392.171875,
+      130700.0
+    ],
+    "props": {
+      "source_id": 25683,
+      "label": "hDelta_LX_Type1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12034",
+    "type": "point",
+    "point": [
+      387845.1875,
+      197218.0,
+      154044.703125
+    ],
+    "props": {
+      "source_id": 12034,
+      "label": "hDelta_LX_Type1_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12044",
+    "type": "point",
+    "point": [
+      233197.296875,
+      187215.90625,
+      197424.09375
+    ],
+    "props": {
+      "source_id": 12044,
+      "label": "hDelta_LX_Type1_11"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12039",
+    "type": "point",
+    "point": [
+      415233.59375,
+      213199.203125,
+      135311.09375
+    ],
+    "props": {
+      "source_id": 12039,
+      "label": "hDelta_LX_Type1_12"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25459",
+    "type": "point",
+    "point": [
+      412329.1875,
+      199414.3125,
+      109700.0
+    ],
+    "props": {
+      "source_id": 25459,
+      "label": "hDelta_LX_Type1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25673",
+    "type": "point",
+    "point": [
+      420790.6875,
+      204887.46875,
+      116000.0
+    ],
+    "props": {
+      "source_id": 25673,
+      "label": "hDelta_LX_Type1_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39502",
+    "type": "point",
+    "point": [
+      407647.84375,
+      193843.25,
+      124800.0
+    ],
+    "props": {
+      "source_id": 39502,
+      "label": "hDelta_LX_Type1_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39509",
+    "type": "point",
+    "point": [
+      420777.5,
+      215006.96875,
+      123000.0
+    ],
+    "props": {
+      "source_id": 39509,
+      "label": "hDelta_LX_Type1_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12054",
+    "type": "point",
+    "point": [
+      391737.0,
+      197272.59375,
+      150084.703125
+    ],
+    "props": {
+      "source_id": 12054,
+      "label": "hDelta_LX_Type1_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12185",
+    "type": "point",
+    "point": [
+      383269.0,
+      208651.296875,
+      158115.703125
+    ],
+    "props": {
+      "source_id": 12185,
+      "label": "hDelta_LX_Type1_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12049",
+    "type": "point",
+    "point": [
+      414589.09375,
+      206662.703125,
+      132814.0
+    ],
+    "props": {
+      "source_id": 12049,
+      "label": "hDelta_LX_Type1_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12009",
+    "type": "point",
+    "point": [
+      408648.09375,
+      217166.0,
+      140850.0
+    ],
+    "props": {
+      "source_id": 12009,
+      "label": "hDelta_LX_Type1_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/26905",
+    "type": "point",
+    "point": [
+      178793.625,
+      199569.28125,
+      188400.0
+    ],
+    "props": {
+      "source_id": 26905,
+      "label": "hDelta_LX_Type2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/35734",
+    "type": "point",
+    "point": [
+      404975.25,
+      216802.640625,
+      136700.0
+    ],
+    "props": {
+      "source_id": 35734,
+      "label": "hDelta_LX_Type2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12743",
+    "type": "point",
+    "point": [
+      231599.0,
+      251258.703125,
+      166221.59375
+    ],
+    "props": {
+      "source_id": 12743,
+      "label": "hDelta_LX_Type2_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12703",
+    "type": "point",
+    "point": [
+      427902.59375,
+      239258.90625,
+      127730.796875
+    ],
+    "props": {
+      "source_id": 12703,
+      "label": "hDelta_LX_Type2_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24617",
+    "type": "point",
+    "point": [
+      396358.1875,
+      225427.203125,
+      152700.0
+    ],
+    "props": {
+      "source_id": 24617,
+      "label": "hDelta_LX_Type3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23793",
+    "type": "point",
+    "point": [
+      368911.125,
+      248768.546875,
+      173800.0
+    ],
+    "props": {
+      "source_id": 23793,
+      "label": "hDelta_LX_Type3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12014",
+    "type": "point",
+    "point": [
+      412221.90625,
+      229528.0,
+      140871.296875
+    ],
+    "props": {
+      "source_id": 12014,
+      "label": "hDelta_LX_Type3_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12064",
+    "type": "point",
+    "point": [
+      406867.0,
+      237518.0,
+      137558.296875
+    ],
+    "props": {
+      "source_id": 12064,
+      "label": "hDelta_LX_Type3_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12019",
+    "type": "point",
+    "point": [
+      415877.5,
+      225625.0,
+      130499.296875
+    ],
+    "props": {
+      "source_id": 12019,
+      "label": "hDelta_LX_Type4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12029",
+    "type": "point",
+    "point": [
+      225553.59375,
+      235892.0,
+      132022.203125
+    ],
+    "props": {
+      "source_id": 12029,
+      "label": "hDelta_LX_Type4_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12024",
+    "type": "point",
+    "point": [
+      429565.0,
+      226397.296875,
+      117699.796875
+    ],
+    "props": {
+      "source_id": 12024,
+      "label": "hDelta_LX_Type4_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12898",
+    "type": "point",
+    "point": [
+      165287.0,
+      155513.09375,
+      84452.296875
+    ],
+    "props": {
+      "source_id": 12898,
+      "label": "hDelta_LX_Type5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24804",
+    "type": "point",
+    "point": [
+      386438.1875,
+      189741.5625,
+      80500.0
+    ],
+    "props": {
+      "source_id": 24804,
+      "label": "hDelta_LX_Type5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39028",
+    "type": "point",
+    "point": [
+      346805.875,
+      143173.65625,
+      63200.0
+    ],
+    "props": {
+      "source_id": 39028,
+      "label": "hDelta_LX_Type5_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12059",
+    "type": "point",
+    "point": [
+      399739.59375,
+      188160.203125,
+      72656.296875
+    ],
+    "props": {
+      "source_id": 12059,
+      "label": "hDelta_LX_Type5_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24880",
+    "type": "point",
+    "point": [
+      373221.3125,
+      175850.484375,
+      74100.0
+    ],
+    "props": {
+      "source_id": 24880,
+      "label": "hDelta_LX_Type5_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12210",
+    "type": "point",
+    "point": [
+      323024.59375,
+      198374.796875,
+      167048.90625
+    ],
+    "props": {
+      "source_id": 12210,
+      "label": "hDelta_LY_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12778",
+    "type": "point",
+    "point": [
+      334443.8125,
+      142222.09375,
+      65004.69921875
+    ],
+    "props": {
+      "source_id": 12778,
+      "label": "hDelta_LY_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12783",
+    "type": "point",
+    "point": [
+      333542.1875,
+      139490.40625,
+      62116.3984375
+    ],
+    "props": {
+      "source_id": 12783,
+      "label": "hDelta_LY_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12788",
+    "type": "point",
+    "point": [
+      151028.296875,
+      214813.40625,
+      63246.0
+    ],
+    "props": {
+      "source_id": 12788,
+      "label": "hDelta_LY_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12853",
+    "type": "point",
+    "point": [
+      307784.5,
+      174466.796875,
+      30243.30078125
+    ],
+    "props": {
+      "source_id": 12853,
+      "label": "hDelta_LY_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24797",
+    "type": "point",
+    "point": [
+      325319.03125,
+      133593.921875,
+      73800.0
+    ],
+    "props": {
+      "source_id": 24797,
+      "label": "hDelta_LY_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39535",
+    "type": "point",
+    "point": [
+      377285.03125,
+      155545.0,
+      141200.0
+    ],
+    "props": {
+      "source_id": 39535,
+      "label": "hDelta_LY_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24302",
+    "type": "point",
+    "point": [
+      344334.09375,
+      196219.40625,
+      161900.0
+    ],
+    "props": {
+      "source_id": 24302,
+      "label": "hDelta_LY_Type1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25164",
+    "type": "point",
+    "point": [
+      320014.3125,
+      170950.453125,
+      165500.0
+    ],
+    "props": {
+      "source_id": 25164,
+      "label": "hDelta_LY_Type1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12180",
+    "type": "point",
+    "point": [
+      151750.09375,
+      163867.796875,
+      173641.59375
+    ],
+    "props": {
+      "source_id": 12180,
+      "label": "hDelta_LY_Type1_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12200",
+    "type": "point",
+    "point": [
+      358883.59375,
+      202199.203125,
+      165910.703125
+    ],
+    "props": {
+      "source_id": 12200,
+      "label": "hDelta_LY_Type1_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12190",
+    "type": "point",
+    "point": [
+      343283.90625,
+      190398.203125,
+      175757.90625
+    ],
+    "props": {
+      "source_id": 12190,
+      "label": "hDelta_LY_Type1_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12195",
+    "type": "point",
+    "point": [
+      189651.09375,
+      153638.296875,
+      193454.0
+    ],
+    "props": {
+      "source_id": 12195,
+      "label": "hDelta_LY_Type1_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12758",
+    "type": "point",
+    "point": [
+      189575.796875,
+      198906.796875,
+      213710.90625
+    ],
+    "props": {
+      "source_id": 12758,
+      "label": "hDelta_LY_Type1_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12763",
+    "type": "point",
+    "point": [
+      363004.09375,
+      205197.40625,
+      168180.59375
+    ],
+    "props": {
+      "source_id": 12763,
+      "label": "hDelta_LY_Type1_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/27096",
+    "type": "point",
+    "point": [
+      325421.5,
+      248997.984375,
+      146400.0
+    ],
+    "props": {
+      "source_id": 27096,
+      "label": "hDelta_LY_Type2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12155",
+    "type": "point",
+    "point": [
+      346676.6875,
+      237002.40625,
+      187499.703125
+    ],
+    "props": {
+      "source_id": 12155,
+      "label": "hDelta_LY_Type2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11890",
+    "type": "point",
+    "point": [
+      216295.59375,
+      228462.59375,
+      211242.5
+    ],
+    "props": {
+      "source_id": 11890,
+      "label": "hDelta_LY_Type2_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24703",
+    "type": "point",
+    "point": [
+      342223.6875,
+      240205.5625,
+      190800.0
+    ],
+    "props": {
+      "source_id": 24703,
+      "label": "hDelta_LY_Type3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12150",
+    "type": "point",
+    "point": [
+      365702.5,
+      217138.703125,
+      180812.703125
+    ],
+    "props": {
+      "source_id": 12150,
+      "label": "hDelta_LY_Type3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12165",
+    "type": "point",
+    "point": [
+      181892.5,
+      258254.90625,
+      205281.296875
+    ],
+    "props": {
+      "source_id": 12165,
+      "label": "hDelta_LY_Type3_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12145",
+    "type": "point",
+    "point": [
+      328466.1875,
+      212162.703125,
+      184534.40625
+    ],
+    "props": {
+      "source_id": 12145,
+      "label": "hDelta_LY_Type3_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12170",
+    "type": "point",
+    "point": [
+      350449.8125,
+      198715.90625,
+      173407.90625
+    ],
+    "props": {
+      "source_id": 12170,
+      "label": "hDelta_LY_Type3_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12384",
+    "type": "point",
+    "point": [
+      313767.40625,
+      193591.796875,
+      173465.203125
+    ],
+    "props": {
+      "source_id": 12384,
+      "label": "hDelta_LY_Type3_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12160",
+    "type": "point",
+    "point": [
+      183804.90625,
+      236042.40625,
+      202867.5
+    ],
+    "props": {
+      "source_id": 12160,
+      "label": "hDelta_LY_Type3_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12175",
+    "type": "point",
+    "point": [
+      154132.5,
+      224935.09375,
+      118931.8984375
+    ],
+    "props": {
+      "source_id": 12175,
+      "label": "hDelta_LY_Type4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25087",
+    "type": "point",
+    "point": [
+      355025.59375,
+      164126.1875,
+      110700.0
+    ],
+    "props": {
+      "source_id": 25087,
+      "label": "hDelta_LY_Type5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39698",
+    "type": "point",
+    "point": [
+      231327.609375,
+      126505.890625,
+      128800.0
+    ],
+    "props": {
+      "source_id": 39698,
+      "label": "hDelta_LY_Type5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12205",
+    "type": "point",
+    "point": [
+      161688.203125,
+      195606.09375,
+      197258.40625
+    ],
+    "props": {
+      "source_id": 12205,
+      "label": "hDelta_LY_Type5_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12297",
+    "type": "point",
+    "point": [
+      248375.703125,
+      187926.203125,
+      42205.0
+    ],
+    "props": {
+      "source_id": 12297,
+      "label": "hDelta_LZ_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12723",
+    "type": "point",
+    "point": [
+      251411.703125,
+      175030.796875,
+      41762.6015625
+    ],
+    "props": {
+      "source_id": 12723,
+      "label": "hDelta_LZ_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12848",
+    "type": "point",
+    "point": [
+      241371.296875,
+      180327.203125,
+      40698.8984375
+    ],
+    "props": {
+      "source_id": 12848,
+      "label": "hDelta_LZ_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/26872",
+    "type": "point",
+    "point": [
+      327205.75,
+      258780.203125,
+      207400.0
+    ],
+    "props": {
+      "source_id": 26872,
+      "label": "hDelta_LZ_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25628",
+    "type": "point",
+    "point": [
+      149455.796875,
+      291184.03125,
+      196400.0
+    ],
+    "props": {
+      "source_id": 25628,
+      "label": "hDelta_LZ_Type1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25706",
+    "type": "point",
+    "point": [
+      290833.625,
+      189290.265625,
+      161700.0
+    ],
+    "props": {
+      "source_id": 25706,
+      "label": "hDelta_LZ_Type1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12287",
+    "type": "point",
+    "point": [
+      238487.203125,
+      214022.296875,
+      212369.40625
+    ],
+    "props": {
+      "source_id": 12287,
+      "label": "hDelta_LZ_Type1_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/11895",
+    "type": "point",
+    "point": [
+      230906.796875,
+      219799.5,
+      218176.59375
+    ],
+    "props": {
+      "source_id": 11895,
+      "label": "hDelta_LZ_Type1_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/26857",
+    "type": "point",
+    "point": [
+      296483.40625,
+      204078.390625,
+      189500.0
+    ],
+    "props": {
+      "source_id": 26857,
+      "label": "hDelta_LZ_Type2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/26867",
+    "type": "point",
+    "point": [
+      174146.921875,
+      311259.65625,
+      198500.0
+    ],
+    "props": {
+      "source_id": 26867,
+      "label": "hDelta_LZ_Type2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12292",
+    "type": "point",
+    "point": [
+      166696.40625,
+      335477.59375,
+      194657.296875
+    ],
+    "props": {
+      "source_id": 12292,
+      "label": "hDelta_LZ_Type3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12277",
+    "type": "point",
+    "point": [
+      347029.0,
+      114159.796875,
+      169904.203125
+    ],
+    "props": {
+      "source_id": 12277,
+      "label": "hDelta_LZ_Type3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12272",
+    "type": "point",
+    "point": [
+      298071.9375,
+      193604.90625,
+      185885.1875
+    ],
+    "props": {
+      "source_id": 12272,
+      "label": "hDelta_LZ_Type3_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12282",
+    "type": "point",
+    "point": [
+      343526.90625,
+      128992.703125,
+      191860.90625
+    ],
+    "props": {
+      "source_id": 12282,
+      "label": "hDelta_LZ_Type4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23899",
+    "type": "point",
+    "point": [
+      249195.09375,
+      124872.8203125,
+      126000.0
+    ],
+    "props": {
+      "source_id": 23899,
+      "label": "hDelta_LZ_Type5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23889",
+    "type": "point",
+    "point": [
+      119531.5390625,
+      322637.21875,
+      183900.0
+    ],
+    "props": {
+      "source_id": 23889,
+      "label": "hDelta_LZ_Type5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24710",
+    "type": "point",
+    "point": [
+      284627.4375,
+      138818.28125,
+      133400.0
+    ],
+    "props": {
+      "source_id": 24710,
+      "label": "hDelta_LZ_Type5_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12728",
+    "type": "point",
+    "point": [
+      273453.9375,
+      142910.84375,
+      91314.21875
+    ],
+    "props": {
+      "source_id": 12728,
+      "label": "hDelta_LZ_Type5_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39673",
+    "type": "point",
+    "point": [
+      175220.03125,
+      288672.125,
+      63000.0
+    ],
+    "props": {
+      "source_id": 39673,
+      "label": "hDelta_RW_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39678",
+    "type": "point",
+    "point": [
+      181066.625,
+      286464.625,
+      66200.0
+    ],
+    "props": {
+      "source_id": 39678,
+      "label": "hDelta_RW_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39688",
+    "type": "point",
+    "point": [
+      177588.5625,
+      292635.5625,
+      84800.0
+    ],
+    "props": {
+      "source_id": 39688,
+      "label": "hDelta_RW_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23884",
+    "type": "point",
+    "point": [
+      153431.0625,
+      270861.34375,
+      198400.0
+    ],
+    "props": {
+      "source_id": 23884,
+      "label": "hDelta_RW_Type1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25138",
+    "type": "point",
+    "point": [
+      283300.875,
+      172678.34375,
+      175200.0
+    ],
+    "props": {
+      "source_id": 25138,
+      "label": "hDelta_RW_Type1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25157",
+    "type": "point",
+    "point": [
+      110831.953125,
+      277483.375,
+      190100.0
+    ],
+    "props": {
+      "source_id": 25157,
+      "label": "hDelta_RW_Type1_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12389",
+    "type": "point",
+    "point": [
+      129626.796875,
+      323094.40625,
+      185947.703125
+    ],
+    "props": {
+      "source_id": 12389,
+      "label": "hDelta_RW_Type1_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12748",
+    "type": "point",
+    "point": [
+      247201.203125,
+      211828.296875,
+      208938.59375
+    ],
+    "props": {
+      "source_id": 12748,
+      "label": "hDelta_RW_Type1_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12399",
+    "type": "point",
+    "point": [
+      239629.90625,
+      188849.90625,
+      190194.796875
+    ],
+    "props": {
+      "source_id": 12399,
+      "label": "hDelta_RW_Type2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39050",
+    "type": "point",
+    "point": [
+      113530.5,
+      311948.90625,
+      189591.5
+    ],
+    "props": {
+      "source_id": 39050,
+      "label": "hDelta_RW_Type3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12374",
+    "type": "point",
+    "point": [
+      123924.6015625,
+      336537.3125,
+      176800.09375
+    ],
+    "props": {
+      "source_id": 12374,
+      "label": "hDelta_RW_Type3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12359",
+    "type": "point",
+    "point": [
+      135840.0,
+      320579.1875,
+      186748.40625
+    ],
+    "props": {
+      "source_id": 12359,
+      "label": "hDelta_RW_Type3_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12369",
+    "type": "point",
+    "point": [
+      131976.90625,
+      322046.1875,
+      184439.5
+    ],
+    "props": {
+      "source_id": 12369,
+      "label": "hDelta_RW_Type4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12394",
+    "type": "point",
+    "point": [
+      121577.1015625,
+      305039.09375,
+      189749.90625
+    ],
+    "props": {
+      "source_id": 12394,
+      "label": "hDelta_RW_Type4_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12379",
+    "type": "point",
+    "point": [
+      272273.8125,
+      196809.296875,
+      152679.703125
+    ],
+    "props": {
+      "source_id": 12379,
+      "label": "hDelta_RW_Type4_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23904",
+    "type": "point",
+    "point": [
+      135821.890625,
+      277689.96875,
+      188300.0
+    ],
+    "props": {
+      "source_id": 23904,
+      "label": "hDelta_RW_Type5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12337",
+    "type": "point",
+    "point": [
+      136620.09375,
+      153680.296875,
+      189290.90625
+    ],
+    "props": {
+      "source_id": 12337,
+      "label": "hDelta_RX_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12818",
+    "type": "point",
+    "point": [
+      140712.40625,
+      217517.703125,
+      71959.5
+    ],
+    "props": {
+      "source_id": 12818,
+      "label": "hDelta_RX_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25127",
+    "type": "point",
+    "point": [
+      321103.75,
+      146216.796875,
+      53600.0
+    ],
+    "props": {
+      "source_id": 25127,
+      "label": "hDelta_RX_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23878",
+    "type": "point",
+    "point": [
+      278404.53125,
+      212349.96875,
+      188400.0
+    ],
+    "props": {
+      "source_id": 23878,
+      "label": "hDelta_RX_Type1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25634",
+    "type": "point",
+    "point": [
+      151352.171875,
+      246730.703125,
+      209400.0
+    ],
+    "props": {
+      "source_id": 25634,
+      "label": "hDelta_RX_Type1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25644",
+    "type": "point",
+    "point": [
+      141412.640625,
+      235000.96875,
+      184700.0
+    ],
+    "props": {
+      "source_id": 25644,
+      "label": "hDelta_RX_Type1_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25660",
+    "type": "point",
+    "point": [
+      135188.84375,
+      212142.109375,
+      191900.0
+    ],
+    "props": {
+      "source_id": 25660,
+      "label": "hDelta_RX_Type1_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25668",
+    "type": "point",
+    "point": [
+      147521.359375,
+      211180.1875,
+      193800.0
+    ],
+    "props": {
+      "source_id": 25668,
+      "label": "hDelta_RX_Type1_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12466",
+    "type": "point",
+    "point": [
+      170128.796875,
+      220881.5,
+      211094.296875
+    ],
+    "props": {
+      "source_id": 12466,
+      "label": "hDelta_RX_Type1_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12768",
+    "type": "point",
+    "point": [
+      174515.59375,
+      213806.203125,
+      212649.296875
+    ],
+    "props": {
+      "source_id": 12768,
+      "label": "hDelta_RX_Type1_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25435",
+    "type": "point",
+    "point": [
+      168315.296875,
+      247834.59375,
+      208100.0
+    ],
+    "props": {
+      "source_id": 25435,
+      "label": "hDelta_RX_Type2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25445",
+    "type": "point",
+    "point": [
+      185947.453125,
+      257276.53125,
+      217000.0
+    ],
+    "props": {
+      "source_id": 25445,
+      "label": "hDelta_RX_Type2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12491",
+    "type": "point",
+    "point": [
+      318230.59375,
+      238511.59375,
+      184596.296875
+    ],
+    "props": {
+      "source_id": 12491,
+      "label": "hDelta_RX_Type2_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23788",
+    "type": "point",
+    "point": [
+      309374.78125,
+      247803.4375,
+      185100.0
+    ],
+    "props": {
+      "source_id": 23788,
+      "label": "hDelta_RX_Type3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12446",
+    "type": "point",
+    "point": [
+      160668.203125,
+      225750.796875,
+      207257.5
+    ],
+    "props": {
+      "source_id": 12446,
+      "label": "hDelta_RX_Type3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12451",
+    "type": "point",
+    "point": [
+      169878.203125,
+      249293.703125,
+      212446.296875
+    ],
+    "props": {
+      "source_id": 12451,
+      "label": "hDelta_RX_Type3_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12486",
+    "type": "point",
+    "point": [
+      163925.203125,
+      241636.796875,
+      213425.09375
+    ],
+    "props": {
+      "source_id": 12486,
+      "label": "hDelta_RX_Type3_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12441",
+    "type": "point",
+    "point": [
+      186014.296875,
+      235502.296875,
+      216547.59375
+    ],
+    "props": {
+      "source_id": 12441,
+      "label": "hDelta_RX_Type3_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/10787",
+    "type": "point",
+    "point": [
+      131725.0,
+      262166.0,
+      192687.203125
+    ],
+    "props": {
+      "source_id": 10787,
+      "label": "hDelta_RX_Type3_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12773",
+    "type": "point",
+    "point": [
+      195960.203125,
+      186268.296875,
+      208996.5
+    ],
+    "props": {
+      "source_id": 12773,
+      "label": "hDelta_RX_Type3_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12476",
+    "type": "point",
+    "point": [
+      153645.296875,
+      243512.796875,
+      208329.0
+    ],
+    "props": {
+      "source_id": 12476,
+      "label": "hDelta_RX_Type4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12456",
+    "type": "point",
+    "point": [
+      167601.90625,
+      242996.5,
+      211649.703125
+    ],
+    "props": {
+      "source_id": 12456,
+      "label": "hDelta_RX_Type4_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12461",
+    "type": "point",
+    "point": [
+      299050.0,
+      229313.796875,
+      178530.40625
+    ],
+    "props": {
+      "source_id": 12461,
+      "label": "hDelta_RX_Type4_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24897",
+    "type": "point",
+    "point": [
+      134413.75,
+      196134.890625,
+      154600.0
+    ],
+    "props": {
+      "source_id": 24897,
+      "label": "hDelta_RX_Type5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25118",
+    "type": "point",
+    "point": [
+      166294.4375,
+      230066.015625,
+      178100.0
+    ],
+    "props": {
+      "source_id": 25118,
+      "label": "hDelta_RX_Type5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/39704",
+    "type": "point",
+    "point": [
+      132619.1875,
+      248073.28125,
+      134600.0
+    ],
+    "props": {
+      "source_id": 39704,
+      "label": "hDelta_RX_Type5_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12481",
+    "type": "point",
+    "point": [
+      146784.796875,
+      211002.40625,
+      120399.203125
+    ],
+    "props": {
+      "source_id": 12481,
+      "label": "hDelta_RX_Type5_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12327",
+    "type": "point",
+    "point": [
+      176188.59375,
+      96569.0,
+      139423.09375
+    ],
+    "props": {
+      "source_id": 12327,
+      "label": "hDelta_RY_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/28889",
+    "type": "point",
+    "point": [
+      306740.59375,
+      233529.171875,
+      29000.0
+    ],
+    "props": {
+      "source_id": 28889,
+      "label": "hDelta_RY_10"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12332",
+    "type": "point",
+    "point": [
+      195877.09375,
+      169421.703125,
+      55938.19921875
+    ],
+    "props": {
+      "source_id": 12332,
+      "label": "hDelta_RY_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12738",
+    "type": "point",
+    "point": [
+      202488.296875,
+      128436.5,
+      134501.5
+    ],
+    "props": {
+      "source_id": 12738,
+      "label": "hDelta_RY_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12803",
+    "type": "point",
+    "point": [
+      174195.09375,
+      86461.1015625,
+      115764.703125
+    ],
+    "props": {
+      "source_id": 12803,
+      "label": "hDelta_RY_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12813",
+    "type": "point",
+    "point": [
+      160903.5,
+      172878.59375,
+      72386.796875
+    ],
+    "props": {
+      "source_id": 12813,
+      "label": "hDelta_RY_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12823",
+    "type": "point",
+    "point": [
+      320690.1875,
+      200604.796875,
+      29766.30078125
+    ],
+    "props": {
+      "source_id": 12823,
+      "label": "hDelta_RY_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12838",
+    "type": "point",
+    "point": [
+      314823.6875,
+      217623.796875,
+      28820.5
+    ],
+    "props": {
+      "source_id": 12838,
+      "label": "hDelta_RY_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12843",
+    "type": "point",
+    "point": [
+      295380.21875,
+      235340.234375,
+      21143.720703125
+    ],
+    "props": {
+      "source_id": 12843,
+      "label": "hDelta_RY_8"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/28872",
+    "type": "point",
+    "point": [
+      179343.75,
+      226495.03125,
+      68100.0
+    ],
+    "props": {
+      "source_id": 28872,
+      "label": "hDelta_RY_9"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24673",
+    "type": "point",
+    "point": [
+      238549.390625,
+      180921.203125,
+      200000.0
+    ],
+    "props": {
+      "source_id": 24673,
+      "label": "hDelta_RY_Type1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24682",
+    "type": "point",
+    "point": [
+      217370.28125,
+      186441.34375,
+      206000.0
+    ],
+    "props": {
+      "source_id": 24682,
+      "label": "hDelta_RY_Type1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12585",
+    "type": "point",
+    "point": [
+      177115.203125,
+      223707.09375,
+      396499.5
+    ],
+    "props": {
+      "source_id": 12585,
+      "label": "hDelta_RY_Type1_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12590",
+    "type": "point",
+    "point": [
+      227797.59375,
+      215097.296875,
+      217392.203125
+    ],
+    "props": {
+      "source_id": 12590,
+      "label": "hDelta_RY_Type1_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12753",
+    "type": "point",
+    "point": [
+      376780.59375,
+      204449.0,
+      161546.90625
+    ],
+    "props": {
+      "source_id": 12753,
+      "label": "hDelta_RY_Type1_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12595",
+    "type": "point",
+    "point": [
+      234198.703125,
+      130924.1015625,
+      152484.5
+    ],
+    "props": {
+      "source_id": 12595,
+      "label": "hDelta_RY_Type1_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12610",
+    "type": "point",
+    "point": [
+      356351.1875,
+      252493.59375,
+      171371.703125
+    ],
+    "props": {
+      "source_id": 12610,
+      "label": "hDelta_RY_Type2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12615",
+    "type": "point",
+    "point": [
+      365908.40625,
+      241541.59375,
+      166473.796875
+    ],
+    "props": {
+      "source_id": 12615,
+      "label": "hDelta_RY_Type2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12620",
+    "type": "point",
+    "point": [
+      208448.40625,
+      211015.09375,
+      215215.90625
+    ],
+    "props": {
+      "source_id": 12620,
+      "label": "hDelta_RY_Type2_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36005",
+    "type": "point",
+    "point": [
+      203207.09375,
+      223332.0,
+      217755.59375
+    ],
+    "props": {
+      "source_id": 36005,
+      "label": "hDelta_RY_Type3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12565",
+    "type": "point",
+    "point": [
+      182972.59375,
+      228106.796875,
+      403291.90625
+    ],
+    "props": {
+      "source_id": 12565,
+      "label": "hDelta_RY_Type3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12605",
+    "type": "point",
+    "point": [
+      231482.796875,
+      197186.59375,
+      192342.90625
+    ],
+    "props": {
+      "source_id": 12605,
+      "label": "hDelta_RY_Type3_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24692",
+    "type": "point",
+    "point": [
+      206909.5,
+      198971.796875,
+      212417.296875
+    ],
+    "props": {
+      "source_id": 24692,
+      "label": "hDelta_RY_Type3_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12555",
+    "type": "point",
+    "point": [
+      218008.296875,
+      237887.0,
+      219596.5
+    ],
+    "props": {
+      "source_id": 12555,
+      "label": "hDelta_RY_Type3_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12560",
+    "type": "point",
+    "point": [
+      280252.8125,
+      214812.703125,
+      193317.296875
+    ],
+    "props": {
+      "source_id": 12560,
+      "label": "hDelta_RY_Type3_6"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12625",
+    "type": "point",
+    "point": [
+      217865.796875,
+      196206.796875,
+      211990.296875
+    ],
+    "props": {
+      "source_id": 12625,
+      "label": "hDelta_RY_Type3_7"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12580",
+    "type": "point",
+    "point": [
+      375621.09375,
+      242348.09375,
+      92417.8984375
+    ],
+    "props": {
+      "source_id": 12580,
+      "label": "hDelta_RY_Type4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12575",
+    "type": "point",
+    "point": [
+      206838.796875,
+      231290.703125,
+      224224.59375
+    ],
+    "props": {
+      "source_id": 12575,
+      "label": "hDelta_RY_Type4_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12600",
+    "type": "point",
+    "point": [
+      185010.796875,
+      129030.3984375,
+      137814.796875
+    ],
+    "props": {
+      "source_id": 12600,
+      "label": "hDelta_RY_Type5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12342",
+    "type": "point",
+    "point": [
+      229297.90625,
+      175224.203125,
+      48233.5
+    ],
+    "props": {
+      "source_id": 12342,
+      "label": "hDelta_RZ_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12828",
+    "type": "point",
+    "point": [
+      243089.0,
+      201998.59375,
+      37270.69921875
+    ],
+    "props": {
+      "source_id": 12828,
+      "label": "hDelta_RZ_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12833",
+    "type": "point",
+    "point": [
+      225223.40625,
+      186676.90625,
+      50805.5
+    ],
+    "props": {
+      "source_id": 12833,
+      "label": "hDelta_RZ_3"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24810",
+    "type": "point",
+    "point": [
+      243398.203125,
+      150847.328125,
+      105100.0
+    ],
+    "props": {
+      "source_id": 24810,
+      "label": "hDelta_RZ_4"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/28288",
+    "type": "point",
+    "point": [
+      226322.109375,
+      175736.078125,
+      57700.0
+    ],
+    "props": {
+      "source_id": 28288,
+      "label": "hDelta_RZ_5"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/25678",
+    "type": "point",
+    "point": [
+      449926.5,
+      299772.4375,
+      123200.0
+    ],
+    "props": {
+      "source_id": 25678,
+      "label": "hDelta_RZ_Type1_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/38902",
+    "type": "point",
+    "point": [
+      271161.40625,
+      221095.0,
+      204000.0
+    ],
+    "props": {
+      "source_id": 38902,
+      "label": "hDelta_RZ_Type1_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/26842",
+    "type": "point",
+    "point": [
+      252362.5,
+      266625.65625,
+      225200.0
+    ],
+    "props": {
+      "source_id": 26842,
+      "label": "hDelta_RZ_Type2_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/26900",
+    "type": "point",
+    "point": [
+      388652.71875,
+      277104.5625,
+      161200.0
+    ],
+    "props": {
+      "source_id": 26900,
+      "label": "hDelta_RZ_Type2_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24749",
+    "type": "point",
+    "point": [
+      249190.28125,
+      192513.046875,
+      197000.0
+    ],
+    "props": {
+      "source_id": 24749,
+      "label": "hDelta_RZ_Type3_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23758",
+    "type": "point",
+    "point": [
+      270436.9375,
+      181123.296875,
+      187600.0
+    ],
+    "props": {
+      "source_id": 23758,
+      "label": "hDelta_RZ_Type3_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23734",
+    "type": "point",
+    "point": [
+      377763.375,
+      241812.109375,
+      167500.0
+    ],
+    "props": {
+      "source_id": 23734,
+      "label": "hDelta_RZ_Type4_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/23741",
+    "type": "point",
+    "point": [
+      441615.125,
+      289057.03125,
+      123900.0
+    ],
+    "props": {
+      "source_id": 23741,
+      "label": "hDelta_RZ_Type5_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/12808",
+    "type": "point",
+    "point": [
+      238279.40625,
+      159596.90625,
+      101225.8984375
+    ],
+    "props": {
+      "source_id": 12808,
+      "label": "hDelta_RZ_Type5_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/36109",
+    "type": "point",
+    "point": [
+      441480.125,
+      298767.6875,
+      129300.0
+    ],
+    "props": {
+      "source_id": 36109,
+      "label": "hDelta_fragment_1"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/26882",
+    "type": "point",
+    "point": [
+      180346.375,
+      147931.421875,
+      185800.0
+    ],
+    "props": {
+      "source_id": 26882,
+      "label": "hDelta_fragment_2"
+    }
+  },
+  {
+    "id": "bombus_terrestris/bombus_terrestris_cx_sbem/bombus_cx_projectome_sayre2021/24890",
+    "type": "point",
+    "point": [
+      388069.5,
+      165516.640625,
+      133100.0
+    ],
+    "props": {
+      "source_id": 24890,
+      "label": "hDelta_fragment_3"
+    }
+  }
+]

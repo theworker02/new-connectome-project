@@ -1,0 +1,652 @@
+[
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/387364605",
+    "type": "point",
+    "point": [
+      28747.900390625,
+      19098.400390625,
+      6123.18994140625
+    ],
+    "props": {
+      "source_id": 387364605,
+      "label": "EPG(PB08)_L3"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/416642425",
+    "type": "point",
+    "point": [
+      23653.69921875,
+      17116.099609375,
+      6491.509765625
+    ],
+    "props": {
+      "source_id": 416642425,
+      "label": "EPG(PB08)_R4"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/449438847",
+    "type": "point",
+    "point": [
+      29124.0,
+      19127.900390625,
+      6856.81982421875
+    ],
+    "props": {
+      "source_id": 449438847,
+      "label": "EPG(PB08)_L3"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/478375456",
+    "type": "point",
+    "point": [
+      23981.80078125,
+      16731.400390625,
+      7427.27001953125
+    ],
+    "props": {
+      "source_id": 478375456,
+      "label": "EPG(PB08)_R3"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/541118908",
+    "type": "point",
+    "point": [
+      21966.0,
+      18116.0,
+      5830.0
+    ],
+    "props": {
+      "source_id": 541118908,
+      "label": "EPG(PB08)_R3"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/541870397",
+    "type": "point",
+    "point": [
+      29376.19921875,
+      17993.30078125,
+      6367.85009765625
+    ],
+    "props": {
+      "source_id": 541870397,
+      "label": "EPG(PB08)_L6"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/572870540",
+    "type": "point",
+    "point": [
+      26710.400390625,
+      18140.30078125,
+      8655.66015625
+    ],
+    "props": {
+      "source_id": 572870540,
+      "label": "EPG(PB08)_L1"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/632544268",
+    "type": "point",
+    "point": [
+      25804.0,
+      15208.0,
+      9492.0
+    ],
+    "props": {
+      "source_id": 632544268,
+      "label": "EPG(PB08)_R2"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/633546217",
+    "type": "point",
+    "point": [
+      23547.30078125,
+      16400.0,
+      8097.60009765625
+    ],
+    "props": {
+      "source_id": 633546217,
+      "label": "EPG(PB08)_R4"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/634962055",
+    "type": "point",
+    "point": [
+      28533.69921875,
+      18818.19921875,
+      6700.31005859375
+    ],
+    "props": {
+      "source_id": 634962055,
+      "label": "EPG(PB08)_L4"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/665314820",
+    "type": "point",
+    "point": [
+      28677.400390625,
+      17754.599609375,
+      6380.830078125
+    ],
+    "props": {
+      "source_id": 665314820,
+      "label": "EPG(PB08)_L4"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/694920753",
+    "type": "point",
+    "point": [
+      21942.400390625,
+      16335.599609375,
+      7733.31005859375
+    ],
+    "props": {
+      "source_id": 694920753,
+      "label": "EPG(PB08)_R5"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/695629525",
+    "type": "point",
+    "point": [
+      24552.0,
+      17889.80078125,
+      8654.400390625
+    ],
+    "props": {
+      "source_id": 695629525,
+      "label": "EPG(PB08)_R2"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/695956656",
+    "type": "point",
+    "point": [
+      22384.0,
+      18632.099609375,
+      5292.5
+    ],
+    "props": {
+      "source_id": 695956656,
+      "label": "EPG(PB08)_R4"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/696362840",
+    "type": "point",
+    "point": [
+      28918.30078125,
+      19053.80078125,
+      5484.830078125
+    ],
+    "props": {
+      "source_id": 696362840,
+      "label": "EPG(PB08)_L5"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/697001770",
+    "type": "point",
+    "point": [
+      25315.900390625,
+      19387.80078125,
+      6605.39013671875
+    ],
+    "props": {
+      "source_id": 697001770,
+      "label": "EPG(PB08)_L2"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/725951521",
+    "type": "point",
+    "point": [
+      21644.0,
+      16102.7998046875,
+      8160.7099609375
+    ],
+    "props": {
+      "source_id": 725951521,
+      "label": "EPG(PB08)_R5"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/758419409",
+    "type": "point",
+    "point": [
+      28142.30078125,
+      18971.80078125,
+      7898.93994140625
+    ],
+    "props": {
+      "source_id": 758419409,
+      "label": "EPG(PB08)_L3"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/788794171",
+    "type": "point",
+    "point": [
+      27832.0,
+      23744.0,
+      19010.0
+    ],
+    "props": {
+      "source_id": 788794171,
+      "label": "EPG(PB08)_L6"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/789126240",
+    "type": "point",
+    "point": [
+      29318.0,
+      17902.0,
+      6972.0
+    ],
+    "props": {
+      "source_id": 789126240,
+      "label": "EPG(PB08)_L5"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/819828986",
+    "type": "point",
+    "point": [
+      29312.0,
+      17576.0,
+      5958.0
+    ],
+    "props": {
+      "source_id": 819828986,
+      "label": "EPG(PB08)_L5"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/910438331",
+    "type": "point",
+    "point": [
+      21479.69921875,
+      15569.400390625,
+      8176.169921875
+    ],
+    "props": {
+      "source_id": 910438331,
+      "label": "EPG(PB08)_R6"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/912545106",
+    "type": "point",
+    "point": [
+      25617.69921875,
+      16569.400390625,
+      12684.7998046875
+    ],
+    "props": {
+      "source_id": 912545106,
+      "label": "EPG(PB08)_L2"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/912601268",
+    "type": "point",
+    "point": [
+      28654.0,
+      24020.0,
+      19222.0
+    ],
+    "props": {
+      "source_id": 912601268,
+      "label": "EPG(PB08)_L6"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/941132434",
+    "type": "point",
+    "point": [
+      21436.0,
+      15853.5,
+      7639.169921875
+    ],
+    "props": {
+      "source_id": 941132434,
+      "label": "EPG(PB08)_R6"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/942491983",
+    "type": "point",
+    "point": [
+      21590.19921875,
+      15044.599609375,
+      8110.2900390625
+    ],
+    "props": {
+      "source_id": 942491983,
+      "label": "EPG(PB08)_R6"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1002507159",
+    "type": "point",
+    "point": [
+      16234.599609375,
+      9306.5703125,
+      14683.0
+    ],
+    "props": {
+      "source_id": 1002507159,
+      "label": "EPG(PB08)_R7"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1002852791",
+    "type": "point",
+    "point": [
+      15408.0,
+      9320.4404296875,
+      15081.2998046875
+    ],
+    "props": {
+      "source_id": 1002852791,
+      "label": "EPG(PB08)_R7"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1004017998",
+    "type": "point",
+    "point": [
+      32544.0,
+      12986.0,
+      12304.0
+    ],
+    "props": {
+      "source_id": 1004017998,
+      "label": "EPG(PB08)_L7"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1034219901",
+    "type": "point",
+    "point": [
+      15957.2998046875,
+      9364.98046875,
+      14966.7998046875
+    ],
+    "props": {
+      "source_id": 1034219901,
+      "label": "EPG(PB08)_R7"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1035045015",
+    "type": "point",
+    "point": [
+      29115.69921875,
+      24324.30078125,
+      21007.900390625
+    ],
+    "props": {
+      "source_id": 1035045015,
+      "label": "EPG(PB08)_L7"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1065410141",
+    "type": "point",
+    "point": [
+      28772.69921875,
+      25018.099609375,
+      22513.400390625
+    ],
+    "props": {
+      "source_id": 1065410141,
+      "label": "EPG(PB08)_L8"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1125964814",
+    "type": "point",
+    "point": [
+      18104.19921875,
+      9078.4296875,
+      17782.099609375
+    ],
+    "props": {
+      "source_id": 1125964814,
+      "label": "EPG(PB08)_R8"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1126647624",
+    "type": "point",
+    "point": [
+      18601.80078125,
+      9408.91015625,
+      17840.0
+    ],
+    "props": {
+      "source_id": 1126647624,
+      "label": "EPG(PB08)_R8"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1127476096",
+    "type": "point",
+    "point": [
+      28315.5,
+      25064.400390625,
+      22762.69921875
+    ],
+    "props": {
+      "source_id": 1127476096,
+      "label": "EPG(PB08)_L8"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1167995070",
+    "type": "point",
+    "point": [
+      28710.30078125,
+      25178.900390625,
+      23270.400390625
+    ],
+    "props": {
+      "source_id": 1167995070,
+      "label": "EPG(PB08)_L8"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1168659995",
+    "type": "point",
+    "point": [
+      15849.900390625,
+      9582.8798828125,
+      16825.19921875
+    ],
+    "props": {
+      "source_id": 1168659995,
+      "label": "EPGt(PB09)_R9"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1168660239",
+    "type": "point",
+    "point": [
+      33466.3984375,
+      13711.099609375,
+      18867.599609375
+    ],
+    "props": {
+      "source_id": 1168660239,
+      "label": "EPGt(PB09)_L9"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1168664447",
+    "type": "point",
+    "point": [
+      33514.0,
+      13792.400390625,
+      18804.19921875
+    ],
+    "props": {
+      "source_id": 1168664447,
+      "label": "EPGt(PB09)_L9"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1168664495",
+    "type": "point",
+    "point": [
+      27980.0,
+      24836.0,
+      23468.0
+    ],
+    "props": {
+      "source_id": 1168664495,
+      "label": "EPG(PB08)_L8"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1219069439",
+    "type": "point",
+    "point": [
+      16609.69921875,
+      9346.2197265625,
+      17078.0
+    ],
+    "props": {
+      "source_id": 1219069439,
+      "label": "EPGt(PB09)_R9"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/1447576662",
+    "type": "point",
+    "point": [
+      27040.69921875,
+      19687.099609375,
+      9575.9404296875
+    ],
+    "props": {
+      "source_id": 1447576662,
+      "label": "EPG(PB08)_L1"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/5813012006",
+    "type": "point",
+    "point": [
+      28420.0,
+      24674.0,
+      21514.0
+    ],
+    "props": {
+      "source_id": 5813012006,
+      "label": "EPG(PB08)_L7"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/5813014873",
+    "type": "point",
+    "point": [
+      25930.0,
+      13726.0,
+      12078.0
+    ],
+    "props": {
+      "source_id": 5813014873,
+      "label": "EPG(PB08)_R1"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/5813022281",
+    "type": "point",
+    "point": [
+      28450.0,
+      18160.099609375,
+      6571.830078125
+    ],
+    "props": {
+      "source_id": 5813022281,
+      "label": "EPG(PB08)_L4"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/5813027103",
+    "type": "point",
+    "point": [
+      22398.0,
+      15822.0,
+      7962.0
+    ],
+    "props": {
+      "source_id": 5813027103,
+      "label": "EPG(PB08)_R5"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/5813040233",
+    "type": "point",
+    "point": [
+      16555.599609375,
+      9153.7099609375,
+      16582.400390625
+    ],
+    "props": {
+      "source_id": 5813040233,
+      "label": "EPG(PB08)_R8"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/5813061251",
+    "type": "point",
+    "point": [
+      18722.0,
+      8790.0,
+      18042.0
+    ],
+    "props": {
+      "source_id": 5813061251,
+      "label": "EPG(PB08)_R8"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/5813077544",
+    "type": "point",
+    "point": [
+      24298.0,
+      17886.0,
+      7628.0
+    ],
+    "props": {
+      "source_id": 5813077544,
+      "label": "EPG(PB08)_R1"
+    }
+  },
+  {
+    "id": "drosophila_melanogaster/hemibrain_v1_2_1/hemibrain/5813080838",
+    "type": "point",
+    "point": [
+      23630.900390625,
+      17967.80078125,
+      5713.580078125
+    ],
+    "props": {
+      "source_id": 5813080838,
+      "label": "EPG(PB08)_R3"
+    }
+  }
+]

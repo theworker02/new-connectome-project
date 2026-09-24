@@ -1,0 +1,31 @@
+{
+  "dataset_id": "cremi_sample_a",
+  "roi": {
+    "origin_zyx": [
+      0,
+      256,
+      960
+    ],
+    "shape": [
+      64,
+      64,
+      64
+    ]
+  },
+  "metrics": {
+    "variation_of_information": 4.662088780578642,
+    "vi_split": 1.2134000873181352,
+    "vi_merge": 3.4486886932605074,
+    "adapted_rand_error": 0.7893244645235714,
+    "gt_neuron_count": 78,
+    "pred_label_count": 125
+  },
+  "n_synapses_documented": 12,
+  "n_nodes": 5,
+  "n_edges": 4,
+  "reports": {
+    "qc": "C:\\Users\\matth\\OneDrive\\Desktop\\new stuff\\new-connectome-project\\reports\\QC_REPORT_cremi_roi_64.md",
+    "compute_plan": "C:\\Users\\matth\\OneDrive\\Desktop\\new stuff\\new-connectome-project\\reports\\COMPUTE_PLAN.md"
+  },
+  "connectome_dir": "C:\\Users\\matth\\OneDrive\\Desktop\\new stuff\\new-connectome-project\\data\\connectomes\\cremi_sample_a\\roi_64_z0_y256_x960"
+}

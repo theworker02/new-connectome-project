@@ -1,0 +1,1 @@
+{"root":["./src/api.ts","./src/main.tsx","./src/neuronroles.ts","./src/silhouette.ts","./src/vite-env.d.ts","./src/components/graphpanel.tsx","./src/components/storagepanel.tsx","./src/components/viewer3d.tsx","./src/components/visualbrowser.tsx","./src/pages/comparepage.tsx","./src/pages/connectomeview.tsx","./src/pages/home.tsx","./src/pages/speciespage.tsx"],"version":"5.9.3"}

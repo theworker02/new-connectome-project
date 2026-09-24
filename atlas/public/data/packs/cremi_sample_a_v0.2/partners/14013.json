@@ -1,0 +1,1 @@
+{"upstream":[{"partner_id":9588,"synapse_count":1,"direction":"in","pre_neuron_id":9588,"post_neuron_id":14013}],"downstream":[{"partner_id":14348,"synapse_count":1,"direction":"out","pre_neuron_id":14013,"post_neuron_id":14348},{"partner_id":24745,"synapse_count":1,"direction":"out","pre_neuron_id":14013,"post_neuron_id":24745}]}

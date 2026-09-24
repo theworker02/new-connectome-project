@@ -1,0 +1,44 @@
+species: Megalopta genalis
+common_name: tropical sweat bee
+specimen: UNKNOWN
+region: central complex (2026 comparative EM) + IBdb morphologies
+audit_date: "2026-09-22"
+heinze_2026_paper: "10.64898/2026.02.25.708065 / eLife 110789"
+
+search_log:
+  - inspected eLife/bioRxiv Data availability: code public; skeletons promised to IBdb upon publication; CAVE upon request
+  - searched Heinze-lab GitHub (EMalign/EMtrain/EMsegment/synful_312/SegToPCG): pipeline only; zarr names like megalopta_FB_1 are local path conventions, not public volumes
+  - searched EMPIAR / BossDB / Zenodo for species+CX EM: PUBLIC_ARTIFACT_NOT_FOUND for raw volumes
+  - Insect Brain Database species id=3: 33 public neurons with SWC reconstructions (FOUND)
+  - IBdb EM experiment for 2026 CX volumes: PUBLIC_ARTIFACT_NOT_FOUND as of audit
+
+artifacts:
+  cellular_em:
+    status: PUBLIC_ARTIFACT_NOT_FOUND
+    resolution_nm: "40-50 (paper)"
+    notes: imaged but not deposited in public archive
+  synaptic_em:
+    status: PUBLIC_ARTIFACT_NOT_FOUND
+    resolution_nm: "8-12 (paper)"
+  alignment:
+    status: CODE_FOUND
+    source: https://github.com/Heinze-lab/EMalign
+  skeletons_catmaid_2026:
+    status: PUBLIC_ARTIFACT_NOT_FOUND
+    intended_destination: insectbraindb.org
+  segmentation_cave:
+    status: REQUEST_ONLY
+    notes: CAVE access upon request per Data availability
+  synapses:
+    status: REQUEST_ONLY
+  ibdb_morphologies:
+    status: FOUND
+    count: 33
+    local_pack: megalopta_ibdb_morphology_v0.1
+    graph_layer: OBSERVED_MORPHOLOGY
+    synaptic_edges: false
+
+remaining_work:
+  - await IBdb skeleton upload for 2026 EM projectome
+  - request CAVE collaboration access for synaptic graph
+  - no new EM segmentation until public EM or granted access

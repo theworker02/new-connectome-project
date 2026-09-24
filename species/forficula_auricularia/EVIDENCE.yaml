@@ -1,0 +1,19 @@
+species: Forficula auricularia
+common_name: European earwig
+audit_date: "2026-09-22"
+heinze_2026_paper: "10.64898/2026.02.25.708065"
+priority: HIGHEST among six for size (~1 TB multi-res if released)
+
+search_log:
+  - IBdb species list: no Forficula entry found
+  - EMPIAR/BossDB/Zenodo: PUBLIC_ARTIFACT_NOT_FOUND
+  - Data availability explicitly: skeletons will be uploaded to IBdb; CAVE upon request
+  - Email request sent to valentin.gillet@biol.lu.se and stanley.heinze@biol.lu.se (2026-09-22)
+
+artifacts:
+  cellular_em: {status: PUBLIC_ARTIFACT_NOT_FOUND}
+  synaptic_em: {status: PUBLIC_ARTIFACT_NOT_FOUND}
+  skeletons_2026: {status: PUBLIC_ARTIFACT_NOT_FOUND}
+  segmentation_cave: {status: REQUEST_ONLY}
+  synapses: {status: REQUEST_ONLY}
+  connectivity: {status: PUBLIC_ARTIFACT_NOT_FOUND}

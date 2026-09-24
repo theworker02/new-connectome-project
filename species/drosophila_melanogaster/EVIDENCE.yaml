@@ -1,0 +1,44 @@
+species: Drosophila melanogaster
+phase: 3
+audit_date: "2026-09-22"
+search_paths_completed:
+  - primary publications / VFB / neuPrint / Zenodo FlyWire connectivity
+  - hemibrain, manc, optic-lobe, male-cns dataset list via neuPrint API
+notes: >
+  Dense reconstructions already exist. Prefer import/reuse. Do not merge
+  overlapping specimens (FlyWire/FAFB/hemibrain).
+
+artifacts:
+  flywire_whole_brain:
+    status: FOUND_REMOTE
+    connectivity: FOUND
+    source: "Zenodo 10.5281/zenodo.10676866 (proofread_connections_783.feather ~852MB)"
+    local_import: NOT_YET
+    reason_not_imported: "prefer compact typed subgraphs first; full table optional offline pack"
+  hemibrain:
+    status: FOUND
+    connectivity: FOUND
+    source: "neuPrint hemibrain:v1.2.1"
+    local_packs: ["hemibrain_pen_a_v0.1", "hemibrain_epg_v0.1"]
+  manc:
+    status: FOUND
+    connectivity: FOUND
+    source: "neuPrint manc:v1.2.3"
+    local_packs: ["manc_sample_v0.1"]
+  optic_lobe:
+    status: FOUND
+    connectivity: FOUND
+    source: "neuPrint optic-lobe:v1.1"
+    local_packs: ["optic_lobe_t4_v0.1"]
+  male_cns:
+    status: FOUND_REMOTE
+    source: "neuPrint male-cns:v1.0"
+    local_import: NOT_YET
+  cremi_sample_a:
+    status: FOUND
+    local_packs: ["cremi_sample_a_v0.2"]
+  banc_fanc_fafb:
+    status: FOUND_REMOTE
+    connectivity: LIKELY
+    local_import: NOT_YET
+    notes: BossDB/VFB integration; treat as separate specimens

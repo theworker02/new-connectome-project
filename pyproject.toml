@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "insectome"
+version = "0.4.0"
+description = "Local multi-species insect connectome studio — browse packs by silhouette, zoom into neuron roles"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Insectome contributors" }]
+dependencies = [
+  "numpy>=1.26",
+  "scipy>=1.11",
+  "scikit-image>=0.22",
+  "h5py>=3.10",
+  "pyyaml>=6.0",
+  "pydantic>=2.5",
+  "pandas>=2.1",
+  "networkx>=3.2",
+  "pyarrow>=14.0",
+  "rich>=13.7",
+  "click>=8.1",
+  "huggingface_hub>=0.23",
+  "fastapi>=0.115",
+  "uvicorn[standard]>=0.32",
+  "requests>=2.31",
+]
+
+[project.optional-dependencies]
+bossdb = ["intern>=1.4"]
+neuprint = ["neuprint-python>=0.4"]
+atlas = ["fastapi>=0.115", "uvicorn[standard]>=0.32"]
+dev = ["pytest>=8.0", "ruff>=0.4"]
+
+[project.scripts]
+insectome = "insectome.cli:main"
+connectome = "insectome.cli:connectome_main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["insectome*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

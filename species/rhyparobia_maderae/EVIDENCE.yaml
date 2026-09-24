@@ -1,0 +1,21 @@
+species: Rhyparobia maderae
+common_name: Madeira cockroach
+audit_date: "2026-09-22"
+heinze_2026_paper: "10.64898/2026.02.25.708065"
+
+search_log:
+  - IBdb species id=51: 22 public neurons FOUND
+  - 2026 EM CX volumes: PUBLIC_ARTIFACT_NOT_FOUND in archives
+  - CAVE/synapses: REQUEST_ONLY per paper
+
+artifacts:
+  cellular_em: {status: PUBLIC_ARTIFACT_NOT_FOUND}
+  synaptic_em: {status: PUBLIC_ARTIFACT_NOT_FOUND}
+  skeletons_2026_em: {status: PUBLIC_ARTIFACT_NOT_FOUND}
+  segmentation_cave: {status: REQUEST_ONLY}
+  ibdb_morphologies:
+    status: FOUND
+    count: 22
+    local_pack: rhyparobia_ibdb_morphology_v0.1
+    graph_layer: OBSERVED_MORPHOLOGY
+    synaptic_edges: false

@@ -1,0 +1,17 @@
+species: Bombus terrestris
+common_name: bumblebee
+audit_date: "2026-09-22"
+notes: Prior CX projectome (Sayre et al. 2021) — related Heinze-lab lineage, not one of the six 2026 SBEM volumes.
+
+artifacts:
+  projectome_skeletons:
+    status: FOUND
+    source: "IBdb experiment 61 (EIN-0000061)"
+    local_pack: bombus_terrestris_cx_projectome_v0.1
+    neuron_count: 678
+    graph_layer: OBSERVED_MORPHOLOGY
+    synaptic_edges: false
+  raw_em:
+    status: PUBLIC_ARTIFACT_NOT_FOUND
+  synaptic_connectome:
+    status: PUBLIC_ARTIFACT_NOT_FOUND

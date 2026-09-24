@@ -1,0 +1,29 @@
+{
+  "@type": "neuroglancer_skeletons",
+  "transform": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1
+  ],
+  "vertex_attributes": [
+    {
+      "id": "radius",
+      "data_type": "float32",
+      "num_components": 1
+    }
+  ],
+  "segment_properties": "properties"
+}

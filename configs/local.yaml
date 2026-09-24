@@ -1,0 +1,10 @@
+mode: LOCAL
+description: Zero-storage streaming client — EM stays remote.
+defaults:
+  max_roi_voxels: 512000  # ~80^3
+  cache_soft_limit_gb: 5
+  cache_hard_limit_gb: 10
+  cache_ram_mb: 512
+  reconstruction_workspace_gb: 20
+  allow_full_volume_download: false
+  architecture: zero-storage-streaming

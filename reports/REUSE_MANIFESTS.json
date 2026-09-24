@@ -1,0 +1,857 @@
+[
+  {
+    "dataset_id": "flywire_codex",
+    "species": "Drosophila melanogaster",
+    "processing_level": 0,
+    "reuse_score": 100,
+    "raw_em_available": true,
+    "segmentation_available": true,
+    "segmentation_proofread": true,
+    "skeletons_available": true,
+    "synapses_available": true,
+    "connectivity_available": true,
+    "cell_types_available": true,
+    "meshes_available": true,
+    "annotations_available": true,
+    "neurotransmitters_available": true,
+    "gaps": [
+      {
+        "component": "connectivity",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "synapses",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "segmentation",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "skeletons",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "cell_types",
+        "status": "PARTIAL",
+        "notes": null
+      },
+      {
+        "component": "raw_em",
+        "status": "AVAILABLE_REMOTE",
+        "notes": null
+      },
+      {
+        "component": "neurotransmitters",
+        "status": "PARTIAL",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": false,
+      "synapse_detection": false,
+      "graph_construction": false,
+      "normalization": true,
+      "comparative_mapping": false,
+      "notes": "Prefer import/normalize over reconstruction."
+    },
+    "remote_raw_bytes_estimate": 28587302322176,
+    "local_required_bytes_estimate": 52428800,
+    "offline_pack_bytes_estimate": 314572800,
+    "sources": [
+      "FlyWire / Codex / CAVE"
+    ],
+    "notes": "LEVEL 0 \u2014 reuse complete published connectome; never download full EM."
+  },
+  {
+    "dataset_id": "hemibrain_neuprint",
+    "species": "Drosophila melanogaster",
+    "processing_level": 0,
+    "reuse_score": 100,
+    "raw_em_available": true,
+    "segmentation_available": true,
+    "segmentation_proofread": true,
+    "skeletons_available": true,
+    "synapses_available": true,
+    "connectivity_available": true,
+    "cell_types_available": true,
+    "meshes_available": true,
+    "annotations_available": true,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "connectivity",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "synapses",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "segmentation",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "skeletons",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "cell_types",
+        "status": "PARTIAL",
+        "notes": null
+      },
+      {
+        "component": "raw_em",
+        "status": "AVAILABLE_REMOTE",
+        "notes": null
+      },
+      {
+        "component": "neurotransmitters",
+        "status": "MISSING",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": false,
+      "synapse_detection": false,
+      "graph_construction": false,
+      "normalization": true,
+      "comparative_mapping": false,
+      "notes": "Prefer import/normalize over reconstruction."
+    },
+    "remote_raw_bytes_estimate": 28587302322176,
+    "local_required_bytes_estimate": 52428800,
+    "offline_pack_bytes_estimate": 314572800,
+    "sources": [
+      "neuPrint hemibrain API"
+    ],
+    "notes": "LEVEL 0 \u2014 reuse complete published connectome; never download full EM."
+  },
+  {
+    "dataset_id": "cremi_sample_a",
+    "species": "Drosophila melanogaster",
+    "processing_level": 0,
+    "reuse_score": 92,
+    "raw_em_available": true,
+    "segmentation_available": true,
+    "segmentation_proofread": true,
+    "skeletons_available": false,
+    "synapses_available": true,
+    "connectivity_available": true,
+    "cell_types_available": false,
+    "meshes_available": false,
+    "annotations_available": true,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "connectivity",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "synapses",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "segmentation",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "skeletons",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "cell_types",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "raw_em",
+        "status": "AVAILABLE_REMOTE",
+        "notes": null
+      },
+      {
+        "component": "neurotransmitters",
+        "status": "MISSING",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": false,
+      "synapse_detection": false,
+      "graph_construction": false,
+      "normalization": true,
+      "comparative_mapping": false,
+      "notes": "Prefer import/normalize over reconstruction."
+    },
+    "remote_raw_bytes_estimate": 183500800,
+    "local_required_bytes_estimate": 2097152,
+    "offline_pack_bytes_estimate": 512000,
+    "sources": [
+      "CREMI HDF5 annotations + neuron_ids"
+    ],
+    "notes": "LEVEL 1+: import partner annotations as graph; raw EM optional for evidence only."
+  },
+  {
+    "dataset_id": "cremi_sample_b",
+    "species": "Drosophila melanogaster",
+    "processing_level": 0,
+    "reuse_score": 92,
+    "raw_em_available": true,
+    "segmentation_available": true,
+    "segmentation_proofread": true,
+    "skeletons_available": false,
+    "synapses_available": true,
+    "connectivity_available": true,
+    "cell_types_available": false,
+    "meshes_available": false,
+    "annotations_available": true,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "connectivity",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "synapses",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "segmentation",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "skeletons",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "cell_types",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "raw_em",
+        "status": "AVAILABLE_REMOTE",
+        "notes": null
+      },
+      {
+        "component": "neurotransmitters",
+        "status": "MISSING",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": false,
+      "synapse_detection": false,
+      "graph_construction": false,
+      "normalization": true,
+      "comparative_mapping": false,
+      "notes": "Prefer import/normalize over reconstruction."
+    },
+    "remote_raw_bytes_estimate": 183500800,
+    "local_required_bytes_estimate": 2097152,
+    "offline_pack_bytes_estimate": 512000,
+    "sources": [
+      "CREMI HDF5 annotations + neuron_ids"
+    ],
+    "notes": "LEVEL 1+: import partner annotations as graph; raw EM optional for evidence only."
+  },
+  {
+    "dataset_id": "cremi_sample_c",
+    "species": "Drosophila melanogaster",
+    "processing_level": 0,
+    "reuse_score": 92,
+    "raw_em_available": true,
+    "segmentation_available": true,
+    "segmentation_proofread": true,
+    "skeletons_available": false,
+    "synapses_available": true,
+    "connectivity_available": true,
+    "cell_types_available": false,
+    "meshes_available": false,
+    "annotations_available": true,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "connectivity",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "synapses",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "segmentation",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "skeletons",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "cell_types",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "raw_em",
+        "status": "AVAILABLE_REMOTE",
+        "notes": null
+      },
+      {
+        "component": "neurotransmitters",
+        "status": "MISSING",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": false,
+      "synapse_detection": false,
+      "graph_construction": false,
+      "normalization": true,
+      "comparative_mapping": false,
+      "notes": "Prefer import/normalize over reconstruction."
+    },
+    "remote_raw_bytes_estimate": 183500800,
+    "local_required_bytes_estimate": 2097152,
+    "offline_pack_bytes_estimate": 512000,
+    "sources": [
+      "CREMI HDF5 annotations + neuron_ids"
+    ],
+    "notes": "LEVEL 1+: import partner annotations as graph; raw EM optional for evidence only."
+  },
+  {
+    "dataset_id": "banc_drosophila_2025",
+    "species": "Drosophila melanogaster",
+    "processing_level": 0,
+    "reuse_score": 90,
+    "raw_em_available": true,
+    "segmentation_available": true,
+    "segmentation_proofread": true,
+    "skeletons_available": true,
+    "synapses_available": true,
+    "connectivity_available": true,
+    "cell_types_available": false,
+    "meshes_available": false,
+    "annotations_available": false,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "connectivity",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "synapses",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "segmentation",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "skeletons",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "cell_types",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "raw_em",
+        "status": "AVAILABLE_REMOTE",
+        "notes": null
+      },
+      {
+        "component": "neurotransmitters",
+        "status": "MISSING",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": false,
+      "synapse_detection": false,
+      "graph_construction": false,
+      "normalization": true,
+      "comparative_mapping": false,
+      "notes": "Prefer import/normalize over reconstruction."
+    },
+    "remote_raw_bytes_estimate": 54975581388800,
+    "local_required_bytes_estimate": 104857600,
+    "offline_pack_bytes_estimate": 524288000,
+    "sources": [
+      "BossDB BANC project / publication"
+    ],
+    "notes": "Existing CNS connectome \u2014 reuse/benchmark only; do not re-segment wholesale."
+  },
+  {
+    "dataset_id": "flyem_medulla_training2_gt",
+    "species": "Drosophila melanogaster",
+    "processing_level": 3,
+    "reuse_score": 60,
+    "raw_em_available": true,
+    "segmentation_available": true,
+    "segmentation_proofread": false,
+    "skeletons_available": false,
+    "synapses_available": false,
+    "connectivity_available": false,
+    "cell_types_available": false,
+    "meshes_available": false,
+    "annotations_available": false,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "connectivity",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "synapses",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "segmentation",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "skeletons",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "cell_types",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "raw_em",
+        "status": "AVAILABLE_REMOTE",
+        "notes": null
+      },
+      {
+        "component": "neurotransmitters",
+        "status": "MISSING",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": true,
+      "synapse_detection": true,
+      "graph_construction": true,
+      "normalization": true,
+      "comparative_mapping": false,
+      "notes": "Prefer import/normalize over reconstruction."
+    },
+    "remote_raw_bytes_estimate": null,
+    "local_required_bytes_estimate": null,
+    "offline_pack_bytes_estimate": null,
+    "sources": [
+      "https://doi.org/10.25378/janelia.5519755; neuroproof_examples training_sample2"
+    ],
+    "notes": "Generic registry-derived estimate; verify before compute."
+  },
+  {
+    "dataset_id": "bombus_cx_projectome_sayre2021",
+    "species": "Bombus terrestris",
+    "processing_level": 4,
+    "reuse_score": 50,
+    "raw_em_available": false,
+    "segmentation_available": false,
+    "segmentation_proofread": false,
+    "skeletons_available": true,
+    "synapses_available": false,
+    "connectivity_available": false,
+    "cell_types_available": true,
+    "meshes_available": false,
+    "annotations_available": true,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "connectivity",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "synapses",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "segmentation",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "skeletons",
+        "status": "AVAILABLE",
+        "notes": null
+      },
+      {
+        "component": "cell_types",
+        "status": "PARTIAL",
+        "notes": null
+      },
+      {
+        "component": "raw_em",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "neurotransmitters",
+        "status": "MISSING",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": false,
+      "synapse_detection": true,
+      "graph_construction": true,
+      "normalization": true,
+      "comparative_mapping": false,
+      "notes": "Prefer import/normalize over reconstruction."
+    },
+    "remote_raw_bytes_estimate": null,
+    "local_required_bytes_estimate": 52428800,
+    "offline_pack_bytes_estimate": 52428800,
+    "sources": [
+      "Insect Brain Database projectome"
+    ],
+    "notes": "Morphology/projectome only \u2014 not synaptic connectome."
+  },
+  {
+    "dataset_id": "aedes_antennal_lobe_bao2025",
+    "species": "Aedes aegypti",
+    "processing_level": 6,
+    "reuse_score": 0,
+    "raw_em_available": true,
+    "segmentation_available": false,
+    "segmentation_proofread": false,
+    "skeletons_available": false,
+    "synapses_available": false,
+    "connectivity_available": false,
+    "cell_types_available": false,
+    "meshes_available": false,
+    "annotations_available": false,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "connectivity",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "synapses",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "segmentation",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "skeletons",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "cell_types",
+        "status": "MISSING",
+        "notes": null
+      },
+      {
+        "component": "raw_em",
+        "status": "AVAILABLE_REMOTE",
+        "notes": null
+      },
+      {
+        "component": "neurotransmitters",
+        "status": "MISSING",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": true,
+      "skeletonization": true,
+      "synapse_detection": true,
+      "graph_construction": true,
+      "normalization": true,
+      "comparative_mapping": false,
+      "notes": "Prefer import/normalize over reconstruction."
+    },
+    "remote_raw_bytes_estimate": 5497558138880,
+    "local_required_bytes_estimate": 5242880,
+    "offline_pack_bytes_estimate": null,
+    "sources": [
+      "BossDB bao_alford2025 EM channel; paper reconstruction not verified as public API"
+    ],
+    "notes": "LEVEL 6 raw EM streamable; published circuit exists but reuse channel UNKNOWN."
+  },
+  {
+    "dataset_id": "heinze_cx_army_ant_2026",
+    "species": "Eciton hamatum",
+    "processing_level": 99,
+    "reuse_score": 0,
+    "raw_em_available": false,
+    "segmentation_available": false,
+    "segmentation_proofread": false,
+    "skeletons_available": false,
+    "synapses_available": false,
+    "connectivity_available": false,
+    "cell_types_available": false,
+    "meshes_available": false,
+    "annotations_available": false,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "raw_em",
+        "status": "INACCESSIBLE",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": false,
+      "synapse_detection": false,
+      "graph_construction": false,
+      "normalization": false,
+      "comparative_mapping": false,
+      "notes": "Await public deposit / collaboration access."
+    },
+    "remote_raw_bytes_estimate": null,
+    "local_required_bytes_estimate": null,
+    "offline_pack_bytes_estimate": null,
+    "sources": [
+      "https://doi.org/10.64898/2026.02.25.708065"
+    ],
+    "notes": "No verified public reconstruction products."
+  },
+  {
+    "dataset_id": "heinze_cx_cockroach_2026",
+    "species": "Rhyparobia maderae",
+    "processing_level": 99,
+    "reuse_score": 0,
+    "raw_em_available": false,
+    "segmentation_available": false,
+    "segmentation_proofread": false,
+    "skeletons_available": false,
+    "synapses_available": false,
+    "connectivity_available": false,
+    "cell_types_available": false,
+    "meshes_available": false,
+    "annotations_available": false,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "raw_em",
+        "status": "INACCESSIBLE",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": false,
+      "synapse_detection": false,
+      "graph_construction": false,
+      "normalization": false,
+      "comparative_mapping": false,
+      "notes": "Await public deposit / collaboration access."
+    },
+    "remote_raw_bytes_estimate": null,
+    "local_required_bytes_estimate": null,
+    "offline_pack_bytes_estimate": null,
+    "sources": [
+      "https://doi.org/10.64898/2026.02.25.708065"
+    ],
+    "notes": "No verified public reconstruction products."
+  },
+  {
+    "dataset_id": "heinze_cx_earwig_2026",
+    "species": "Forficula auricularia",
+    "processing_level": 99,
+    "reuse_score": 0,
+    "raw_em_available": false,
+    "segmentation_available": false,
+    "segmentation_proofread": false,
+    "skeletons_available": false,
+    "synapses_available": false,
+    "connectivity_available": false,
+    "cell_types_available": false,
+    "meshes_available": false,
+    "annotations_available": false,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "raw_em",
+        "status": "INACCESSIBLE",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": false,
+      "synapse_detection": false,
+      "graph_construction": false,
+      "normalization": false,
+      "comparative_mapping": false,
+      "notes": "Await public deposit / collaboration access."
+    },
+    "remote_raw_bytes_estimate": null,
+    "local_required_bytes_estimate": null,
+    "offline_pack_bytes_estimate": null,
+    "sources": [
+      "https://doi.org/10.64898/2026.02.25.708065"
+    ],
+    "notes": "No verified public reconstruction products."
+  },
+  {
+    "dataset_id": "heinze_cx_locust_2026",
+    "species": "Schistocerca gregaria",
+    "processing_level": 99,
+    "reuse_score": 0,
+    "raw_em_available": false,
+    "segmentation_available": false,
+    "segmentation_proofread": false,
+    "skeletons_available": false,
+    "synapses_available": false,
+    "connectivity_available": false,
+    "cell_types_available": false,
+    "meshes_available": false,
+    "annotations_available": false,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "raw_em",
+        "status": "INACCESSIBLE",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": false,
+      "synapse_detection": false,
+      "graph_construction": false,
+      "normalization": false,
+      "comparative_mapping": false,
+      "notes": "Await public deposit / collaboration access."
+    },
+    "remote_raw_bytes_estimate": null,
+    "local_required_bytes_estimate": null,
+    "offline_pack_bytes_estimate": null,
+    "sources": [
+      "https://doi.org/10.64898/2026.02.25.708065"
+    ],
+    "notes": "No verified public reconstruction products."
+  },
+  {
+    "dataset_id": "heinze_cx_mantis_2026",
+    "species": "Sphodromantis lineola",
+    "processing_level": 99,
+    "reuse_score": 0,
+    "raw_em_available": false,
+    "segmentation_available": false,
+    "segmentation_proofread": false,
+    "skeletons_available": false,
+    "synapses_available": false,
+    "connectivity_available": false,
+    "cell_types_available": false,
+    "meshes_available": false,
+    "annotations_available": false,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "raw_em",
+        "status": "INACCESSIBLE",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": false,
+      "synapse_detection": false,
+      "graph_construction": false,
+      "normalization": false,
+      "comparative_mapping": false,
+      "notes": "Await public deposit / collaboration access."
+    },
+    "remote_raw_bytes_estimate": null,
+    "local_required_bytes_estimate": null,
+    "offline_pack_bytes_estimate": null,
+    "sources": [
+      "https://doi.org/10.64898/2026.02.25.708065"
+    ],
+    "notes": "No verified public reconstruction products."
+  },
+  {
+    "dataset_id": "heinze_cx_sweat_bee_2026",
+    "species": "Megalopta genalis",
+    "processing_level": 99,
+    "reuse_score": 0,
+    "raw_em_available": false,
+    "segmentation_available": false,
+    "segmentation_proofread": false,
+    "skeletons_available": false,
+    "synapses_available": false,
+    "connectivity_available": false,
+    "cell_types_available": false,
+    "meshes_available": false,
+    "annotations_available": false,
+    "neurotransmitters_available": false,
+    "gaps": [
+      {
+        "component": "raw_em",
+        "status": "INACCESSIBLE",
+        "notes": null
+      }
+    ],
+    "required_new_work": {
+      "segmentation": false,
+      "skeletonization": false,
+      "synapse_detection": false,
+      "graph_construction": false,
+      "normalization": false,
+      "comparative_mapping": false,
+      "notes": "Await public deposit / collaboration access."
+    },
+    "remote_raw_bytes_estimate": null,
+    "local_required_bytes_estimate": null,
+    "offline_pack_bytes_estimate": null,
+    "sources": [
+      "https://doi.org/10.64898/2026.02.25.708065"
+    ],
+    "notes": "No verified public reconstruction products."
+  }
+]

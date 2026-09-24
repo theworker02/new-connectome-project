@@ -1,0 +1,93 @@
+{
+  "connectome_id": "cremi_sample_a_v0.2",
+  "title": "Insectome \u2014 cremi_sample_a_v0.2",
+  "dimensions": {
+    "x": [
+      8e-09,
+      "m"
+    ],
+    "y": [
+      8e-09,
+      "m"
+    ],
+    "z": [
+      8e-09,
+      "m"
+    ]
+  },
+  "position": [
+    3364.1478431338355,
+    2185.616576131185,
+    2465.9157391502745
+  ],
+  "layers": [
+    {
+      "type": "segmentation",
+      "name": "neurons",
+      "source": "insectome://skeletons/cremi_sample_a_v0.2",
+      "segments": [
+        "894",
+        "1039",
+        "1052",
+        "1071",
+        "1322",
+        "1377",
+        "2012",
+        "2150",
+        "2170",
+        "2640",
+        "2989",
+        "3307",
+        "4077",
+        "4447",
+        "4944",
+        "5079",
+        "5092",
+        "5171",
+        "5234",
+        "5632",
+        "5783",
+        "6586",
+        "6859",
+        "7019",
+        "7324",
+        "7491",
+        "7926",
+        "8048",
+        "8071",
+        "8494",
+        "8752",
+        "9141",
+        "9402",
+        "9588",
+        "9627",
+        "9722",
+        "9868",
+        "9942",
+        "9988",
+        "10332",
+        "10346",
+        "10944",
+        "11244",
+        "11315",
+        "11350",
+        "11562",
+        "11715",
+        "11901",
+        "12182",
+        "12220"
+      ]
+    }
+  ],
+  "layout": "4panel",
+  "notes": "Skeleton/annotation export for Neuroglancer-compatible hosting. Raw EM precomputed volumes are not included (remote-only policy).",
+  "manifest_coverage": {
+    "region": "CREMI sample A partial volume",
+    "claim": "PARTIAL_VOLUME / LOCAL_SYNAPTIC_CONNECTOME",
+    "labels": [
+      "SYNAPTIC_CONNECTOME",
+      "PARTIAL_RECONSTRUCTION"
+    ]
+  },
+  "how_to_host": "Serve data/neuroglancer/<id> over HTTP and open the JSON skeletons in the Insectome atlas, or convert to sharded precomputed with cloudvolume/tensorstore when EM access exists."
+}

@@ -1,0 +1,17 @@
+species: Sphodromantis lineola
+common_name: African praying mantis
+audit_date: "2026-09-22"
+heinze_2026_paper: "10.64898/2026.02.25.708065"
+
+search_log:
+  - IBdb species list: no Sphodromantis lineola entry found
+  - EMPIAR/BossDB/Zenodo: PUBLIC_ARTIFACT_NOT_FOUND
+  - Data availability: skeletons to IBdb upon publication; CAVE upon request
+
+artifacts:
+  cellular_em: {status: PUBLIC_ARTIFACT_NOT_FOUND}
+  synaptic_em: {status: PUBLIC_ARTIFACT_NOT_FOUND}
+  skeletons_2026: {status: PUBLIC_ARTIFACT_NOT_FOUND}
+  segmentation_cave: {status: REQUEST_ONLY}
+  synapses: {status: REQUEST_ONLY}
+  connectivity: {status: PUBLIC_ARTIFACT_NOT_FOUND}

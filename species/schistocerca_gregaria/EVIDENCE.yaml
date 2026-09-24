@@ -1,0 +1,21 @@
+species: Schistocerca gregaria
+common_name: desert locust
+audit_date: "2026-09-22"
+heinze_2026_paper: "10.64898/2026.02.25.708065"
+
+search_log:
+  - IBdb species id=9: 60 public neurons FOUND
+  - 2026 EM CX volumes: not in public archives
+  - Data availability: skeletons intended for IBdb; CAVE request-only
+
+artifacts:
+  cellular_em: {status: PUBLIC_ARTIFACT_NOT_FOUND, resolution_nm: "40-50 (paper)"}
+  synaptic_em: {status: PUBLIC_ARTIFACT_NOT_FOUND, resolution_nm: "8-12 (paper)"}
+  skeletons_2026_em: {status: PUBLIC_ARTIFACT_NOT_FOUND}
+  segmentation_cave: {status: REQUEST_ONLY}
+  ibdb_morphologies:
+    status: FOUND
+    count: 60
+    local_pack: schistocerca_ibdb_morphology_v0.1
+    graph_layer: OBSERVED_MORPHOLOGY
+    synaptic_edges: false

@@ -1,0 +1,95 @@
+{
+  "connectome_id": "hemibrain_epg_v0.1",
+  "title": "Insectome \u2014 hemibrain_epg_v0.1",
+  "dimensions": {
+    "x": [
+      8e-09,
+      "m"
+    ],
+    "y": [
+      8e-09,
+      "m"
+    ],
+    "z": [
+      8e-09,
+      "m"
+    ]
+  },
+  "position": [
+    24857.80392578125,
+    16866.86291015625,
+    11978.957978515626
+  ],
+  "layers": [
+    {
+      "type": "segmentation",
+      "name": "neurons",
+      "source": "insectome://skeletons/hemibrain_epg_v0.1",
+      "segments": [
+        "387364605",
+        "416642425",
+        "449438847",
+        "478375456",
+        "541118908",
+        "541870397",
+        "572870540",
+        "632544268",
+        "633546217",
+        "634962055",
+        "665314820",
+        "694920753",
+        "695629525",
+        "695956656",
+        "696362840",
+        "697001770",
+        "725951521",
+        "758419409",
+        "788794171",
+        "789126240",
+        "819828986",
+        "910438331",
+        "912545106",
+        "912601268",
+        "941132434",
+        "942491983",
+        "1002507159",
+        "1002852791",
+        "1004017998",
+        "1034219901",
+        "1035045015",
+        "1065410141",
+        "1125964814",
+        "1126647624",
+        "1127476096",
+        "1167995070",
+        "1168659995",
+        "1168660239",
+        "1168664447",
+        "1168664495",
+        "1219069439",
+        "1447576662",
+        "5813012006",
+        "5813014873",
+        "5813022281",
+        "5813027103",
+        "5813040233",
+        "5813061251",
+        "5813077544",
+        "5813080838"
+      ]
+    }
+  ],
+  "layout": "4panel",
+  "notes": "Skeleton/annotation export for Neuroglancer-compatible hosting. Raw EM precomputed volumes are not included (remote-only policy).",
+  "manifest_coverage": {
+    "region": "central complex / ellipsoid body\u2013protocerebral bridge (EPG)",
+    "claim": "LOCAL_SYNAPTIC_CONNECTOME",
+    "labels": [
+      "SYNAPTIC_CONNECTOME",
+      "HIGH_CONFIDENCE_RECONSTRUCTION",
+      "PARTIAL_RECONSTRUCTION"
+    ],
+    "notes": "Typed EPG subgraph of hemibrain \u2014 not whole-brain"
+  },
+  "how_to_host": "Serve data/neuroglancer/<id> over HTTP and open the JSON skeletons in the Insectome atlas, or convert to sharded precomputed with cloudvolume/tensorstore when EM access exists."
+}
