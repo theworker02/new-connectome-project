@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="docs/assets/insectome-logo.svg" alt="Insectome" width="560"/>
+  <img src="docs/assets/insectome-logo.svg" alt="Bug Connectome Project — Insectome" width="620"/>
 </p>
 
-<h1 align="center">Insectome</h1>
+<h1 align="center">Bug Connectome Project</h1>
 
 <p align="center">
-  <strong>Local multi-species insect connectome studio</strong><br/>
+  <strong>Insectome</strong> — local multi-species insect connectome studio<br/>
   Browse real reconstructions by silhouette and cell class · zoom into neuron roles · keep EM remote
 </p>
 
 <p align="center">
+  <a href="https://github.com/theworker02/bug-connectome-project"><img src="https://img.shields.io/badge/project-Bug_Connectome-1a6f5f?style=for-the-badge" alt="Bug Connectome"/></a>
   <a href="https://theworker02.github.io/new-connectome-project/"><img src="https://img.shields.io/badge/Live_demo-GitHub_Pages-2fbfa4?style=for-the-badge&logo=github" alt="Live demo"/></a>
   <a href="https://github.com/theworker02/new-connectome-project/actions/workflows/pages.yml"><img src="https://img.shields.io/github/actions/workflow/status/theworker02/new-connectome-project/pages.yml?branch=main&style=for-the-badge&label=Pages%20CI" alt="Pages CI"/></a>
 </p>
@@ -22,17 +23,32 @@
   <img src="https://img.shields.io/badge/EM-streaming%20%2F%20remote-5ec8ff?style=flat-square" alt="EM remote"/>
   <img src="https://img.shields.io/badge/packs-12%20local-2fbfa4?style=flat-square" alt="packs"/>
   <img src="https://img.shields.io/badge/neurons-~37.8k%20catalogued-7f9589?style=flat-square" alt="neurons"/>
+  <a href="CITATION.cff"><img src="https://img.shields.io/badge/citation-CITATION.cff-8aa396?style=flat-square" alt="citation"/></a>
 </p>
 
 <p align="center">
+  <a href="acquisition.md">Acquisition</a> ·
   <a href="#quick-start">Quick start</a> ·
   <a href="#live-site">Live site</a> ·
   <a href="#what-insectome-is">What it is</a> ·
   <a href="#what-it-includes">What it includes</a> ·
   <a href="#acquisition-ready">Acquisition-ready</a> ·
   <a href="#studio--cli">Studio &amp; CLI</a> ·
-  <a href="#documentation">Docs</a>
+  <a href="#documentation">Docs</a> ·
+  <a href="#citation--funding">Cite</a>
 </p>
+
+---
+
+## Project identity
+
+| Name | Role |
+|---|---|
+| **[Bug Connectome Project](https://github.com/theworker02/bug-connectome-project)** | Public project identity |
+| **Insectome** (`new-connectome-project`) | Implementation: CLI, studio, Pages, autonomy |
+| **Live studio** | [GitHub Pages demo](https://theworker02.github.io/new-connectome-project/) |
+
+New users: start at **[acquisition.md](acquisition.md)**.
 
 ---
 
@@ -430,7 +446,17 @@ Issues and PRs welcome on [GitHub](https://github.com/theworker02/new-connectome
 
 ## Citation & funding
 
-If Insectome helps your work, please cite the **upstream connectome / morphology sources** you actually used (hemibrain, MANC, optic lobe, CREMI, Sayre Bombus CX, IBdb entries, etc.), and link this repository for the studio software.
+Use **[CITATION.cff](CITATION.cff)** (GitHub → *Cite this repository*). Cite **upstream connectome / morphology sources** for science; cite this software for the studio.
+
+```bibtex
+@software{bug_connectome_insectome,
+  title  = {Bug Connectome Project (Insectome)},
+  version = {0.4.0},
+  year   = {2026},
+  url    = {https://github.com/theworker02/new-connectome-project},
+  note   = {Studio/tooling only — cite upstream datasets separately.}
+}
+```
 
 Sponsorship / thanks:
 
@@ -446,6 +472,6 @@ Sponsorship / thanks:
 ---
 
 <p align="center">
-  <img src="docs/assets/insectome-mark.svg" width="72" alt="Insectome mark"/><br/>
-  <sub>Reuse first · Stream EM · Stay honest</sub>
+  <img src="docs/assets/insectome-mark.svg" width="64" alt="Bug Connectome mark"/><br/>
+  <sub>Bug Connectome Project · Reuse first · Stream EM · Stay honest</sub>
 </p>

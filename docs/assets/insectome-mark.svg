@@ -1,17 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Insectome mark">
-  <rect width="128" height="128" rx="28" fill="#060a08"/>
-  <g transform="translate(14,14)" fill="none" stroke="#2fbfa4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="50" cy="50" r="13" fill="#0d1512"/>
-    <path d="M50 18 C38 6 16 12 12 30"/>
-    <path d="M50 18 C62 4 86 14 88 32"/>
-    <path d="M18 56 C4 68 8 96 26 102"/>
-    <path d="M82 56 C98 70 96 98 76 104"/>
-    <path d="M38 76 C26 98 34 118 52 122"/>
-    <path d="M62 76 C76 98 70 118 50 124"/>
-    <circle cx="12" cy="30" r="4.5" fill="#2fbfa4" stroke="none"/>
-    <circle cx="88" cy="32" r="4.5" fill="#2fbfa4" stroke="none"/>
-    <circle cx="26" cy="102" r="4.5" fill="#e0b45a" stroke="none"/>
-    <circle cx="76" cy="104" r="4.5" fill="#e0b45a" stroke="none"/>
-    <circle cx="50" cy="122" r="4.5" fill="#5ec8ff" stroke="none"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Bug Connectome">
+  <rect width="128" height="128" rx="24" fill="#070b09"/>
+  <g transform="translate(28,32)" stroke="#3dceb4" stroke-width="3" fill="none" stroke-linecap="round">
+    <circle cx="28" cy="28" r="9" fill="#0c1512"/>
+    <circle cx="72" cy="16" r="6" fill="#0c1512"/>
+    <circle cx="66" cy="68" r="6" fill="#0c1512"/>
+    <path d="M36 24 L66 18"/>
+    <path d="M35 34 L62 64"/>
+    <path d="M72 24 L68 60" stroke-opacity="0.4"/>
   </g>
 </svg>
