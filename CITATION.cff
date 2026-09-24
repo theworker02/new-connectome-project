@@ -7,7 +7,7 @@ message: >-
 type: software
 authors:
   - name: "Bug Connectome Project contributors"
-    website: "https://github.com/theworker02/bug-connectome-project"
+    website: "https://github.com/theworker02"
 repository-code: "https://github.com/theworker02/new-connectome-project"
 url: "https://theworker02.github.io/new-connectome-project/"
 abstract: >-
@@ -31,11 +31,8 @@ version: "0.4.0"
 date-released: "2026-09-24"
 identifiers:
   - type: url
-    value: "https://github.com/theworker02/bug-connectome-project"
-    description: Bug Connectome Project identity
-  - type: url
     value: "https://github.com/theworker02/new-connectome-project"
-    description: Insectome implementation repository
+    description: Bug Connectome Project / Insectome implementation repository
 preferred-citation:
   type: software
   authors:

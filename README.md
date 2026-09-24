@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/theworker02/bug-connectome-project"><img src="https://img.shields.io/badge/project-Bug_Connectome-1a6f5f?style=for-the-badge" alt="Bug Connectome"/></a>
+  <a href="https://github.com/theworker02/new-connectome-project"><img src="https://img.shields.io/badge/project-Bug_Connectome-1a6f5f?style=for-the-badge" alt="Bug Connectome"/></a>
   <a href="https://theworker02.github.io/new-connectome-project/"><img src="https://img.shields.io/badge/Live_demo-GitHub_Pages-2fbfa4?style=for-the-badge&logo=github" alt="Live demo"/></a>
   <a href="https://github.com/theworker02/new-connectome-project/actions/workflows/pages.yml"><img src="https://img.shields.io/github/actions/workflow/status/theworker02/new-connectome-project/pages.yml?branch=main&style=for-the-badge&label=Pages%20CI" alt="Pages CI"/></a>
 </p>
@@ -44,8 +44,8 @@
 
 | Name | Role |
 |---|---|
-| **[Bug Connectome Project](https://github.com/theworker02/bug-connectome-project)** | Public project identity |
-| **Insectome** (`new-connectome-project`) | Implementation: CLI, studio, Pages, autonomy |
+| **Bug Connectome Project** | Public project name |
+| **Insectome** (`new-connectome-project`) | This repository: CLI, studio, Pages, autonomy |
 | **Live studio** | [GitHub Pages demo](https://theworker02.github.io/new-connectome-project/) |
 
 New users: start at **[acquisition.md](acquisition.md)**.

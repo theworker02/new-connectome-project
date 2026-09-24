@@ -1,8 +1,7 @@
 # Acquisition
 
 **Bug Connectome Project** ships as the **Insectome** studio in this repository  
-([`new-connectome-project`](https://github.com/theworker02/new-connectome-project)), with project identity also at  
-[`bug-connectome-project`](https://github.com/theworker02/bug-connectome-project).
+([`new-connectome-project`](https://github.com/theworker02/new-connectome-project)).
 
 This page is the short acquisition path: clone → install → browse packs.  
 For philosophy, pack inventory, and architecture see the root [README](README.md).
