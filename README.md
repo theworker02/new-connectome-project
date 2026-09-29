@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="docs/logo.svg" alt="new-connectome-project official logo" width="128" height="128">
+</p>
+
+<p align="center">
   <img src="docs/assets/insectome-logo.svg" alt="Bug Connectome Project — Insectome" width="620"/>
 </p>
 
@@ -488,3 +492,7 @@ Sponsorship / thanks:
 | pages enabled | Site intended at `https://theworker02.github.io/new-connectome-project/` |
 
 Detailed narrative for the stable line lives in [CHANGELOG.md](./CHANGELOG.md) and the [v1.0.0 GitHub Release](https://github.com/theworker02/new-connectome-project/releases/tag/v1.0.0).
+
+## Acquisition
+
+See [ACQUISITION.md](./ACQUISITION.md) for the diligence-oriented product brief, asset map, and commercial posture notes.
