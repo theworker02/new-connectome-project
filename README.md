@@ -475,3 +475,16 @@ Sponsorship / thanks:
   <img src="docs/assets/insectome-mark.svg" width="64" alt="Bug Connectome mark"/><br/>
   <sub>Bug Connectome Project · Reuse first · Stream EM · Stay honest</sub>
 </p>
+
+## Badges & release notes
+
+| Badge | Meaning |
+| --- | --- |
+| docs live | Public documentation / Pages surface for `new-connectome-project` |
+| release v1.0.0 | Stable tagged release with narrative notes |
+| license | See repository `LICENSE` for terms |
+| status maintained | Actively kept in the @theworker02 portfolio |
+| version 1.0.0 | Documentation and brand completeness milestone |
+| pages enabled | Site intended at `https://theworker02.github.io/new-connectome-project/` |
+
+Detailed narrative for the stable line lives in [CHANGELOG.md](./CHANGELOG.md) and the [v1.0.0 GitHub Release](https://github.com/theworker02/new-connectome-project/releases/tag/v1.0.0).
